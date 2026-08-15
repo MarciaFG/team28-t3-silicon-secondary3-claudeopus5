@@ -129,7 +129,7 @@ write_zenodo <- function(root = ".") {
   zp <- file.path(root, ".zenodo.json")
   z  <- build_zenodo(root)
   write_json(z, zp, auto_unbox = TRUE, pretty = TRUE)
-  message("zenodo_citation: wrote .zenodo.json (Tier ", z$version, ", ", length(z$creators),
+  message("zenodo_citation: wrote .zenodo.json (version ", z$version, ", ", length(z$creators),
           " creator(s)) from metadata.json. Review the ORCIDs before depositing.")
   invisible(z)
 }

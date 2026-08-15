@@ -41,6 +41,21 @@ test set, which is why missing cells are not accepted anywhere.
 Mirror the survey: each control respondent is randomly assigned *one* of the three (neckties /
 baseball / dances). All three map to the single condition label `control`.
 
+**Where does my `team_id` come from?**
+It is assigned by the organizers: every registered team received its ID (`team_N`) by email in the
+team status update of August 15, 2026. Use it exactly as received, in `metadata.json` and in the
+prediction file names. Don't invent one — the self-check cannot know your assigned ID, so a wrong
+one passes `make check` but breaks the link to your registration. If you are unsure which ID is
+yours, email us before depositing.
+
+**When exactly should we deposit, and what goes in the deposit email?**
+Publish your release within the deposit window, **August 28–31, 2026**. Zenodo deposits are public
+from the moment they are published, and the shared late window keeps any team's predictions from
+being public while others are still working. The deposit email then carries: all your deposit DOIs,
+the SHA-256 fingerprints of your prediction files, a note saying which entry is your team's
+`primary`, and your team's signed exposure declaration (the form linked in the team status update
+email — one per team).
+
 **How many entries can we submit?**
 At most three per tier per team (up to nine total). Every entry enters all main analyses (the
 cross-team field statistics and the leaderboard); the per-tier cap limits how much any single team
@@ -48,7 +63,7 @@ can shape the field distribution. If there are good reasons to systematically va
 an approach, we may grant more entries on request, but only three per tier enter the main analyses.
 Mark exactly one entry — across all tiers — `primary`: a robustness analysis reruns the main
 results on primary entries only, one per team. In figures and the leaderboard, entries appear under
-neutral submission labels, with an appendix table mapping each label to its team. The most useful
+neutral submission labels, with a table mapping each label to its team. The most useful
 extra entries vary one factor and hold the rest fixed.
 
 **Is there a minimum number of synthetic respondents (Tier 1)?**
