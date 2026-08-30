@@ -1,0 +1,63 @@
+{
+  "condition": "High public trust",
+  "run": 2,
+  "timestamp": "2026-08-30T17:38:13.007Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLfrRPD9jQ2TgM6rRJg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention uses a slider to elicit people's estimate of public trust before revealing the true, typically higher figure—leveraging pluralistic ignorance correction, which research suggests can modestly shift beliefs, though the effect here is indirect since it targets perceived public trust rather than one's own.\n\nI'm estimating moderate positive effects across outcomes: trust measures rising by roughly 1.2-1.6 points, distrust dropping around -1.0, and smaller but positive movement on policy support, institutional trust, and general concern (0.4-0.9 range). Behavioral measures like donations and newsletter signups should barely budge, given the weak mechanistic link between a norm-correction about scientists' trust and actual behavior change.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a second-order-belief (descriptive social norm) correction with interactive elicitation: respondents guess what share of Americans trust climate scientists (typical guesses cluster near 45–55%) and are then told the true figure is 76%. Because most people underestimate public trust, the feedback is genuinely counter-expectational, and the active-guess format increases salience — features that predict above-median performance among norm-based arms. However, the mechanism is indirect for personal trust (it conveys that others trust scientists rather than new evidence about scientists' competence or integrity), so I place it moderately, slightly above the arm average on the primary trust battery (~+1.6) but not near the top. The re-asked single items (trust_post, belief_post) are anchored by their pre-treatment measurement, so I shrink them relative to the fresh multidimensional battery, and distrust moves less than trust (asymmetric, floor-limited). Downstream outcomes — funding, scientists' policy role, institutional trust, belief, concern, policy support — get sub-point effects that decay with distance from the targeted construct, and incentivized behaviors get near-zero effects (a few cents on the donation, under a percentage point on newsletter sign-up), consistent with megastudy findings that attitude shifts rarely translate into costly action.\", \"ates\": {\"trust_multidimensional\": 1.6, \"trust_post\": 1.25, \"distrust_post\": -0.95, \"funding_perceptions\": 0.5, \"policy_role_mean\": 0.85, \"inst_trust_mean\": 0.72, \"belief_post\": 0.45, \"concern_mean\": 0.5, \"policy_general\": 0.55, \"policy_specific_mean\": 0.38, \"behavior_mean\": 0.28, \"donation_ams\": 0.04, \"newsletter_signup\": 0.007}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 421,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1239,
+      "output_tokens_details": {
+        "thinking_tokens": 627
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a second-order-belief (descriptive social norm) correction with interactive elicitation: respondents guess what share of Americans trust climate scientists (typical guesses cluster near 45–55%) and are then told the true figure is 76%. Because most people underestimate public trust, the feedback is genuinely counter-expectational, and the active-guess format increases salience — features that predict above-median performance among norm-based arms. However, the mechanism is indirect for personal trust (it conveys that others trust scientists rather than new evidence about scientists' competence or integrity), so I place it moderately, slightly above the arm average on the primary trust battery (~+1.6) but not near the top. The re-asked single items (trust_post, belief_post) are anchored by their pre-treatment measurement, so I shrink them relative to the fresh multidimensional battery, and distrust moves less than trust (asymmetric, floor-limited). Downstream outcomes — funding, scientists' policy role, institutional trust, belief, concern, policy support — get sub-point effects that decay with distance from the targeted construct, and incentivized behaviors get near-zero effects (a few cents on the donation, under a percentage point on newsletter sign-up), consistent with megastudy findings that attitude shifts rarely translate into costly action.",
+      "ates": {
+        "trust_multidimensional": 1.6,
+        "trust_post": 1.25,
+        "distrust_post": -0.95,
+        "funding_perceptions": 0.5,
+        "policy_role_mean": 0.85,
+        "inst_trust_mean": 0.72,
+        "belief_post": 0.45,
+        "concern_mean": 0.5,
+        "policy_general": 0.55,
+        "policy_specific_mean": 0.38,
+        "behavior_mean": 0.28,
+        "donation_ams": 0.04,
+        "newsletter_signup": 0.007
+      }
+    }
+  }
+}

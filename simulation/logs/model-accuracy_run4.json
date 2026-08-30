@@ -1,0 +1,63 @@
+{
+  "condition": "Model accuracy",
+  "run": 4,
+  "timestamp": "2026-08-30T17:39:13.108Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLkKSSyuDjfQmLRbf2i",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention directly targets the competence dimension of trust by citing model accuracy and track record, countering the common skeptic claim that models can't predict well. It's dry but concrete, uses real numbers, and even acknowledges imperfections, which could actually boost perceived integrity—though naming the criticism explicitly carries a small risk of raising doubt salience before the rebuttal lands.\n\nI'm now working out estimates across the full outcome battery: trust_multidimensional around 2.3-2.4 given the strong competence framing, trust_post near 1.7, distrust dropping to about -1.4, funding perceptions up around 1.0, and smaller but still positive effects on policy role, institutional trust, belief in human-caused climate change, concern, general and specific policy support, and behavior—each successively more diluted since they're further from the intervention's direct focus. Donation and newsletter signup effects would be marginal given the model-accuracy framing doesn't map neatly onto action items.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm delivers a concrete, evidence-based rebuttal to one of the most common skeptic criticisms — that climate models can't predict the future — using a credible source (Science) and a verifiable 50-year track record, plus a candid acknowledgment of where models were off. That candor should boost the competence subscale most strongly and also integrity/openness (transparency about limits), making it a mechanistically strong, counter-attitudinal correction and therefore above the median trust arm (~+2.3 on the fresh multidimensional battery). It is expository rather than narrative and briefly reactivates the criticism it rebuts, which caps the upside. Re-asked single items (trust_post, belief_post) are shrunk by within-survey anchoring, so I set them well below the primary battery. Downstream outcomes follow a decaying ladder: model validity implies the science works (small belief bump), some support for research funding, weaker effects on scientists' policy role and institutional trust (diluted by the federal-government item), and sub-point effects on concern, policy, and intentions. Incentivized behaviors get near-zero effects, with the AMS donation slightly favored because the message is about meteorological forecasting accuracy.\",\"ates\":{\"trust_multidimensional\":2.3,\"trust_post\":1.7,\"distrust_post\":-1.35,\"funding_perceptions\":1.0,\"policy_role_mean\":0.8,\"inst_trust_mean\":0.75,\"belief_post\":1.1,\"concern_mean\":0.65,\"policy_general\":0.5,\"policy_specific_mean\":0.4,\"behavior_mean\":0.28,\"donation_ams\":0.055,\"newsletter_signup\":0.007}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 894,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1219,
+      "output_tokens_details": {
+        "thinking_tokens": 656
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm delivers a concrete, evidence-based rebuttal to one of the most common skeptic criticisms — that climate models can't predict the future — using a credible source (Science) and a verifiable 50-year track record, plus a candid acknowledgment of where models were off. That candor should boost the competence subscale most strongly and also integrity/openness (transparency about limits), making it a mechanistically strong, counter-attitudinal correction and therefore above the median trust arm (~+2.3 on the fresh multidimensional battery). It is expository rather than narrative and briefly reactivates the criticism it rebuts, which caps the upside. Re-asked single items (trust_post, belief_post) are shrunk by within-survey anchoring, so I set them well below the primary battery. Downstream outcomes follow a decaying ladder: model validity implies the science works (small belief bump), some support for research funding, weaker effects on scientists' policy role and institutional trust (diluted by the federal-government item), and sub-point effects on concern, policy, and intentions. Incentivized behaviors get near-zero effects, with the AMS donation slightly favored because the message is about meteorological forecasting accuracy.",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.7,
+        "distrust_post": -1.35,
+        "funding_perceptions": 1,
+        "policy_role_mean": 0.8,
+        "inst_trust_mean": 0.75,
+        "belief_post": 1.1,
+        "concern_mean": 0.65,
+        "policy_general": 0.5,
+        "policy_specific_mean": 0.4,
+        "behavior_mean": 0.28,
+        "donation_ams": 0.055,
+        "newsletter_signup": 0.007
+      }
+    }
+  }
+}

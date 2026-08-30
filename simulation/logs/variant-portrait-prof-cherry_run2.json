@@ -1,0 +1,64 @@
+{
+  "condition": "Portrait Prof. Cherry",
+  "run": 2,
+  "timestamp": "2026-08-30T18:20:03.299Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZProGY6yFSYU2uwb2va",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This looks like a humanizing \"portrait of a scientist\" intervention, which typically nudges trust modestly, especially on benevolence and integrity, maybe a couple points on the primary trust measure with smaller downstream effects. I'm also noting the control condition is unrelated filler, so exposure to any climate content could itself introduce a slight priming effect relative to prior humanizing-scientist studies.\n\nThis particular scientist's story emphasizes practical community work around water, land use, and relatable identity markers like football and place, which could appeal broadly and drive a modest trust boost. I'm estimating small positive shifts across the trust and downstream outcomes -- roughly a couple points on trust measures, smaller effects on distrust, funding perceptions, and institutional trust, and slightly larger movement on the policy-role measure since the text explicitly discusses working with policymakers. Belief, concern, and policy outcomes get more modest bumps since portrait-style messaging tends to be weaker than fact-based consensus messaging, though behavioral and donation measures would likely shift only marginally.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This is a humanizing 'portrait' intervention: it presents a relatable climate scientist (football, Rockies, Wyoming, community water/land issues) whose work is practical and used by decision-makers, with the 'reveal' that he is a climate scientist. Such narrative exemplars mainly shift perceptions of benevolence/integrity and the sense that scientists are ordinary, useful people, so I expect a small-to-modest positive effect on the multidimensional trust battery (~2 points on 0–100), with a smaller effect on the single-item trust measure because respondents anchor on their pre-treatment answer, and a slightly smaller-in-magnitude negative effect on distrust (distrust is stickier and more identity-linked). Because the text explicitly frames the scientist as informing policymakers and institutions, policy_role_mean should be among the more responsive secondary outcomes. Downstream outcomes (belief, concern, policy support, behavior, funding) are only indirectly targeted — the text contains no factual/consensus or threat content — so I expect effects under ~1 point, partly driven by mere climate salience relative to off-topic filler; belief_post is additionally anchored by the pre-measure. Incentivized behaviors (real dollars donated, real newsletter signup) are notoriously insensitive to a single 1–3 minute read, so I forecast a few cents and well under one percentage point, respectively.\",\"ates\":{\"trust_multidimensional\":2.1,\"trust_post\":1.5,\"distrust_post\":-1.0,\"funding_perceptions\":0.8,\"policy_role_mean\":1.9,\"inst_trust_mean\":0.9,\"belief_post\":0.6,\"concern_mean\":0.9,\"policy_general\":0.9,\"policy_specific_mean\":0.9,\"behavior_mean\":0.7,\"donation_ams\":0.06,\"newsletter_signup\":0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 689,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1390,
+      "output_tokens_details": {
+        "thinking_tokens": 754
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This is a humanizing 'portrait' intervention: it presents a relatable climate scientist (football, Rockies, Wyoming, community water/land issues) whose work is practical and used by decision-makers, with the 'reveal' that he is a climate scientist. Such narrative exemplars mainly shift perceptions of benevolence/integrity and the sense that scientists are ordinary, useful people, so I expect a small-to-modest positive effect on the multidimensional trust battery (~2 points on 0–100), with a smaller effect on the single-item trust measure because respondents anchor on their pre-treatment answer, and a slightly smaller-in-magnitude negative effect on distrust (distrust is stickier and more identity-linked). Because the text explicitly frames the scientist as informing policymakers and institutions, policy_role_mean should be among the more responsive secondary outcomes. Downstream outcomes (belief, concern, policy support, behavior, funding) are only indirectly targeted — the text contains no factual/consensus or threat content — so I expect effects under ~1 point, partly driven by mere climate salience relative to off-topic filler; belief_post is additionally anchored by the pre-measure. Incentivized behaviors (real dollars donated, real newsletter signup) are notoriously insensitive to a single 1–3 minute read, so I forecast a few cents and well under one percentage point, respectively.",
+      "ates": {
+        "trust_multidimensional": 2.1,
+        "trust_post": 1.5,
+        "distrust_post": -1,
+        "funding_perceptions": 0.8,
+        "policy_role_mean": 1.9,
+        "inst_trust_mean": 0.9,
+        "belief_post": 0.6,
+        "concern_mean": 0.9,
+        "policy_general": 0.9,
+        "policy_specific_mean": 0.9,
+        "behavior_mean": 0.7,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

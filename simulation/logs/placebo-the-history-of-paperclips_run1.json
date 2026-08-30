@@ -1,0 +1,63 @@
+{
+  "condition": "placebo: The History of Paperclips",
+  "run": 1,
+  "timestamp": "2026-08-30T17:46:37.586Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZMKRqLkXvAhPqn31Zoc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "Since this is a placebo/filler arm, I expect the effects to be essentially null with just small noise around zero — trust measures around 0.05-0.1, funding perceptions slightly negative around -0.12, and belief shifts near -0.07, all small enough to look like statistical noise rather than a real effect.\n\n",
+        "signature": "CAIS/QYKjgEIERgCKkA405sm4SqkhcwrpPS4q+9Sf9b7Wj+xSPuy9hlLlQFqVF4oa7Bvf1Ih5qNLp3qpssD5L735nBLn7WoPlCEqMdqlMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAfbY0dQGEgz2IUN6tvPnzPHBE/caDAoxyVFCcV432PDwNyIwK7GG7KuOjlXBepkb7JxplWqmgZHEX5CaO1bkVgWG24xArkzqPb+9et6R8htoVYLvKpsFHUbTuicvPVSDna6d0Ew3mQj/DfBuTMvB8Jkzl5sUphF36IR1i1PGum2v1BPvxFxsXwwu+WzSfuI6xgv84kmpG8zW0LxW3cOkYkgtMh0aE24NgT2l65DE/eEk+0F1hV9mTd+oaQJeVX3IEP5DS8/dHhzUjU29yFCR4Rv8UMKneFtXT/x7acb8Uec+0RS8ty0ifDKCWeSy4RXkVlw4EoVA1k4wiwWs2RxFObGECgF53MCrjeSLub1rBeU0zwRtOskjGUaGKo0UjOHJIgxsWGBPEJ+GgcZchD9y3C19k3WRLrfspMlQ4Ie+joKSMDqzImFpThqIqj7nxsARVH4rt1jGX4LCOcFVPK/oa2ao/+Op1PDmAcNUxJQQIk4DlJsQPFpXf+cWK1wdGj2OYqO/PKeXpcwjOMm6FZMXgdDa8hn92ZATjK1m3WQRfJr4qP1y4bM5QlEl+fynirkd89iwpMi8XfC2AgTqULQAPgp2FiGfG5sv8yknI4XwFXb1d0/NkoNwEHh/rBJ7xFEnnRPvEDnEQwKj/pH+5rQTBCUOFYH0VikoZWbO3mneDJWrmEVLFcKB9JIhRLjiNTtvK52NUHfzaw3uogrv5z5/O+imVOw6zQRHVl+vbL56CJb9eYhtBRWzY2/AoGIJVU03Oc//s7PIUgXChkUSRcRZIqFvBJith4FUL+1WUZHZf7IGqEgLRlsgG/HZslGhbj/kzXXPBjFiIOnBK2ZzWTVWJULMng/MKiHTDasCraFmETBtxpjhe9cYEGPBdYpH5Awsbkd/TDpnDjsoNwWDf1rolUfFrlenGlrHcodtAHadwmAmUbNMAaBi34zU6Zu7cFG10q3kx10o8XT++STwee8DqPrpKerZFKDdBnTtwpphlGebQxgB"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is an additional neutral, off-topic placebo text (paperclip history) that is functionally identical in kind to the three control fillers: it contains no climate content, no scientist messenger, no trust cues, no funding or consensus information, and no interactivity. There is therefore no plausible persuasive mechanism for any of the 13 outcomes, so the true ATE should be essentially zero on every measure; the arm effectively serves as a manipulation check on the control condition. I set all point forecasts within roughly ±0.2 scale points (sampling noise territory given SDs of ~20-28 and n of 500+ vs 1,000+, where the standard error per outcome is on the order of 1.0-1.4 points), rather than exactly zero, to reflect that some small nonzero estimate will be observed. For the incentivized behaviors I predict essentially null shifts (a cent or two on the $10 donation, a fraction of a percentage point on newsletter sign-up). Signs among these near-zero values are arbitrary; I distributed them so as not to imply any coherent directional pattern, keeping magnitudes far below those I would assign to any substantive climate/trust intervention.\", \"ates\": {\"trust_multidimensional\": 0.12, \"trust_post\": 0.07, \"distrust_post\": -0.04, \"funding_perceptions\": -0.11, \"policy_role_mean\": 0.09, \"inst_trust_mean\": 0.05, \"belief_post\": -0.06, \"concern_mean\": 0.1, \"policy_general\": -0.13, \"policy_specific_mean\": 0.04, \"behavior_mean\": -0.08, \"donation_ams\": 0.012, \"newsletter_signup\": 0.0013}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 597,
+      "cache_creation_input_tokens": 6503,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6503,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 853,
+      "output_tokens_details": {
+        "thinking_tokens": 284
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is an additional neutral, off-topic placebo text (paperclip history) that is functionally identical in kind to the three control fillers: it contains no climate content, no scientist messenger, no trust cues, no funding or consensus information, and no interactivity. There is therefore no plausible persuasive mechanism for any of the 13 outcomes, so the true ATE should be essentially zero on every measure; the arm effectively serves as a manipulation check on the control condition. I set all point forecasts within roughly ±0.2 scale points (sampling noise territory given SDs of ~20-28 and n of 500+ vs 1,000+, where the standard error per outcome is on the order of 1.0-1.4 points), rather than exactly zero, to reflect that some small nonzero estimate will be observed. For the incentivized behaviors I predict essentially null shifts (a cent or two on the $10 donation, a fraction of a percentage point on newsletter sign-up). Signs among these near-zero values are arbitrary; I distributed them so as not to imply any coherent directional pattern, keeping magnitudes far below those I would assign to any substantive climate/trust intervention.",
+      "ates": {
+        "trust_multidimensional": 0.12,
+        "trust_post": 0.07,
+        "distrust_post": -0.04,
+        "funding_perceptions": -0.11,
+        "policy_role_mean": 0.09,
+        "inst_trust_mean": 0.05,
+        "belief_post": -0.06,
+        "concern_mean": 0.1,
+        "policy_general": -0.13,
+        "policy_specific_mean": 0.04,
+        "behavior_mean": -0.08,
+        "donation_ams": 0.012,
+        "newsletter_signup": 0.0013
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "condition": "Portrait Prof. Cherry",
+  "run": 4,
+  "timestamp": "2026-08-30T17:39:10.454Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLk9zRReq1SpAiyiGAP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This portrait humanizes a climate scientist through relatable, red-state-coded details—Wyoming, football, community focus—rather than arguing climate science directly, aiming to boost trust through warmth and relatability. I'd estimate a moderate trust effect, maybe +1.8 to +2.5 on the multidimensional scale, given the narrative's appeal to conservative audiences.\n\nBelief effects should stay minimal since the text doesn't push scientific claims, but policy_role_mean should move more substantially—maybe +1.5 to +2.5—since the portrait explicitly emphasizes the scientist working with policymakers and helping decision-makers. Funding perceptions and institutional trust likely see only slight spillover, around +0.5 to +0.8, while behavioral and donation outcomes stay negligible.\n\nI'm settling on refined estimates: trust battery around +2.1, policy_role_mean at +1.9 given its proximity to the text's content, institutional trust diluted to +0.6, funding perceptions +0.7, belief +0.4, concern +0.6 for the water/climate variability mentions, and policy_general and policy_specific both around +0.5.\n\nFor the remaining outcomes, I'm landing on behavior_mean at +0.3, donation around +0.05, newsletter signup at +0.008, distrust_post dropping about -1.0, and trust_post rising roughly +1.3.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a warm, narrative portrait that humanizes an individual climate scientist with deliberately red-state-coded cues (Wyoming, football, the Rockies, practical water/land-use work with local communities and policymakers). Its mechanism is warmth/benevolence and relatability plus perceived practical usefulness — i.e., it targets the multidimensional trust battery (especially benevolence, integrity, openness) and the scientists-in-policy items, which the text explicitly models (his work is 'used by policymakers'). It contains essentially no consensus evidence, no persuasion about climate causation, and no funding content, so belief, concern, and policy-support spillovers should be small and mostly indirect via trust. Narratives carry a modest immediate advantage on trust-adjacent outcomes (~d 0.1), so I place multidimensional trust near +2 points, with the re-asked single trust item shrunk by pre-treatment anchoring (~+1.3) and a smaller negative on distrust (asymmetric, since distrust is less responsive). Distal attitudes get 0.3–0.7 points, incentivized behaviors near-zero (a few cents; under one percentage point on sign-up), consistent with megastudy evidence that attitude movement rarely propagates to costly behavior.\", \"ates\": {\"trust_multidimensional\": 2.05, \"trust_post\": 1.3, \"distrust_post\": -0.95, \"funding_perceptions\": 0.7, \"policy_role_mean\": 1.85, \"inst_trust_mean\": 0.62, \"belief_post\": 0.42, \"concern_mean\": 0.58, \"policy_general\": 0.48, \"policy_specific_mean\": 0.51, \"behavior_mean\": 0.31, \"donation_ams\": 0.05, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 689,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1315,
+      "output_tokens_details": {
+        "thinking_tokens": 705
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a warm, narrative portrait that humanizes an individual climate scientist with deliberately red-state-coded cues (Wyoming, football, the Rockies, practical water/land-use work with local communities and policymakers). Its mechanism is warmth/benevolence and relatability plus perceived practical usefulness — i.e., it targets the multidimensional trust battery (especially benevolence, integrity, openness) and the scientists-in-policy items, which the text explicitly models (his work is 'used by policymakers'). It contains essentially no consensus evidence, no persuasion about climate causation, and no funding content, so belief, concern, and policy-support spillovers should be small and mostly indirect via trust. Narratives carry a modest immediate advantage on trust-adjacent outcomes (~d 0.1), so I place multidimensional trust near +2 points, with the re-asked single trust item shrunk by pre-treatment anchoring (~+1.3) and a smaller negative on distrust (asymmetric, since distrust is less responsive). Distal attitudes get 0.3–0.7 points, incentivized behaviors near-zero (a few cents; under one percentage point on sign-up), consistent with megastudy evidence that attitude movement rarely propagates to costly behavior.",
+      "ates": {
+        "trust_multidimensional": 2.05,
+        "trust_post": 1.3,
+        "distrust_post": -0.95,
+        "funding_perceptions": 0.7,
+        "policy_role_mean": 1.85,
+        "inst_trust_mean": 0.62,
+        "belief_post": 0.42,
+        "concern_mean": 0.58,
+        "policy_general": 0.48,
+        "policy_specific_mean": 0.51,
+        "behavior_mean": 0.31,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

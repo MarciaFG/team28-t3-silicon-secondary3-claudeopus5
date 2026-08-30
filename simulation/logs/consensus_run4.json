@@ -1,0 +1,63 @@
+{
+  "condition": "Consensus",
+  "run": 4,
+  "timestamp": "2026-08-30T17:38:55.520Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLiqb7LmHETnA2uhGsh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This interactive consensus intervention with slider estimates and corrective feedback stands out for combining strong consensus-messaging effects with acknowledgment of genuine scientific nuance around net-zero, which likely boosts perceived integrity and openness. The interactivity should amplify belief shifts (roughly 1-2.5 points) more than policy attitudes, though the 66% figure on item 3 could inadvertently spotlight disagreement — still, the overall effect seems net positive.\n\nWorking through the estimates: trust around +2.4-2.5, distrust around -1.5, funding perceptions modest at +0.8 since consensus doesn't target funding directly, policy role +1.0, institutional trust +0.9, belief +1.8, concern +1.1, general policy +1.0, specific policy +0.7, behavior +0.4, with small donation and newsletter upticks. The key insight is that this arm's framing — that scientific uncertainty is a strength rather than weakness — should hit trust dimensions around competence and openness particularly hard, given the 99% consensus figure signals credibility while the meta-commentary signals institutional honesty.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is the classic consensus correction, but strengthened in two ways: it is interactive (respondents guess, then receive corrective feedback, so the surprise of learning 99% vs. their typical underestimate of ~65-75% drives updating), and it frames the existence of disagreement on projections as a normal feature of science, which speaks directly to scientists' openness and integrity rather than just their competence. Mechanistically it targets (a) perceived consensus/competence and (b) belief in human causation most proximally, so I put the multidimensional trust battery near the upper-middle of the expected 0.5-3.5 range (+2.4) and belief_post at +2.0 despite pre-treatment anchoring, consistent with consensus meta-analyses (d ~0.08-0.12 on belief, larger on perceived agreement, which is not measured here). Distrust falls a bit less in absolute magnitude than trust rises, as is typical for the asymmetric distrust item. Funding, policy-role, and institutional trust are only indirectly implicated (the text says nothing about money, advocacy, or agencies), so they get sub-1.5-point effects, with inst_trust further diluted by the federal-government item. Concern and policy support are downstream of belief and get ~0.7-1.2 points; self-reported behavior ~0.45; the incentivized donation and real newsletter sign-up get only a few cents and about one percentage point, per behavioral-megastudy calibration.\", \"ates\": {\"trust_multidimensional\": 2.4, \"trust_post\": 1.7, \"distrust_post\": -1.55, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.2, \"inst_trust_mean\": 1.0, \"belief_post\": 2.0, \"concern_mean\": 1.2, \"policy_general\": 1.1, \"policy_specific_mean\": 0.75, \"behavior_mean\": 0.45, \"donation_ams\": 0.06, \"newsletter_signup\": 0.011}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1513,
+      "output_tokens_details": {
+        "thinking_tokens": 849
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is the classic consensus correction, but strengthened in two ways: it is interactive (respondents guess, then receive corrective feedback, so the surprise of learning 99% vs. their typical underestimate of ~65-75% drives updating), and it frames the existence of disagreement on projections as a normal feature of science, which speaks directly to scientists' openness and integrity rather than just their competence. Mechanistically it targets (a) perceived consensus/competence and (b) belief in human causation most proximally, so I put the multidimensional trust battery near the upper-middle of the expected 0.5-3.5 range (+2.4) and belief_post at +2.0 despite pre-treatment anchoring, consistent with consensus meta-analyses (d ~0.08-0.12 on belief, larger on perceived agreement, which is not measured here). Distrust falls a bit less in absolute magnitude than trust rises, as is typical for the asymmetric distrust item. Funding, policy-role, and institutional trust are only indirectly implicated (the text says nothing about money, advocacy, or agencies), so they get sub-1.5-point effects, with inst_trust further diluted by the federal-government item. Concern and policy support are downstream of belief and get ~0.7-1.2 points; self-reported behavior ~0.45; the incentivized donation and real newsletter sign-up get only a few cents and about one percentage point, per behavioral-megastudy calibration.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.7,
+        "distrust_post": -1.55,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1.2,
+        "inst_trust_mean": 1,
+        "belief_post": 2,
+        "concern_mean": 1.2,
+        "policy_general": 1.1,
+        "policy_specific_mean": 0.75,
+        "behavior_mean": 0.45,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.011
+      }
+    }
+  }
+}

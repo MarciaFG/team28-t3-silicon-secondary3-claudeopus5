@@ -1,0 +1,64 @@
+{
+  "condition": "Social justice",
+  "run": 5,
+  "timestamp": "2026-08-30T18:18:10.912Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPiPM92E3fY5hicVwc4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This framing pits climate scientists against a wealthy 10%, which reads as populist and could polarize by group—liberals may embrace it, conservatives may distrust the explicit politicization of scientists as \"taking sides,\" undermining perceived neutrality. My guess is the overall effect on trust is small, likely near zero given how modest most effects tend to be in these megastudies.\n\nI'll estimate: trust_multidimensional around +1.0, trust_post slightly higher around +1.2, distrust_post around -0.8, funding_perceptions around +1.5 since accountability framing may boost pro-science sentiment, policy_role_mean higher around +2.0-2.5 given the explicit endorsement of scientist advocacy, and inst_trust_mean more modest around +0.5 due to the anti-establishment undertone.\n\nContinuing through the remaining outcomes: belief_post around +0.8, concern_mean around +1.5 from the justice framing, policy_general around +1.5, policy_specific_mean tempered down to around +0.8 since regressive fossil/food taxes might see less support given the burden-sharing argument, and behavior_mean reduced to around +0.2 since the text downplays individual responsibility. For the smaller behavioral measures I'll set donation_ams around +0.02 and newsletter_signup around +0.004, reflecting minimal but slightly positive movement.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm uses a populist social-justice frame: climate scientists are allies of the 'other 90%' against the wealthiest 10% who both pollute and fund doubt about science. The pro-science, anti-denial framing plausibly nudges trust upward for left-leaning and low-income respondents, but explicitly enlisting scientists in a political 'fight' can also erode perceptions of objectivity and trigger reactance among conservatives and higher-income respondents, so the net average effect on trust should be small (roughly +1 point on the 0-100 primary outcome), with a nontrivial chance of essentially zero. Because the text explicitly casts scientists as providers of evidence for accountability and as allied with the public, the largest relative effect should be on policy_role_mean (endorsement of scientists' engagement in policy/advocacy), around +2 points. Belief and concern items are heavily anchored on pre-treatment answers and near ceiling for believers, so movements are under a point or two; concern gets a modest bump from the framing that the 90% bear the consequences. Policy support rises slightly, but specific-policy support is partly offset because the text implies ordinary people should not bear costs (relevant to fossil-fuel and food carbon taxes), and behavior intentions barely move (or are slightly dampened) since responsibility is attributed to elites rather than individuals. Incentivized behaviors (real dollars to AMS, newsletter signup) should shift only trivially, on the order of a few cents and a fraction of a percentage point.\", \"ates\": {\"trust_multidimensional\": 1.0, \"trust_post\": 1.1, \"distrust_post\": -0.7, \"funding_perceptions\": 1.4, \"policy_role_mean\": 2.0, \"inst_trust_mean\": 0.5, \"belief_post\": 0.8, \"concern_mean\": 1.5, \"policy_general\": 1.4, \"policy_specific_mean\": 0.9, \"behavior_mean\": 0.3, \"donation_ams\": 0.03, \"newsletter_signup\": 0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 611,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1553,
+      "output_tokens_details": {
+        "thinking_tokens": 870
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm uses a populist social-justice frame: climate scientists are allies of the 'other 90%' against the wealthiest 10% who both pollute and fund doubt about science. The pro-science, anti-denial framing plausibly nudges trust upward for left-leaning and low-income respondents, but explicitly enlisting scientists in a political 'fight' can also erode perceptions of objectivity and trigger reactance among conservatives and higher-income respondents, so the net average effect on trust should be small (roughly +1 point on the 0-100 primary outcome), with a nontrivial chance of essentially zero. Because the text explicitly casts scientists as providers of evidence for accountability and as allied with the public, the largest relative effect should be on policy_role_mean (endorsement of scientists' engagement in policy/advocacy), around +2 points. Belief and concern items are heavily anchored on pre-treatment answers and near ceiling for believers, so movements are under a point or two; concern gets a modest bump from the framing that the 90% bear the consequences. Policy support rises slightly, but specific-policy support is partly offset because the text implies ordinary people should not bear costs (relevant to fossil-fuel and food carbon taxes), and behavior intentions barely move (or are slightly dampened) since responsibility is attributed to elites rather than individuals. Incentivized behaviors (real dollars to AMS, newsletter signup) should shift only trivially, on the order of a few cents and a fraction of a percentage point.",
+      "ates": {
+        "trust_multidimensional": 1,
+        "trust_post": 1.1,
+        "distrust_post": -0.7,
+        "funding_perceptions": 1.4,
+        "policy_role_mean": 2,
+        "inst_trust_mean": 0.5,
+        "belief_post": 0.8,
+        "concern_mean": 1.5,
+        "policy_general": 1.4,
+        "policy_specific_mean": 0.9,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.03,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

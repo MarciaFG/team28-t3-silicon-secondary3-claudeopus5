@@ -1,0 +1,64 @@
+{
+  "condition": "Corporate reliance",
+  "run": 3,
+  "timestamp": "2026-08-30T18:17:55.547Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPhW3h9fFLD2Z5caLth",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "The corporate reliance framing seems like a strong candidate since it appeals to conservative audiences through market-based credibility, but even the best trust interventions in megastudies typically shift outcomes only modestly—a few points on trust scales, less on downstream beliefs and policy support, and almost nothing on actual behavior or donations.\n\nI'll land on trust_multidimensional around 2.8, trust_post 2.6, distrust_post -1.8, with smaller effects for policy_role_mean 1.8, belief_post 1.4, concern_mean 1.2, and near-zero for behavior_mean 0.7 and donation_ams 0.04.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The text is a credibility-by-market-validation argument: profit-motivated actors (insurers, global firms) stake money on climate models, which is a strong signal of accuracy/objectivity and specifically counters the 'climate science is ideological/self-interested' narrative that drives distrust among skeptics. It is concrete, non-moralizing, and includes a reflection prompt, so it should be one of the more effective trust levers — but single-exposure reading interventions in megastudies typically move 0-100 trust scales only a few points. I therefore center the primary trust outcome around +3 points, with the single-item trust measure slightly attenuated by pre-treatment anchoring, and distrust moving somewhat less in absolute magnitude (asymmetric, since the text argues for reliability rather than refuting specific suspicions). Downstream outcomes are progressively attenuated: belief and concern are strongly pre-formed and anchored (~+1 to +1.5), policy support ~+1, and incentivized real behaviors (donation, newsletter) essentially null (a few cents, well under a percentage point). policy_role_mean gets a slightly larger bump than other downstream items because the text explicitly frames scientists advising decision-makers as valuable, while inst_trust_mean is diluted by the federal-government item.\", \"ates\": {\"trust_multidimensional\": 2.9, \"trust_post\": 2.6, \"distrust_post\": -1.7, \"funding_perceptions\": 1.2, \"policy_role_mean\": 1.9, \"inst_trust_mean\": 1.3, \"belief_post\": 1.4, \"concern_mean\": 1.2, \"policy_general\": 1.3, \"policy_specific_mean\": 0.9, \"behavior_mean\": 0.7, \"donation_ams\": 0.05, \"newsletter_signup\": 0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 685,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1274,
+      "output_tokens_details": {
+        "thinking_tokens": 663
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text is a credibility-by-market-validation argument: profit-motivated actors (insurers, global firms) stake money on climate models, which is a strong signal of accuracy/objectivity and specifically counters the 'climate science is ideological/self-interested' narrative that drives distrust among skeptics. It is concrete, non-moralizing, and includes a reflection prompt, so it should be one of the more effective trust levers — but single-exposure reading interventions in megastudies typically move 0-100 trust scales only a few points. I therefore center the primary trust outcome around +3 points, with the single-item trust measure slightly attenuated by pre-treatment anchoring, and distrust moving somewhat less in absolute magnitude (asymmetric, since the text argues for reliability rather than refuting specific suspicions). Downstream outcomes are progressively attenuated: belief and concern are strongly pre-formed and anchored (~+1 to +1.5), policy support ~+1, and incentivized real behaviors (donation, newsletter) essentially null (a few cents, well under a percentage point). policy_role_mean gets a slightly larger bump than other downstream items because the text explicitly frames scientists advising decision-makers as valuable, while inst_trust_mean is diluted by the federal-government item.",
+      "ates": {
+        "trust_multidimensional": 2.9,
+        "trust_post": 2.6,
+        "distrust_post": -1.7,
+        "funding_perceptions": 1.2,
+        "policy_role_mean": 1.9,
+        "inst_trust_mean": 1.3,
+        "belief_post": 1.4,
+        "concern_mean": 1.2,
+        "policy_general": 1.3,
+        "policy_specific_mean": 0.9,
+        "behavior_mean": 0.7,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

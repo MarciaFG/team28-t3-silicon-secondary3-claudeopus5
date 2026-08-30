@@ -1,0 +1,63 @@
+{
+  "condition": "placebo-shipped: control — filler text 1 of 3: The History of Neckties",
+  "run": 2,
+  "timestamp": "2026-08-30T17:46:54.974Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZMLVzQ6vWugpTSEas52",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "Since this is a placebo arm comparing identical filler text against pooled controls, the true effect should be essentially zero with only sampling noise from filler-text heterogeneity. I'll predict values very close to zero, with small non-round deviations to reflect that noise rather than a suspiciously exact null.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a 'placebo-shipped' condition: respondents read one of the three texts that also constitutes the control condition (the necktie history filler). Since the control mean pools all three fillers, the only possible true ATE comes from idiosyncratic differences among the fillers (e.g., the baseball and dance texts contain mildly uplifting communitarian language about unity, resilience and shared humanity, whereas the necktie text is neutral and mildly cynical — 'Vanity reigns supreme'). Such mood/priming differences on climate-specific attitudes should be essentially nil, well under a tenth of a scale point, and are within sampling noise; there is no mechanism touching trust in climate scientists, beliefs, or policy. I therefore forecast effects indistinguishable from zero, allowing only a whisper of a negative tilt on the prosocial/behavioral outcomes (donation, newsletter, behavior intentions) where the absent 'community/shared humanity' framing of the other fillers could plausibly matter a trivial amount. Magnitudes are set at ~1–2 orders of magnitude below typical real intervention effects.\", \"ates\": {\"trust_multidimensional\": -0.08, \"trust_post\": 0.04, \"distrust_post\": 0.11, \"funding_perceptions\": -0.06, \"policy_role_mean\": -0.07, \"inst_trust_mean\": 0.03, \"belief_post\": -0.05, \"concern_mean\": -0.04, \"policy_general\": 0.06, \"policy_specific_mean\": -0.03, \"behavior_mean\": -0.09, \"donation_ams\": -0.018, \"newsletter_signup\": -0.002}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 800,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1008,
+      "output_tokens_details": {
+        "thinking_tokens": 449
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a 'placebo-shipped' condition: respondents read one of the three texts that also constitutes the control condition (the necktie history filler). Since the control mean pools all three fillers, the only possible true ATE comes from idiosyncratic differences among the fillers (e.g., the baseball and dance texts contain mildly uplifting communitarian language about unity, resilience and shared humanity, whereas the necktie text is neutral and mildly cynical — 'Vanity reigns supreme'). Such mood/priming differences on climate-specific attitudes should be essentially nil, well under a tenth of a scale point, and are within sampling noise; there is no mechanism touching trust in climate scientists, beliefs, or policy. I therefore forecast effects indistinguishable from zero, allowing only a whisper of a negative tilt on the prosocial/behavioral outcomes (donation, newsletter, behavior intentions) where the absent 'community/shared humanity' framing of the other fillers could plausibly matter a trivial amount. Magnitudes are set at ~1–2 orders of magnitude below typical real intervention effects.",
+      "ates": {
+        "trust_multidimensional": -0.08,
+        "trust_post": 0.04,
+        "distrust_post": 0.11,
+        "funding_perceptions": -0.06,
+        "policy_role_mean": -0.07,
+        "inst_trust_mean": 0.03,
+        "belief_post": -0.05,
+        "concern_mean": -0.04,
+        "policy_general": 0.06,
+        "policy_specific_mean": -0.03,
+        "behavior_mean": -0.09,
+        "donation_ams": -0.018,
+        "newsletter_signup": -0.002
+      }
+    }
+  }
+}

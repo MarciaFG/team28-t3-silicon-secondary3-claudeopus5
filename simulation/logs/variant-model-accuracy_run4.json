@@ -1,0 +1,64 @@
+{
+  "condition": "Model accuracy",
+  "run": 4,
+  "timestamp": "2026-08-30T18:20:05.500Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPs2AvaAAV5jAAHz7cS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is a competence-focused message, presenting evidence that climate models have been historically accurate, which directly counters a common skeptic talking point. Since it's a strong, factual, competence-boosting claim, I'd estimate the trust ATE around +1.5 to +2.5 points, likely landing near +2.0.\n\nFor the secondary outcomes, I'm anchoring most estimates below the primary effect since they're either pre-treatment anchored or more diffuse: distrust around -1.2, funding perceptions and policy role near +1.0, institutional trust diluted to about +1.0, belief accuracy around +1.3 given anchoring effects, concern near +1.0, general policy support near +0.9, specific policy support around +0.7, and behavioral intentions closer to +0.5. Donation and newsletter signup behaviors are likely negligible, around +0.05 dollars and +0.008 respectively.\n\nI'm also thinking about typical findings from megastudies on trust in scientists—most interventions yield small effects under 3 points on a 100-point scale, with concrete competence-based evidence performing among the better ones. That supports keeping my primary estimate moderate rather than extreme.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This intervention is a competence-targeted, evidence-based rebuttal of a specific skeptic talking point (\\\"models can't predict the future\\\"), with citations and concrete numbers. Such factual competence appeals tend to move the trust dimensions most directly measured after treatment (especially competence and, weakly, integrity/openness), so I put the primary multidimensional trust ATE at roughly +2 points on the 0-100 scale, in line with the upper-middle range of effects typically seen in single-exposure text megastudies. Single-item trust and belief measures are pre-measured, so anchoring compresses them relative to the fresh multidimensional battery; distrust moves negatively but smaller in magnitude than trust moves positively. Downstream outcomes (funding, policy role, institutional trust, concern, policy support) sit at roughly half the primary effect because they require an extra inferential step and are diluted (e.g., the federal-government item), while self-reported behavior is weaker still. Incentivized/real behaviors (donation, newsletter) are near-zero: a fraction of a dollar and under one percentage point, since a single 2-minute read rarely changes costly action.\", \"ates\": {\"trust_multidimensional\": 2.1, \"trust_post\": 1.6, \"distrust_post\": -1.3, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.0, \"inst_trust_mean\": 1.0, \"belief_post\": 1.4, \"concern_mean\": 1.0, \"policy_general\": 0.9, \"policy_specific_mean\": 0.7, \"behavior_mean\": 0.45, \"donation_ams\": 0.05, \"newsletter_signup\": 0.007}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 894,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1322,
+      "output_tokens_details": {
+        "thinking_tokens": 755
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This intervention is a competence-targeted, evidence-based rebuttal of a specific skeptic talking point (\"models can't predict the future\"), with citations and concrete numbers. Such factual competence appeals tend to move the trust dimensions most directly measured after treatment (especially competence and, weakly, integrity/openness), so I put the primary multidimensional trust ATE at roughly +2 points on the 0-100 scale, in line with the upper-middle range of effects typically seen in single-exposure text megastudies. Single-item trust and belief measures are pre-measured, so anchoring compresses them relative to the fresh multidimensional battery; distrust moves negatively but smaller in magnitude than trust moves positively. Downstream outcomes (funding, policy role, institutional trust, concern, policy support) sit at roughly half the primary effect because they require an extra inferential step and are diluted (e.g., the federal-government item), while self-reported behavior is weaker still. Incentivized/real behaviors (donation, newsletter) are near-zero: a fraction of a dollar and under one percentage point, since a single 2-minute read rarely changes costly action.",
+      "ates": {
+        "trust_multidimensional": 2.1,
+        "trust_post": 1.6,
+        "distrust_post": -1.3,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1,
+        "inst_trust_mean": 1,
+        "belief_post": 1.4,
+        "concern_mean": 1,
+        "policy_general": 0.9,
+        "policy_specific_mean": 0.7,
+        "behavior_mean": 0.45,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.007
+      }
+    }
+  }
+}

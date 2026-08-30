@@ -1,0 +1,63 @@
+{
+  "condition": "Former skeptics",
+  "run": 2,
+  "timestamp": "2026-08-30T17:38:04.244Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLfCT7zjzSz1Vv4dGYj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This looks like the \"Former skeptics\" condition testing ideologically congruent messengers like a Republican meteorologist or congressman, which literature suggests works especially well for right-leaning audiences. The framing around scientists changing her mind and \"Science Above Politics\" also seems to target trust in scientific integrity and nonpartisanship rather than climate belief alone.\n\nI'm working through the trust dimensions here—moderate strength on multidimensional trust (~2.3) given the narrative testimonial format, with the trust_post figure anchored lower (~1.6) and distrust dropping (~-1.3). Funding perceptions get a smaller bump since the quote focuses more on energy/jobs than research funding, while policy role and institutional trust see modest gains since messaging could cut both ways on whether scientists should be political. Belief change looks stronger given the concrete evidence like ice cores, and concern also ticks upward given the narrative's emphasis on stronger storms.\n\nFor policy and behavior estimates, I'm noting that conservative framing might mute the \"bigger government\" appeal, so I'm keeping those numbers modest, while donation to AMS specifically gets a small boost since the piece prominently features a TV meteorologist and a weathercasters' summit—AMS being the natural beneficiary there. I'm settling on precise, non-round final values across all these arms.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm uses ideologically congruent messengers (a registered-Republican TV meteorologist and a conservative former congressman) narrating their own conversion after direct contact with scientists and physical evidence. The mechanism is source credibility plus 'science above politics' de-politicization, which should be above average for the primary trust battery (especially among initially skeptical respondents, who have the most headroom) and, being narrative/testimonial, carries the small warmth/trust advantage over didactic text. Because the content is mostly about the messengers' belief change rather than about scientists' competence or funding, distal outcomes get smaller effects; belief_post and trust_post are further shrunk by pre-treatment anchoring. I placed trust_multidimensional near the upper-middle of the expected +0.5 to +3.5 band (2.3), with distrust falling about half as much in absolute terms, belief/concern/policy around 0.9–1.5, and behavioral intentions under 1 point. Incentivized outcomes are near zero, though I nudged the AMS donation slightly upward (~$0.09) because a TV meteorologist and a weathercaster–climate scientist summit are salient in the text, making the American Meteorological Society an unusually congruent recipient.\", \"ates\": {\"trust_multidimensional\": 2.3, \"trust_post\": 1.6, \"distrust_post\": -1.3, \"funding_perceptions\": 0.7, \"policy_role_mean\": 1.05, \"inst_trust_mean\": 0.75, \"belief_post\": 1.5, \"concern_mean\": 1.2, \"policy_general\": 0.95, \"policy_specific_mean\": 0.85, \"behavior_mean\": 0.6, \"donation_ams\": 0.09, \"newsletter_signup\": 0.012}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1115,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1377,
+      "output_tokens_details": {
+        "thinking_tokens": 785
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm uses ideologically congruent messengers (a registered-Republican TV meteorologist and a conservative former congressman) narrating their own conversion after direct contact with scientists and physical evidence. The mechanism is source credibility plus 'science above politics' de-politicization, which should be above average for the primary trust battery (especially among initially skeptical respondents, who have the most headroom) and, being narrative/testimonial, carries the small warmth/trust advantage over didactic text. Because the content is mostly about the messengers' belief change rather than about scientists' competence or funding, distal outcomes get smaller effects; belief_post and trust_post are further shrunk by pre-treatment anchoring. I placed trust_multidimensional near the upper-middle of the expected +0.5 to +3.5 band (2.3), with distrust falling about half as much in absolute terms, belief/concern/policy around 0.9–1.5, and behavioral intentions under 1 point. Incentivized outcomes are near zero, though I nudged the AMS donation slightly upward (~$0.09) because a TV meteorologist and a weathercaster–climate scientist summit are salient in the text, making the American Meteorological Society an unusually congruent recipient.",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.6,
+        "distrust_post": -1.3,
+        "funding_perceptions": 0.7,
+        "policy_role_mean": 1.05,
+        "inst_trust_mean": 0.75,
+        "belief_post": 1.5,
+        "concern_mean": 1.2,
+        "policy_general": 0.95,
+        "policy_specific_mean": 0.85,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.09,
+        "newsletter_signup": 0.012
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "condition": "Model accuracy",
+  "run": 3,
+  "timestamp": "2026-08-30T18:20:02.736Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPs28SpJcbkzPX1Sbce",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention hits the competence dimension of trust through credible, factual content addressing a common criticism, so I'd expect a modest positive effect—maybe 2-5 points on multidimensional trust, given this is a stronger competence-focused example. I'll estimate roughly +3.0 for trust_multidimensional, +2.5 for trust_post, and -2.0 for distrust_post, with smaller effects on funding perceptions.\n\nWorking through the other outcomes: policy_role and institutional trust see modest gains around +1.2, belief_post gets a stronger bump around +1.5-1.8 since the text directly supports the underlying science, concern and general policy support move about +1.2, specific policy support less at +0.8, and behavioral measures like donations or newsletter signups barely shift at all given how distal they are. The mention of criticism upfront could slightly undercut the effect for some readers, so I'll settle on 2.8 for trust_multidimensional as my final estimate.\n\n",
+        "signature": "CAIS2woKjgEIERgCKkDqjAnsfUtESI1ImJphLBjoI8mNYLQOeAgRnsoFv5t2soiEG0LQuxPp2lONn1S/awZvCoX3AHTUsbfRncB+C2zDMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAc3o0dQGEgzwrz5R0Gjt7J/TfhcaDPlBmvnuAlj4VMh2SSIw4JnnyaxI6GQxrJB+f+zzTitFIkrB9UtppfsMMyx5hs+8Ei263FFVzQWAbfDjBwCLKvkITyXlglAMJ9htEuLibGncGofgumPzcSqr83LOPshElSeFUrua6DoGS9c9YxEdWvh44K99Mgc5pNKZC8zo+h1MydD/RHfcAojVAfc1xKAbmENb9QVRAzd1fGDb6X4nZTi5hsZ0XCNspxQegh+nDnt3KYmPA8LCs+FtogJ9lBg93tUBNEw9uPtKVZ1SVCdN1XhKv0qUFPax2QybjBJiDbGRFtqRXvdnCxMIxfdtcgfYQYtaYxH3AaWm3JPlWG3BFAcXiNKArTmBbdb0nGsZrQJQwapPUDRxR820oVtGWlBM4f1h9zKtxOUytOrbRPrl+pRVo0T/rh0mmkXTH0AoxrBJEeJGVyD/tVtUgbIZWZ89mNIcr7jXlhT7VXsBL9ZVHAsoPk5hUUwgn8aBl6MFaRZiGUCMaBrggZVEDFDNKoCBb3K0VkV1L212vTEER65KHx3DsVq2K2ETr+OHRd7bqpa97GGbQ3fdu00Ub/zNmT48BI63xYKoQY/ttdb50+nvHsMVb//u7PdLkx+rSFCRwlYfFypWsNXjC1D8wSxAzz1usDUqKKez5bY2VlbKX5Nbo6x48Zz1zqcjG0iXnQ0lEJSwhlvTfFIJ7HLBvTCJcX2P3HFPcstjTX6O9J1+07IxW9AG6IH+hIdKpL6gzDQAiSiNRhFL4DaN9LGKUk3pVtpoa/b/4iNCOWDPObk8LwH8ioVXj3TdmtgpNP2QjgfRgrYxMZdUOVJvuI+lQODxLY2Mmz88SZmWwyiQ4jLLcpgORKa6sspS+s9KnjRfrS/8ZANh2lHUZxdGTDVUBSWaXYIg7F5KhxUG1g4g/nbZVJcaq23ADls5uxpgtN+sOshQchxmo7qNqVeAZ6Gjq/xL98D+B6eJuHSnxNodbeM/yxTVtzjT9hlhXR/xmEJD0ybMfOb4YNy3pFE7TSu+f7MvHzKPaLhWXBx7kXYZNaSdAL3kExpBswNIvC77Z8XmiPYGvD0k6LuRg7ev1nQT412+Sc/BCt+Vf09T24DDNZEuARObwyZ/y3Eu4LDhFe+fhXF9B85rshElXuKN1MMKfLUYq0DE0KUAKBkUSHYoDCUPULxBVpbx7OgS9YT4WRcPLk3zG776WTX0c950atkEd/xY/vfekktCdu/A1hR1ms6lYiG7TeB+dekEBNMv3iRKlRyrpggiiqm35IhWu4jFjuo4FYH5qrqSk4UyMT8hGlIvA+PXYDRoDPB/Bahge/8edWpRL+G+/RLELiSpMtAAFCtVggUc8zApEXAPC4A9Fy3QgtuQFH8BEGQkjpxjtPXkkesrzPZeYnSM6HN2zFQPVjquNndFKkgiJ/LZoiS2wB69Rb/GmKYDVOxKid0YPMrpzXqtBiwzXy659oPdYjx7Z5dqC0/GghlKPChYvsVnWmHa/T6jr5b9KndZGkzOT6/OPmdWser8+mcs/FqQtZIF8w5RQYI396uU5YJJqeicVFU+9DvK32KplMagQM1lph7QlNUD4l0JB/p5mZ3r8QfTjRn9hF64XCPE+KVPs1xnel0YAQ=="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The text is a credible, concrete evidence-based rebuttal to a specific skeptic talking point (\\\"models can't predict the future\\\"), targeting mainly the competence dimension of trust and secondarily integrity (models were off due to human-behavior inputs, not physics). Such single-exposure informational corrections in large megastudies typically move the primary trust index by only a few points on a 0-100 scale, with downstream attitudes attenuated by roughly half to two-thirds and incentivized behaviors near zero. I put the primary multidimensional trust ATE near +2.7, slightly above the average intervention because the argument is factual, specific, and directly counters a salient criticism, while noting that pre-treatment anchoring shrinks the single-item trust and belief measures. Distrust should fall somewhat less in absolute magnitude than trust rises, since distrust items are stickier and partly identity-driven. Belief in human-caused climate change gets a small boost because the text implicitly validates the underlying physics, but ceiling and anchoring effects limit it; policy, concern, and behavior outcomes are further downstream and largely unaddressed by the text, so I forecast under a point to ~1.2. Donation and newsletter behaviors are real-cost choices and should show only tiny, near-noise increases.\", \"ates\": {\"trust_multidimensional\": 2.7, \"trust_post\": 2.4, \"distrust_post\": -1.8, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.1, \"inst_trust_mean\": 1.2, \"belief_post\": 1.6, \"concern_mean\": 1.1, \"policy_general\": 1.2, \"policy_specific_mean\": 0.8, \"behavior_mean\": 0.5, \"donation_ams\": 0.06, \"newsletter_signup\": 0.006}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 894,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1074,
+      "output_tokens_details": {
+        "thinking_tokens": 465
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text is a credible, concrete evidence-based rebuttal to a specific skeptic talking point (\"models can't predict the future\"), targeting mainly the competence dimension of trust and secondarily integrity (models were off due to human-behavior inputs, not physics). Such single-exposure informational corrections in large megastudies typically move the primary trust index by only a few points on a 0-100 scale, with downstream attitudes attenuated by roughly half to two-thirds and incentivized behaviors near zero. I put the primary multidimensional trust ATE near +2.7, slightly above the average intervention because the argument is factual, specific, and directly counters a salient criticism, while noting that pre-treatment anchoring shrinks the single-item trust and belief measures. Distrust should fall somewhat less in absolute magnitude than trust rises, since distrust items are stickier and partly identity-driven. Belief in human-caused climate change gets a small boost because the text implicitly validates the underlying physics, but ceiling and anchoring effects limit it; policy, concern, and behavior outcomes are further downstream and largely unaddressed by the text, so I forecast under a point to ~1.2. Donation and newsletter behaviors are real-cost choices and should show only tiny, near-noise increases.",
+      "ates": {
+        "trust_multidimensional": 2.7,
+        "trust_post": 2.4,
+        "distrust_post": -1.8,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 1.2,
+        "belief_post": 1.6,
+        "concern_mean": 1.1,
+        "policy_general": 1.2,
+        "policy_specific_mean": 0.8,
+        "behavior_mean": 0.5,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.006
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "condition": "Measurement & modeling (2)",
+  "run": 2,
+  "timestamp": "2026-08-30T18:19:21.307Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPossXFGkmG5RWWhMtX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This reads as a measurement-and-modeling intervention emphasizing rigor and quantitative methods, which typically nudges competence-related trust perceptions modestly upward—maybe a 2-4 point gain on primary trust measures based on similar megastudies—though the technical jargon carries some risk of undercutting perceived clarity even as it signals expertise.\n\nWorking through the specific outcomes, I'd expect trust_multidimensional to land around +2.6, with the single-item trust_post showing a smaller anchored effect near +1.8 and distrust_post dropping roughly -1.2. Funding perceptions and institutional trust likely shift modestly (+1.0 each), belief and policy measures show diluted effects in the +0.6 to +1.0 range, and behavioral/donation outcomes stay near flat given how distal they are from this rigor-focused framing.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a dry, expository account of climate-science methodology, emphasizing precise instruments, quantitative modeling, reproducibility, and 'empirical data rather than subjective impressions.' Its mechanism is mainly epistemic/competence-based: it should raise perceptions of rigor and expertise (competence, and to a lesser degree integrity/openness), which is the subscale mix in the primary outcome. However, the heavy jargon (disdrometers, support vector machines, wavelet analysis) risks alienating or boring some readers and provides no warmth, moral, or consensus cues, so I expect a small-to-modest positive effect on trust (~2-3 points on 0-100) rather than a large one. Downstream outcomes are progressively more distal and sticky: single-item trust and belief are anchored on pre-treatment answers, concern/policy/behavior are driven by prior ideology far more than by a one-shot methodology explainer, so I scale those to well under half the primary effect. Distrust should fall a bit less in absolute magnitude than trust rises (asymmetric, and distrust items are more affect/identity-driven). Incentivized behaviors (donation, newsletter) are near-noise: a few cents and a fraction of a percentage point, with the sign slightly positive.\", \"ates\": {\"trust_multidimensional\": 2.7, \"trust_post\": 1.9, \"distrust_post\": -1.3, \"funding_perceptions\": 1.0, \"policy_role_mean\": 0.9, \"inst_trust_mean\": 1.1, \"belief_post\": 1.1, \"concern_mean\": 0.8, \"policy_general\": 0.8, \"policy_specific_mean\": 0.6, \"behavior_mean\": 0.4, \"donation_ams\": 0.05, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 635,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1162,
+      "output_tokens_details": {
+        "thinking_tokens": 554
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a dry, expository account of climate-science methodology, emphasizing precise instruments, quantitative modeling, reproducibility, and 'empirical data rather than subjective impressions.' Its mechanism is mainly epistemic/competence-based: it should raise perceptions of rigor and expertise (competence, and to a lesser degree integrity/openness), which is the subscale mix in the primary outcome. However, the heavy jargon (disdrometers, support vector machines, wavelet analysis) risks alienating or boring some readers and provides no warmth, moral, or consensus cues, so I expect a small-to-modest positive effect on trust (~2-3 points on 0-100) rather than a large one. Downstream outcomes are progressively more distal and sticky: single-item trust and belief are anchored on pre-treatment answers, concern/policy/behavior are driven by prior ideology far more than by a one-shot methodology explainer, so I scale those to well under half the primary effect. Distrust should fall a bit less in absolute magnitude than trust rises (asymmetric, and distrust items are more affect/identity-driven). Incentivized behaviors (donation, newsletter) are near-noise: a few cents and a fraction of a percentage point, with the sign slightly positive.",
+      "ates": {
+        "trust_multidimensional": 2.7,
+        "trust_post": 1.9,
+        "distrust_post": -1.3,
+        "funding_perceptions": 1,
+        "policy_role_mean": 0.9,
+        "inst_trust_mean": 1.1,
+        "belief_post": 1.1,
+        "concern_mean": 0.8,
+        "policy_general": 0.8,
+        "policy_specific_mean": 0.6,
+        "behavior_mean": 0.4,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "condition": "Consensus",
+  "run": 1,
+  "timestamp": "2026-08-30T17:38:35.429Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLhF2D9Gi3GUUJUqd7U",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This \"Consensus\" arm uses interactive consensus estimation with corrective feedback, framing disagreement on projections alongside agreement on core facts — a well-designed, evidence-based intervention that strongly targets perceived consensus and moderately affects belief and trust through demonstrated evidence and honest acknowledgment of uncertainty. I recall meta-analyses showing consensus messaging shifts belief by roughly 1-2.5 points with smaller policy effects, and that the gateway belief model connects consensus perception to trust outcomes.\n\nThe interactive feedback correcting misperceptions upward (99% agreement) likely boosts perceived competence and integrity, while the nuance around the net-zero item might read as either honest transparency or a slight downward correction that could cut either way on trust. Given this is a classic megastudy intervention, I'm estimating it as moderate-to-strong: trust_multidimensional ATE around 2.2, trust_post around 1.5, distrust_post around -1.2, funding_perceptions modestly positive around 0.8, and policy_role_mean around 1.0 given the emphasis on scientific process. I'm still working out inst_trust_mean.\n\nFor belief_post, since the consensus item directly targets belief in human causation, I'm expecting a stronger effect around 1.6-1.8 even with anchoring shrinkage, alongside more modest gains for concern (~1.0), general policy support (~0.9), specific policy (~0.7), behavior (~0.4), and small effects on donation and newsletter signup. I'm settling on final non-round estimates for each outcome now.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a classic gateway-belief consensus correction, upgraded in two ways likely to help: it is interactive (respondents give slider estimates and receive immediate corrective feedback, which maximizes attention and surprise for those who underestimate agreement, i.e. the initially skeptical), and it frames the 99%/100% agreement alongside a genuinely uncertain item (66% on net-zero timing), which signals candor and openness rather than dogma — plausibly boosting the integrity/openness subscales as well as competence. Mechanistically it directly targets perceived consensus (not measured) and, via the gateway pathway, belief in human causation and trust in climate scientists' competence/honesty; funding, scientist policy role, and institutional trust are only indirectly implicated, and the text says nothing about behavior or specific policies. I therefore put the primary trust ATE somewhat above the arm average (~2.2 points, d≈0.09) and belief close behind (~1.6), consistent with meta-analytic consensus effects on belief of ~1–2.5 points, further shrunk by pre-treatment anchoring on the re-asked single items (trust_post, belief_post). Distal outcomes are ordered downward: concern and general policy under ~1 point, specific policies and behavioral intentions smaller still. Incentivized outcomes are kept to a few cents and roughly one percentage point, since the text gives no direct call to action beyond implied urgency.\", \"ates\": {\"trust_multidimensional\": 2.2, \"trust_post\": 1.5, \"distrust_post\": -1.3, \"funding_perceptions\": 0.85, \"policy_role_mean\": 1.05, \"inst_trust_mean\": 0.75, \"belief_post\": 1.6, \"concern_mean\": 1.0, \"policy_general\": 0.9, \"policy_specific_mean\": 0.65, \"behavior_mean\": 0.35, \"donation_ams\": 0.06, \"newsletter_signup\": 0.011}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1460,
+      "output_tokens_details": {
+        "thinking_tokens": 798
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a classic gateway-belief consensus correction, upgraded in two ways likely to help: it is interactive (respondents give slider estimates and receive immediate corrective feedback, which maximizes attention and surprise for those who underestimate agreement, i.e. the initially skeptical), and it frames the 99%/100% agreement alongside a genuinely uncertain item (66% on net-zero timing), which signals candor and openness rather than dogma — plausibly boosting the integrity/openness subscales as well as competence. Mechanistically it directly targets perceived consensus (not measured) and, via the gateway pathway, belief in human causation and trust in climate scientists' competence/honesty; funding, scientist policy role, and institutional trust are only indirectly implicated, and the text says nothing about behavior or specific policies. I therefore put the primary trust ATE somewhat above the arm average (~2.2 points, d≈0.09) and belief close behind (~1.6), consistent with meta-analytic consensus effects on belief of ~1–2.5 points, further shrunk by pre-treatment anchoring on the re-asked single items (trust_post, belief_post). Distal outcomes are ordered downward: concern and general policy under ~1 point, specific policies and behavioral intentions smaller still. Incentivized outcomes are kept to a few cents and roughly one percentage point, since the text gives no direct call to action beyond implied urgency.",
+      "ates": {
+        "trust_multidimensional": 2.2,
+        "trust_post": 1.5,
+        "distrust_post": -1.3,
+        "funding_perceptions": 0.85,
+        "policy_role_mean": 1.05,
+        "inst_trust_mean": 0.75,
+        "belief_post": 1.6,
+        "concern_mean": 1,
+        "policy_general": 0.9,
+        "policy_specific_mean": 0.65,
+        "behavior_mean": 0.35,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.011
+      }
+    }
+  }
+}

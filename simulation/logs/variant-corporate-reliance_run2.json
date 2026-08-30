@@ -1,0 +1,64 @@
+{
+  "condition": "Corporate reliance",
+  "run": 2,
+  "timestamp": "2026-08-30T18:17:55.578Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPhVZfnjejWn19WdDUr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "The \"corporate reliance\" intervention uses market credibility as a signal—if profit-driven firms trust climate science, it must hold up, which could resonate especially with conservatives who trust markets. This seems like a reasonably novel and compelling argument, likely producing a modest positive effect on trust, particularly competence, with a smaller boost to integrity since it's not ideologically framed. I'd estimate around +3 points on the primary trust measure and a similar modest bump on the single-item post-trust score.\n\nI'm estimating downstream effects across the other measures too—slight decreases in distrust, small gains in funding perceptions, policy role, institutional trust, and belief updating, tapering off further for concern, policy support, and behavioral outcomes, with negligible movement on donations or newsletter signup. There's some backfire risk here since invoking corporations could trigger \"corporate capture\" suspicions among liberals, but since the framing stays positive, I think the net effect remains slightly favorable, so I'll settle on roughly +2.8 for the primary trust measure.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The text is a market-credibility (\\\"skin in the game\\\") argument: profit-motivated insurers and corporations, who lose money if forecasts are wrong, bet on climate models — which mainly boosts perceived competence and non-ideological integrity, and the reflection prompt adds mild self-generated elaboration. Such indirect credibility cues in one-shot reading studies typically shift trust scales by only a few points on 0–100, so I center the primary multidimensional trust ATE near +3, with the single-item trust measure slightly smaller because of pre-treatment anchoring, and distrust moving less than trust (asymmetric, floor-ish and different construal). Downstream outcomes (belief, concern, policy, behavior) are progressively more distal, more politically anchored, and largely pre-formed, so I shrink them toward +0.5 to +1.5; belief_post is additionally anchored and near ceiling. There is some countervailing risk (mentioning corporate ties can cue \\\"corporate capture\\\" concerns for left-leaning respondents, and private-sector reliance could weakly undercut the case for more federal funding), which pulls funding_perceptions and policy items toward near-zero. Incentivized behaviors (donation, newsletter) reliably show near-null effects, so I forecast a few cents and well under one percentage point.\", \"ates\": {\"trust_multidimensional\": 2.9, \"trust_post\": 2.3, \"distrust_post\": -1.5, \"funding_perceptions\": 0.8, \"policy_role_mean\": 1.6, \"inst_trust_mean\": 1.1, \"belief_post\": 1.2, \"concern_mean\": 1.0, \"policy_general\": 1.0, \"policy_specific_mean\": 0.8, \"behavior_mean\": 0.5, \"donation_ams\": 0.05, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 685,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1211,
+      "output_tokens_details": {
+        "thinking_tokens": 590
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text is a market-credibility (\"skin in the game\") argument: profit-motivated insurers and corporations, who lose money if forecasts are wrong, bet on climate models — which mainly boosts perceived competence and non-ideological integrity, and the reflection prompt adds mild self-generated elaboration. Such indirect credibility cues in one-shot reading studies typically shift trust scales by only a few points on 0–100, so I center the primary multidimensional trust ATE near +3, with the single-item trust measure slightly smaller because of pre-treatment anchoring, and distrust moving less than trust (asymmetric, floor-ish and different construal). Downstream outcomes (belief, concern, policy, behavior) are progressively more distal, more politically anchored, and largely pre-formed, so I shrink them toward +0.5 to +1.5; belief_post is additionally anchored and near ceiling. There is some countervailing risk (mentioning corporate ties can cue \"corporate capture\" concerns for left-leaning respondents, and private-sector reliance could weakly undercut the case for more federal funding), which pulls funding_perceptions and policy items toward near-zero. Incentivized behaviors (donation, newsletter) reliably show near-null effects, so I forecast a few cents and well under one percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.9,
+        "trust_post": 2.3,
+        "distrust_post": -1.5,
+        "funding_perceptions": 0.8,
+        "policy_role_mean": 1.6,
+        "inst_trust_mean": 1.1,
+        "belief_post": 1.2,
+        "concern_mean": 1,
+        "policy_general": 1,
+        "policy_specific_mean": 0.8,
+        "behavior_mean": 0.5,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

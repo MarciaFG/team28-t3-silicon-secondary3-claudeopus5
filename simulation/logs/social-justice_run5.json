@@ -1,0 +1,63 @@
+{
+  "condition": "Social justice",
+  "run": 5,
+  "timestamp": "2026-08-30T17:37:26.865Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLbscxFHDVgYcMWbbb4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This framing positions scientists as allies of the 90% against a wealthy 10%, using populist and social-justice language that's likely counter-attitudinal for conservatives and could trigger reactance since scientists get coded as politically activist. It leans on a benevolence mechanism—scientists \"standing with us\"—which may boost trust among left-leaning audiences but risks backfiring with others given the accusatory framing toward corporations.\n\nI'm estimating small positive effects overall: trust_multidimensional around +0.9, trust_post around +0.7, distrust_post slightly negative around -0.4, funding_perceptions moderately positive near +1.0 to +1.3 from the accountability angle, and policy_role_mean around +1.5 given the emphasis on scientists providing evidence to hold emitters accountable—though that last number may need revising since it edges into advocacy territory.\n\nFor the remaining outcomes, I'm settling on inst_trust_mean around +0.3, belief_post around +0.5, concern_mean around +1.0 from the crisis/justice urgency framing, policy_general around +1.2, and policy_specific_mean tempered to around +0.9 since fossil fuel taxes and green jobs benefit from justice framing but carbon taxes on food risk backlash. For behavior_mean, I notice the \"burden shouldn't fall on the struggling\" framing could actually dampen personal behavior intentions through diffusion of responsibility, so I'm landing near -0.1 rather than positive, and applying similar logic to push donation_ams slightly negative around -0.03.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm uses a populist/social-justice frame that positions climate scientists as allies of the 90% against high-emitting elites, plus a light inoculation element (elites cast doubt on science). The benevolence/integrity claim (\\\"scientists stand with us\\\") is the most proximal target, so multidimensional trust should move a bit, but the explicitly ideological, us-vs-them tone is left-coded and risks reactance/politicization concerns among right-leaning respondents (perceived loss of objectivity/openness), so I place the trust ATE below the average of the 16 arms (~+1.0 on the 0-100 primary, less on the pre-anchored single item, small negative on distrust). Because the text casts scientists as evidence-providers for accountability, the scientist-policy-role items should be the relatively strongest mover (~+1.7), with funding perceptions and concern/general policy support gaining ~1 point via the justice/urgency and accountability framing. Belief is heavily anchored and barely targeted (+0.6), and institutional trust is diluted by the federal-government item (+0.3). Notably, the text explicitly says the burden should not fall on ordinary people, which plausibly dampens personal responsibility, so self-reported mitigation behavior is forecast at roughly zero/slightly negative and the incentivized $10 donation near zero, with a sub-percentage-point newsletter effect.\", \"ates\": {\"trust_multidimensional\": 1.0, \"trust_post\": 0.7, \"distrust_post\": -0.45, \"funding_perceptions\": 1.1, \"policy_role_mean\": 1.7, \"inst_trust_mean\": 0.3, \"belief_post\": 0.55, \"concern_mean\": 1.1, \"policy_general\": 1.3, \"policy_specific_mean\": 0.9, \"behavior_mean\": -0.1, \"donation_ams\": 0.01, \"newsletter_signup\": 0.006}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 611,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1914,
+      "output_tokens_details": {
+        "thinking_tokens": 1272
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm uses a populist/social-justice frame that positions climate scientists as allies of the 90% against high-emitting elites, plus a light inoculation element (elites cast doubt on science). The benevolence/integrity claim (\"scientists stand with us\") is the most proximal target, so multidimensional trust should move a bit, but the explicitly ideological, us-vs-them tone is left-coded and risks reactance/politicization concerns among right-leaning respondents (perceived loss of objectivity/openness), so I place the trust ATE below the average of the 16 arms (~+1.0 on the 0-100 primary, less on the pre-anchored single item, small negative on distrust). Because the text casts scientists as evidence-providers for accountability, the scientist-policy-role items should be the relatively strongest mover (~+1.7), with funding perceptions and concern/general policy support gaining ~1 point via the justice/urgency and accountability framing. Belief is heavily anchored and barely targeted (+0.6), and institutional trust is diluted by the federal-government item (+0.3). Notably, the text explicitly says the burden should not fall on ordinary people, which plausibly dampens personal responsibility, so self-reported mitigation behavior is forecast at roughly zero/slightly negative and the incentivized $10 donation near zero, with a sub-percentage-point newsletter effect.",
+      "ates": {
+        "trust_multidimensional": 1,
+        "trust_post": 0.7,
+        "distrust_post": -0.45,
+        "funding_perceptions": 1.1,
+        "policy_role_mean": 1.7,
+        "inst_trust_mean": 0.3,
+        "belief_post": 0.55,
+        "concern_mean": 1.1,
+        "policy_general": 1.3,
+        "policy_specific_mean": 0.9,
+        "behavior_mean": -0.1,
+        "donation_ams": 0.01,
+        "newsletter_signup": 0.006
+      }
+    }
+  }
+}

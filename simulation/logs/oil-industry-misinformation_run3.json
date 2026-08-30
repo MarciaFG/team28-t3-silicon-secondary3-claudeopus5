@@ -1,0 +1,63 @@
+{
+  "condition": "Oil industry misinformation",
+  "run": 3,
+  "timestamp": "2026-08-30T17:37:57.672Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLeeqbQrii9i7JGBQSX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is the oil industry misinformation arm—vivid and evidence-rich with narrative elements, redirecting distrust toward an external malicious actor, though its accusatory length risks reactance among conservatives. Given inoculation literature shows modest effects, I'd rate trust_multidimensional around +2.4, placing it in the top third of the 16 arms.\n\nWorking through the estimates: trust_post attenuates to ~+1.8, distrust_post shows a stronger negative effect around -2.2 since this arm directly targets distrust and attributes it to manipulation, funding_perceptions gets +1.2 from implied underfunding relative to oil lobbying, policy_role_mean lands at +1.0, and inst_trust_mean dilutes to +0.9. Belief_post and concern_mean sit around +1.0 to +1.1, while policy_general benefits from anti-oil framing pushing to +1.3 given the anger toward oil companies this likely induces. Policy_specific_mean comes in at +1.0 (especially for fossil fuel taxes), with behavior_mean at +0.5, donation_ams at +0.06, and newsletter_signup at +0.012.\n\nI'll finalize distrust at -2.1 given the direct callout warning against being misled by oil companies, nudge donation up slightly to +0.07 reflecting the modest trust boost in scientists, and set newsletter to +0.013.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is an inoculation/attribution message: it reframes existing distrust as the manufactured product of a fossil-fuel disinformation campaign, giving skeptical respondents a face-saving external attribution rather than asking them to admit error. It is long, evidence-dense, cites internal memos and named victims (Santer, Mann), includes narrative/harassment vignettes, and ends with an explicit directive ('trust the climate scientists'), so it directly targets the trust and especially the distrust items — I expect it to be an above-average arm on the primary outcome (~+2.4 on 0-100, d≈0.10) and to reduce distrust slightly more strongly in absolute magnitude since the text names distrust as the adversary's goal. Counterweight: the accusatory, partisan-coded framing (oil companies lied, profits, lobbying) risks reactance among the very right-leaning respondents who have the most headroom, which caps the average effect below ~3 points. Distal outcomes get progressively smaller effects: scientist-role and funding attitudes ~1 point, belief/concern/policy ~1-1.3 points (belief and trust_post further attenuated by pre-treatment anchoring), behavioral intentions ~0.5, and incentivized behaviors only a few cents / ~1 percentage point. Anti-oil anger provides a plausible small boost to general policy support and fossil-fuel-targeting specific policies, which I set marginally above the belief effect.\", \"ates\": {\"trust_multidimensional\": 2.4, \"trust_post\": 1.8, \"distrust_post\": -2.2, \"funding_perceptions\": 1.3, \"policy_role_mean\": 1.0, \"inst_trust_mean\": 0.9, \"belief_post\": 1.1, \"concern_mean\": 1.2, \"policy_general\": 1.4, \"policy_specific_mean\": 1.05, \"behavior_mean\": 0.5, \"donation_ams\": 0.07, \"newsletter_signup\": 0.013}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1819,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1331,
+      "output_tokens_details": {
+        "thinking_tokens": 663
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is an inoculation/attribution message: it reframes existing distrust as the manufactured product of a fossil-fuel disinformation campaign, giving skeptical respondents a face-saving external attribution rather than asking them to admit error. It is long, evidence-dense, cites internal memos and named victims (Santer, Mann), includes narrative/harassment vignettes, and ends with an explicit directive ('trust the climate scientists'), so it directly targets the trust and especially the distrust items — I expect it to be an above-average arm on the primary outcome (~+2.4 on 0-100, d≈0.10) and to reduce distrust slightly more strongly in absolute magnitude since the text names distrust as the adversary's goal. Counterweight: the accusatory, partisan-coded framing (oil companies lied, profits, lobbying) risks reactance among the very right-leaning respondents who have the most headroom, which caps the average effect below ~3 points. Distal outcomes get progressively smaller effects: scientist-role and funding attitudes ~1 point, belief/concern/policy ~1-1.3 points (belief and trust_post further attenuated by pre-treatment anchoring), behavioral intentions ~0.5, and incentivized behaviors only a few cents / ~1 percentage point. Anti-oil anger provides a plausible small boost to general policy support and fossil-fuel-targeting specific policies, which I set marginally above the belief effect.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.8,
+        "distrust_post": -2.2,
+        "funding_perceptions": 1.3,
+        "policy_role_mean": 1,
+        "inst_trust_mean": 0.9,
+        "belief_post": 1.1,
+        "concern_mean": 1.2,
+        "policy_general": 1.4,
+        "policy_specific_mean": 1.05,
+        "behavior_mean": 0.5,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.013
+      }
+    }
+  }
+}

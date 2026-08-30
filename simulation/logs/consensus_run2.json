@@ -1,0 +1,63 @@
+{
+  "condition": "Consensus",
+  "run": 2,
+  "timestamp": "2026-08-30T17:38:53.186Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLiqRSbXmyvQck76CpB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This consensus-based arm combines interactive slider estimates with corrective feedback, distinguishing areas of agreement from disagreement to build credibility through openness. It likely scores above average on trust dimensions like competence and openness, though consensus messaging alone tends to produce modest belief shifts—interactive correction of the typical underestimation gap could push effects higher than static messaging.\n\nI'm settling on final estimates: trust_multidimensional 2.4, trust_post 1.6, distrust_post -1.3, funding_perceptions 0.9, policy_role_mean 1.0, inst_trust_mean 0.7, belief_post 1.7, concern_mean 1.1, policy_general 0.9, policy_specific_mean 0.6, behavior_mean 0.3.\n\ndonation_ams: 0.06\nnewsletter_signup: 0.011\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm combines the best-supported climate-communication tool (a 97–99% consensus correction) with two features that amplify one-shot effects: interactivity (participants first estimate consensus, then receive immediate corrective feedback, maximizing surprise since Americans typically guess 60–70%) and a credibility-enhancing nuance frame (science legitimately disagrees about net-zero timing while agreeing on the core physics), which should feed the openness and integrity subscales as well as competence. I therefore place it slightly above the median arm on the primary multidimensional trust outcome (~+2.4, d≈0.10), with the re-asked single items (trust_post, belief_post) shrunk by within-survey anchoring. Because item 1 is literally the belief statement, belief_post gets a relatively large share of the effect (~+1.7), consistent with meta-analytic consensus-message effects of d≈0.08–0.12 on belief. Distrust falls somewhat less in absolute magnitude than trust rises (asymmetric, skeptics' distrust is sticky). Downstream outcomes decay in the expected order: concern and general policy ~1 point, specific policies and funding perceptions below that, self-reported behavior ~0.3, and incentivized outcomes near zero (a few cents donated, ~1 pp on newsletter sign-up).\", \"ates\": {\"trust_multidimensional\": 2.4, \"trust_post\": 1.6, \"distrust_post\": -1.3, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.0, \"inst_trust_mean\": 0.7, \"belief_post\": 1.7, \"concern_mean\": 1.1, \"policy_general\": 0.9, \"policy_specific_mean\": 0.6, \"behavior_mean\": 0.35, \"donation_ams\": 0.06, \"newsletter_signup\": 0.011}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1323,
+      "output_tokens_details": {
+        "thinking_tokens": 697
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm combines the best-supported climate-communication tool (a 97–99% consensus correction) with two features that amplify one-shot effects: interactivity (participants first estimate consensus, then receive immediate corrective feedback, maximizing surprise since Americans typically guess 60–70%) and a credibility-enhancing nuance frame (science legitimately disagrees about net-zero timing while agreeing on the core physics), which should feed the openness and integrity subscales as well as competence. I therefore place it slightly above the median arm on the primary multidimensional trust outcome (~+2.4, d≈0.10), with the re-asked single items (trust_post, belief_post) shrunk by within-survey anchoring. Because item 1 is literally the belief statement, belief_post gets a relatively large share of the effect (~+1.7), consistent with meta-analytic consensus-message effects of d≈0.08–0.12 on belief. Distrust falls somewhat less in absolute magnitude than trust rises (asymmetric, skeptics' distrust is sticky). Downstream outcomes decay in the expected order: concern and general policy ~1 point, specific policies and funding perceptions below that, self-reported behavior ~0.3, and incentivized outcomes near zero (a few cents donated, ~1 pp on newsletter sign-up).",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.6,
+        "distrust_post": -1.3,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1,
+        "inst_trust_mean": 0.7,
+        "belief_post": 1.7,
+        "concern_mean": 1.1,
+        "policy_general": 0.9,
+        "policy_specific_mean": 0.6,
+        "behavior_mean": 0.35,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.011
+      }
+    }
+  }
+}

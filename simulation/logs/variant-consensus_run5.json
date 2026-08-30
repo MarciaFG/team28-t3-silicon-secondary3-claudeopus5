@@ -1,0 +1,64 @@
+{
+  "condition": "Consensus",
+  "run": 5,
+  "timestamp": "2026-08-30T18:19:59.494Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPrFzMBLFsRfYu4FEWr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is the gateway belief model territory—consensus messaging typically shifts perceived scientific agreement by 15-20 points, with smaller downstream effects on causation beliefs (~2-3 points) and even smaller effects on worry and policy support. The interactive, corrective-feedback design here plus honest acknowledgment of uncertainty on net-zero could plausibly boost these effects beyond typical static messaging studies.\n\nI'm working through likely magnitudes across each outcome measure: trust and belief items probably land around +2 to +3 points given the strong 99% consensus framing, while more downstream measures like institutional trust, general policy support, specific policy support, and behavioral intentions likely show progressively smaller effects (roughly +1 to +1.5 points), with donation behavior showing minimal dollar-value movement.\n\nI'm also weighing potential confounds—reactance to being asked to estimate consensus first, demand effects from active engagement, and the fact that consensus messaging mainly speaks to competence and openness dimensions of trust rather than benevolence. Settling on a final trust estimate around +2.3 points.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This is a classic consensus-messaging arm, strengthened by an interactive estimate-then-correct format that directly corrects a widespread underestimation of scientific agreement (most Americans guess ~65-70% rather than 99%). Meta-analytic evidence (gateway belief model; Bayes, van der Linden) shows consensus messages reliably shift perceived agreement a lot but downstream belief, concern, and policy support only ~1-3 points on 0-100 scales, with trust in scientists moving modestly since consensus speaks mainly to competence (and, via the honest acknowledgment of genuine uncertainty about net-zero timing, somewhat to openness/integrity). I therefore put the primary trust ATE at roughly +2 points, with the pre-anchored single-item trust and belief measures slightly smaller-to-similar because respondents recall their earlier answers, and distrust moving less than trust (asymmetric, floor-ish for skeptics who may show mild reactance). Institutional trust is diluted by the federal-government item, so I shade it down. Policy/behavior outcomes are two steps removed from the manipulation, so I place them below the trust effects, and incentivized real behaviors (donation, newsletter) get near-zero but slightly positive medians, since single-reading manipulations rarely move costly actions.\", \"ates\": {\"trust_multidimensional\": 2.2, \"trust_post\": 1.9, \"distrust_post\": -1.3, \"funding_perceptions\": 1.5, \"policy_role_mean\": 1.5, \"inst_trust_mean\": 1.1, \"belief_post\": 2.3, \"concern_mean\": 1.4, \"policy_general\": 1.5, \"policy_specific_mean\": 1.1, \"behavior_mean\": 0.7, \"donation_ams\": 0.06, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1512,
+      "output_tokens_details": {
+        "thinking_tokens": 890
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This is a classic consensus-messaging arm, strengthened by an interactive estimate-then-correct format that directly corrects a widespread underestimation of scientific agreement (most Americans guess ~65-70% rather than 99%). Meta-analytic evidence (gateway belief model; Bayes, van der Linden) shows consensus messages reliably shift perceived agreement a lot but downstream belief, concern, and policy support only ~1-3 points on 0-100 scales, with trust in scientists moving modestly since consensus speaks mainly to competence (and, via the honest acknowledgment of genuine uncertainty about net-zero timing, somewhat to openness/integrity). I therefore put the primary trust ATE at roughly +2 points, with the pre-anchored single-item trust and belief measures slightly smaller-to-similar because respondents recall their earlier answers, and distrust moving less than trust (asymmetric, floor-ish for skeptics who may show mild reactance). Institutional trust is diluted by the federal-government item, so I shade it down. Policy/behavior outcomes are two steps removed from the manipulation, so I place them below the trust effects, and incentivized real behaviors (donation, newsletter) get near-zero but slightly positive medians, since single-reading manipulations rarely move costly actions.",
+      "ates": {
+        "trust_multidimensional": 2.2,
+        "trust_post": 1.9,
+        "distrust_post": -1.3,
+        "funding_perceptions": 1.5,
+        "policy_role_mean": 1.5,
+        "inst_trust_mean": 1.1,
+        "belief_post": 2.3,
+        "concern_mean": 1.4,
+        "policy_general": 1.5,
+        "policy_specific_mean": 1.1,
+        "behavior_mean": 0.7,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

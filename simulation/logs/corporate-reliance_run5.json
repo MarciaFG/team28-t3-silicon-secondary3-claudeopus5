@@ -1,0 +1,63 @@
+{
+  "condition": "Corporate reliance",
+  "run": 5,
+  "timestamp": "2026-08-30T17:37:15.939Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLbTKDTn2SDmCTFTzUx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "The corporate reliance intervention works as a surprising-validator argument—profit-driven actors trusting climate science signals credibility, especially to right-leaning skeptics, by targeting competence and freedom from ideological bias. With its added reflection prompt boosting elaboration, this should land among the stronger arms for trust, particularly on the competence dimension.\n\nWorking through the estimates: trust_post around +1.7, distrust_post around -1.3, moderate gains for policy_role_mean (+1.3) since scientists are shown advising business decisions, smaller effects for funding_perceptions, inst_trust_mean, belief_post, and concern_mean, and modest bumps for policy and behavior measures. The overall trust_multidimensional score seems solidly in the 2.5-3.0 range given the non-accusatory framing, low reactance risk, and interactive component—I'll settle on 2.7, while noting the competence emphasis is strong even if integrity effects are more modest.\n\n",
+        "signature": "CAISwBIKjgEIERgCKkCzZFOYUaMPR9yHdeDcmytMgsev2lRapfswGhC+q4+IOqI9U67Qr+EGNMJNf32UIjgndmBKes3NAr8IXxl8IEHEMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAcTU0dQGEgwpjFj7pBbOyHmBfeIaDILJb2Zt9mUGL1PIGCIwbj2TJgkCwIR+PWAojEVcOAUzCon2KhXlZyHxZZ5dtip2WRCOzJN5md8tws20GoWyKt4QyabJoFWBmKA5k2rfsgg5dsmqJzNBA3Nbp7ZuXS9X8KMZqTPmbbK8aZZ42te01PaR7vYkGq6aBSOdke2marUk5WHkBPITDsZLbhxSoStRcYyK2HqddyBF42oNeA0tl9a7RQ5e7v2lb0/PIaFIDiOo0DoYbYqGSRSqU97Ry8tOD9u4zgCzfTGTVoGt86jcWRujMZoRjm0yp5GmW7/Gz9EC5JQCD/ThmsYGkVDWOqCS0T6IgqzKd7XZP7eO0Ciaxxo4dM5va31SQ+W903ZzNtkaerXaZwD1U59AYgIV88NZ3ClDb/sMqLlpZA1zHW0dCuqzxGPKrXgkoNSslapGFJ2lHHGEu9p+i9PEkDojwg7koIP6+kOEh2xG2GavbCYgCckdbrcYQq9X601ylWJel7hHTjt50AoUcREdZH4tbjyTNB35OsYNvw8K3+PYjTgHJ8WpSxdNgk2bvyBdyZLKN2hjiuR7jkF+wiOrSfX0qvWelCmDaMyZmKLDA3+j7vSLBVK+yLErq6wO1aZC3WMlXHqz1p2VzpMlOn8MULZWLJ4i3Nw1mkbjm8ZuTsOHYLym/corSPXDjY81OkS7cvmn/RBX9BKlRGDqX6lGbbIo0i095OGen8UXtH0weahnMkP6QPL0O3nHhhnBq93vemJ/nsQlBkqq1RX1jeDoNFxkUeH6EYi2R5U1hGL2M0F8wJ3tsNsA84s2HAB1NMnm+E+X4lBpWrqZx0TJSCATMdopmfP7aOL+YxwJRoIPfTy6lu5fHf5oyiZFsIHEtNXwWMx1zRqDUKo086MK5skv2OhylXonj/z+fbYnKSot06+dcu239DXPHK+5fRuWD3rTu/wQ3uRdDMcIAiMO2MZYxqYR96rrCptCZhB8oFGnYC/Hlrlgowjj6Ep9fct7Ja2X+miuTC/Wq8zvQ3+8GzkldSEXSTt8HPXJg5HP8ys2PYRseVUnajwXAJvvU/G2mjBdLVGnOKvfMKqRFjYaPJ5ekD0ohkKAMsh1kNBER7GASk0NB1ZkORf90peCIfU/CFzpmDbO2JSwB9WUvnvh+Tw6bShl9MpGlgnDxmcQ0Db2XZKKfzMCAuehDURFcx5CUD7aOGq1aniWvbx5hy9kY6EJnWb8Dwr58gxJkKpZdgvJH6bJI7C70wzsaSqpv3sb7HAgCmSYlGZeRKnRVNdQvBDcRF5CNBswxm+Bcg+N3k5KoEq5GauURkYKrypRRt2o5MRFyPFhd27zjdSW/P8VWOUFocmqBPESfR90QwFhFntfe+CckOmE90upEDC+iF9c8ctCJp2e6hXySLuicXPvMXhw8yGupVTsi8LZ5QxNY+Rj5UAXQ6X5JYRavaWubfQfC9J+K6aQFVH+RLyJS8xm+aZSdDNtezmQOVkY0bneyFm4lNPl+kwXGB/NNTqcm7i/jQ3qEOaoaaX+hpT7t3VL4Q9EVWuHiArgAxIjWDAvy2wg+3hj019DTRxQ3Bhw1eWNP3OhKNFKM4nfni987eLVFApwG3qJjXoF/KCEwFx91OWCDJup34mL3NQZTzDrkupQMCLkgTpn7RXiqXpMaw7NyAoapqLDF4juU3sr0+MHhgbEsQ2cqZxTjJf//Mmwn3x32EXvbvHvQNgrKfFUHyu4+2pyaz1hcQBaPDfi4JUZDM/Tigx5236XkY4uLlf+sziIhG8cxKXoY3dEr/18RrrqgcTHgHBIttt5iJMUEXKQTaLjinftTdoSi536/rHo2C/nD8xP0kD56FfAZMhVf/4+VX6q92HskYVf6IOGdGw2Qv7Jp6EOABCEGLFkLpXKF/Qd1eHTIioU6F4Bqymr2MmKn9VN4hAuNtAq4nDjc3pZ7h8F+O6xwucdPhoOgJ3lZtEihC7LgGM156B5mZHYYW9PqQQ9n3Gbp3zercC0CgQIKDimXevpKP8cturtBlfYv89r6O3bLirb9VUYERI5yZwla2JeRzDZYyJ9YoPpbM6dyA95rnpvfcdRvDZVmJ2ermuwt5ykCOwg7TwNY43+1tp1jEh4dpJ2EIZM4bGGk/x/gwUr7Lf0T7wu1PD/V02wb44fd41t9y3C4PBolUcMt3EfG4Z9qDxXW7MJoFLFv0Jnvv4ZijxlYF4E/+rgGiBqevkp7gXl9vMH3BrB5pFahXNWso9lY4owUUqjwtAZE8Wc8LG+wM0qCNdzZ755Tz+eXmkd/vRChjclxaM676AL+3Co+ib/a8+40gc6dG2K3N4y1mH440+//8AwlfysvTgPTc8a2+ehK+0apRaDhBiTMjuUedTeE00Prj/rnv2DfxmZswvYgo4jmnCI/aomohen9SbEMrggDaDE0nhbGosJZaRhbWp/B8WKY/e1hhjhRmYjyJOL+eOAkRUERRoDPuo52bYVpr7qCJryFmPE2N0PJCdR9S48ZJYWhEsarJtKYXntYpyBx3rYE+5q9GDdFWOI4BOxOTEXaH/8T5NbILLwwu3RXLF7gXPgS+CnDpynR8nV36M3IvL9L7F00QxF/CDI4fdF20WF0/SehPXdWvRcMQ/eIJuWPXZ2he48Y5aR+9MNIQlv0UpOi+dOsXcAVBUQDRocE4ChbN1vlWToB+TQhSlwnN23ptqaKMWLCv4XMbfwxK1HzWdY2CFpImpBftKWSyQJLMoD6MJLYVbHoVnXZYZLFAVWGSX4pnie1Sc6+qmnT1W/wFy11S9JBHASnXZqPNeQ3eeHjOi5bXd+zyJ3fiVZvT4VXciLHtbqmGUNWtjgbxjeYNti4bUx0zmVaEmJe12deiR/vxf4UrOqUlmcgdkkEMfWtAj43uAqkRgT7YAhvMmWDIUVNZjv/3Hv7HNGm5el+dB5TYssB4CAUait0AzBwIhcUoOX4T1RGAE="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The 'Corporate reliance' text works through a surprising-validator / source-credibility mechanism: profit-motivated, ideologically non-suspect actors (insurers, global manufacturers) stake money on climate models, which is a strong implicit argument for scientists' competence and freedom from ideological bias, and it should resonate especially with right-leaning skeptics where headroom is greatest. It is non-accusatory (low reactance risk) and includes a reflection prompt that encourages elaboration, both of which push it modestly above the average arm on the primary trust battery; however, the content mainly targets competence/integrity rather than benevolence, diluting the four-subscale mean. Because trust and belief were measured pre-treatment, the re-asked single items (trust_post, belief_post) are anchored and should move less than the fresh multidimensional battery, with distrust shifting negatively but less than trust shifts positively. Distal outcomes get progressively smaller effects: the policy-role items gain some lift because the text shows scientists guiding real-world decisions; concern gets a slight boost from the risk framing (sea-level rise, extreme weather, financial losses); general/specific policy support and behavioral intentions move under a point since no policy argument is made; funding perceptions barely move (private-sector reliance could even substitute for public funding logic). Incentivized outcomes are calibrated to a few cents for the AMS donation (slightly favored by the forecasting/meteorology framing) and under one percentage point for real newsletter sign-up.\", \"ates\": {\"trust_multidimensional\": 2.4, \"trust_post\": 1.65, \"distrust_post\": -1.35, \"funding_perceptions\": 0.55, \"policy_role_mean\": 1.35, \"inst_trust_mean\": 0.75, \"belief_post\": 0.85, \"concern_mean\": 0.8, \"policy_general\": 0.55, \"policy_specific_mean\": 0.45, \"behavior_mean\": 0.3, \"donation_ams\": 0.07, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 685,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1482,
+      "output_tokens_details": {
+        "thinking_tokens": 798
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The 'Corporate reliance' text works through a surprising-validator / source-credibility mechanism: profit-motivated, ideologically non-suspect actors (insurers, global manufacturers) stake money on climate models, which is a strong implicit argument for scientists' competence and freedom from ideological bias, and it should resonate especially with right-leaning skeptics where headroom is greatest. It is non-accusatory (low reactance risk) and includes a reflection prompt that encourages elaboration, both of which push it modestly above the average arm on the primary trust battery; however, the content mainly targets competence/integrity rather than benevolence, diluting the four-subscale mean. Because trust and belief were measured pre-treatment, the re-asked single items (trust_post, belief_post) are anchored and should move less than the fresh multidimensional battery, with distrust shifting negatively but less than trust shifts positively. Distal outcomes get progressively smaller effects: the policy-role items gain some lift because the text shows scientists guiding real-world decisions; concern gets a slight boost from the risk framing (sea-level rise, extreme weather, financial losses); general/specific policy support and behavioral intentions move under a point since no policy argument is made; funding perceptions barely move (private-sector reliance could even substitute for public funding logic). Incentivized outcomes are calibrated to a few cents for the AMS donation (slightly favored by the forecasting/meteorology framing) and under one percentage point for real newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.65,
+        "distrust_post": -1.35,
+        "funding_perceptions": 0.55,
+        "policy_role_mean": 1.35,
+        "inst_trust_mean": 0.75,
+        "belief_post": 0.85,
+        "concern_mean": 0.8,
+        "policy_general": 0.55,
+        "policy_specific_mean": 0.45,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

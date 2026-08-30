@@ -1,0 +1,63 @@
+{
+  "condition": "Corporate reliance",
+  "run": 2,
+  "timestamp": "2026-08-30T17:37:13.528Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLbSniQvr3VR3Jdc4bY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This \"corporate reliance\" argument uses market-based validation—pointing out that profit-driven actors like insurers rely on climate models—as evidence of competence and non-ideological accuracy. It's a credibility-by-independent-verification approach that should resonate especially with conservatives who trust market signals, and the added reflection prompt should strengthen its effect further.\n\nI'm estimating trust_multidimensional around +2.6, with competence gains driving most of that, while trust_post lands near +1.9 and distrust_post drops to about -1.5. Funding_perceptions gets only a mild boost (~+0.6) since private-sector reliance isn't a direct funding argument, while policy_role_mean rises more substantially (~+1.3) given the emphasis on scientists advising decision-makers. Institutional trust, belief, concern, and policy measures all show smaller positive shifts (roughly +0.3 to +0.9), with behavioral and donation metrics barely moving. One caveat: framing this around corporate profit motives could backfire with left-leaning respondents who might read it as cynical corporate co-optation rather than genuine validation.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm uses a market-validation credibility argument: profit-motivated, financially exposed actors (insurers, global manufacturers) stake real money on climate models and actively hire climate scientists. The mechanism is independent, non-ideological verification, which directly targets the competence and integrity/non-bias dimensions of trust and is counter-attitudinal for skeptics who see climate science as politically motivated; the added reflection prompt encourages elaboration, which slightly amplifies immediate effects. I therefore put it modestly above the average arm on the primary trust battery (~+2.4 points, d≈0.10), with the re-asked, pre-anchored single trust item smaller (~+1.8) and a roughly proportional reduction in distrust. Downstream outcomes get progressively smaller effects: scientists' policy role gets a modest boost (the text depicts scientists usefully advising decision-makers), institutional trust is diluted by the federal-government item, and belief/concern/policy/behavior fall under ~1 point since the text argues about scientists' reliability rather than urgency or policy. A small countervailing risk (corporate framing could read as co-optation for some left-leaning readers) keeps me from going higher. Incentivized behaviors are held to a few cents and well under one percentage point.\", \"ates\": {\"trust_multidimensional\": 2.4, \"trust_post\": 1.8, \"distrust_post\": -1.35, \"funding_perceptions\": 0.7, \"policy_role_mean\": 1.2, \"inst_trust_mean\": 0.65, \"belief_post\": 0.85, \"concern_mean\": 0.75, \"policy_general\": 0.55, \"policy_specific_mean\": 0.42, \"behavior_mean\": 0.3, \"donation_ams\": 0.04, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 685,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1390,
+      "output_tokens_details": {
+        "thinking_tokens": 783
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm uses a market-validation credibility argument: profit-motivated, financially exposed actors (insurers, global manufacturers) stake real money on climate models and actively hire climate scientists. The mechanism is independent, non-ideological verification, which directly targets the competence and integrity/non-bias dimensions of trust and is counter-attitudinal for skeptics who see climate science as politically motivated; the added reflection prompt encourages elaboration, which slightly amplifies immediate effects. I therefore put it modestly above the average arm on the primary trust battery (~+2.4 points, d≈0.10), with the re-asked, pre-anchored single trust item smaller (~+1.8) and a roughly proportional reduction in distrust. Downstream outcomes get progressively smaller effects: scientists' policy role gets a modest boost (the text depicts scientists usefully advising decision-makers), institutional trust is diluted by the federal-government item, and belief/concern/policy/behavior fall under ~1 point since the text argues about scientists' reliability rather than urgency or policy. A small countervailing risk (corporate framing could read as co-optation for some left-leaning readers) keeps me from going higher. Incentivized behaviors are held to a few cents and well under one percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.8,
+        "distrust_post": -1.35,
+        "funding_perceptions": 0.7,
+        "policy_role_mean": 1.2,
+        "inst_trust_mean": 0.65,
+        "belief_post": 0.85,
+        "concern_mean": 0.75,
+        "policy_general": 0.55,
+        "policy_specific_mean": 0.42,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.04,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

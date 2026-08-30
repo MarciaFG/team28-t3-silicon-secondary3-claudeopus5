@@ -1,0 +1,63 @@
+{
+  "condition": "Model accuracy",
+  "run": 1,
+  "timestamp": "2026-08-30T17:38:55.514Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLj71omKFi9gfvoFM7k",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This one hits the competence dimension of trust by addressing the classic \"models can't predict\" skepticism, backed by a credible Science magazine source with concrete numeric track records. It's a bit dry but the acknowledgment of limitations adds integrity, so I'd expect around +2.3 on multidimensional trust.\n\nI'm working through the secondary outcomes: trust_post around +1.6, distrust down around -1.3, modest funding bump near +0.8, policy_role and inst_trust more diluted around +0.7-0.9. Belief in human-caused warming gets a decent lift near +1.0 since the piece ties prediction accuracy to pollution as the driver, with smaller downstream effects on concern (+0.8), general policy support (+0.6), specific policies (+0.5), behavior (+0.3), and tiny bumps to AMS donation (~+0.08) and newsletter signup (~+0.008). I'm settling on decisive non-round values for each.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm directly rebuts a concrete, widely circulated skeptic criticism ('models can't predict the future') with a verifiable 50-year track record from a high-credibility source (Science), which loads squarely on the competence dimension of the multidimensional trust battery; the candid acknowledgment of where models erred (and why — human-emissions inputs, not physics) should also nudge integrity/openness perceptions rather than raising suspicion. It is counter-attitudinal evidence for skeptics, but the format is dry and expository rather than narrative or messenger-based, and there is no interactive correction, so I place it slightly above the average arm on the primary trust outcome (~+2.2, d≈0.09) but not at the top. Because accuracy of prediction implies the warming signal and its anthropogenic input are real, belief and concern get modest positive spillover (~+1), attenuated further by pre-treatment anchoring on the re-asked belief/trust single items. Funding perceptions and scientists' policy role get small positive effects (demonstrated competence justifies both), while institutional trust is diluted by the federal-government item. Policy support and self-reported behavior are distal and get sub-point effects; incentivized outcomes get only a few cents and under one percentage point, with the AMS donation slightly favored since meteorology/modeling is thematically matched.\", \"ates\": {\"trust_multidimensional\": 2.2, \"trust_post\": 1.6, \"distrust_post\": -1.35, \"funding_perceptions\": 0.85, \"policy_role_mean\": 0.85, \"inst_trust_mean\": 0.75, \"belief_post\": 1.05, \"concern_mean\": 0.8, \"policy_general\": 0.65, \"policy_specific_mean\": 0.5, \"behavior_mean\": 0.3, \"donation_ams\": 0.07, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 894,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1169,
+      "output_tokens_details": {
+        "thinking_tokens": 544
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm directly rebuts a concrete, widely circulated skeptic criticism ('models can't predict the future') with a verifiable 50-year track record from a high-credibility source (Science), which loads squarely on the competence dimension of the multidimensional trust battery; the candid acknowledgment of where models erred (and why — human-emissions inputs, not physics) should also nudge integrity/openness perceptions rather than raising suspicion. It is counter-attitudinal evidence for skeptics, but the format is dry and expository rather than narrative or messenger-based, and there is no interactive correction, so I place it slightly above the average arm on the primary trust outcome (~+2.2, d≈0.09) but not at the top. Because accuracy of prediction implies the warming signal and its anthropogenic input are real, belief and concern get modest positive spillover (~+1), attenuated further by pre-treatment anchoring on the re-asked belief/trust single items. Funding perceptions and scientists' policy role get small positive effects (demonstrated competence justifies both), while institutional trust is diluted by the federal-government item. Policy support and self-reported behavior are distal and get sub-point effects; incentivized outcomes get only a few cents and under one percentage point, with the AMS donation slightly favored since meteorology/modeling is thematically matched.",
+      "ates": {
+        "trust_multidimensional": 2.2,
+        "trust_post": 1.6,
+        "distrust_post": -1.35,
+        "funding_perceptions": 0.85,
+        "policy_role_mean": 0.85,
+        "inst_trust_mean": 0.75,
+        "belief_post": 1.05,
+        "concern_mean": 0.8,
+        "policy_general": 0.65,
+        "policy_specific_mean": 0.5,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

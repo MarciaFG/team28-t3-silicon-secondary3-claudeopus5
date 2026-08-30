@@ -1,0 +1,63 @@
+{
+  "condition": "Oil industry misinformation",
+  "run": 1,
+  "timestamp": "2026-08-30T17:37:38.394Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLcybu33ccgUsd5hncJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This looks like the inoculation arm, using vivid narrative details like Santer and Mann with an explicit \"trust climate scientists\" framing that reattributes distrust to oil industry deception. It's likely persuasive on trust, though the accusatory fraud/corruption framing risks triggering reactance in conservative readers — still, it's probably one of the stronger-crafted arms overall.\n\nI'm estimating trust_multidimensional around +2.3, trust_post shrinking to about +1.8 given re-asked item anchoring, and distrust_post dropping substantially to around -2.1 since the text directly confronts distrust reasons. For funding_perceptions I'm setting roughly +1.6, and policy_role_mean around +1.3 given the implied scientist-advocacy angle.\n\nI'm also filling in inst_trust_mean at +1.0, belief_post around +1.2, concern_mean near +1.6 given the vivid catastrophic framing, policy_general at +1.4, policy_specific_mean at +1.4 (fossil fuel taxes especially), and small behavior_mean, donation, and newsletter effects. I'm leaning toward keeping the multidimensional trust estimate at 2.4 given the length and sourcing of this arm, while noting a possible partisan backfire risk from the anti-oil-industry framing that could offset gains among Republicans.\n\n",
+        "signature": "CAISxxQKjgEIERgCKkDN6l25tUwR1iKDQElDbDns4JrpF8ALaPfh9shH7b+jfPkp+HLPEvUY+yOopP3pZnwpOA7+34+8hR9Ik4KLxpEZMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAdzU0dQGEgxkR6laj0iFnR0V+UQaDPJUcdpHhwbPbTDR6yIw+/fiKDqvmEhaeOkdpRBMaLeCaJuu79iEhTwF6HWp1rLM50puM/SNk9L8q0XKhyGbKuUSk1MtI69BraNQEOUmgTdnibUPqXt/7vdcYcLOcRqvuwdIqwmYLMxZne4RjHpfIYoO+zLsxFVDy1APkBsdf+ZZpl+fUtiLc5VPMreQcZfvublcyMuSQ3kQ0BAk1kBdGKoxRLyp0o3y4PuaFex3FiciU90gqEl2CfhcPRbM5180uKvgCiAQ0VJXkLQo5KemhrzOXn6q4uszIZbIgG2xzj9MhMad4OG3Wja7o9BzjlXphGpAQAI/9oG5kR31t3eebf7xRkzIGPJoQ36oIbAWwP4wOqCQHeo1bgIgd9LTMRgZ/UJdRm5fj1CDC1IPH+X12Ykho10WA67ODAlByK8sCKdIrbCR4oKw7b3D/A0JVjb3uZ0BQeZKxnWhdMMMn/XhqLcEBEDFavMMhMvtrD7rfvyb0YhX9y848wcs0lvqksFVbwQ0ZtomsKoY0JSj1EUu3rl6eaBhRfl0o53uoOcAqvalTHgDxwpKkzECO1DOG6HAQzCvdBo/tZaMTqc1037esCuJHKTY94N0tyWknOA13Tby/rxWx8mB/uizMKakJ20uSvJhFhRctKPPLRWrYNbNdqlrG4T8ONKRl7hdUcwdqWuRvShKnUwBAWzENqHRIWXtGeDk6ZQqrKuPeugUnrIRy10rxKqJBpHbEhSPxfn2BvsQNS8zQLGGIDP9jgI34MD+X7wGQ2QwT3itgJpfPEsi3oszzHm37Q9ASNJ2fsl4XI42OBTXhfcgdmRVGticymimU1VrsCV7vqxuDTzy181odzcUDtxrqj3DI//vf1D3+IuYmoAzNd+eZ4wUpkw3LVbvkk8jGtGhhFp260eNvLze84dct7YHmVvbLVFO+yOucQdm8pjc/hM6hRbj4sTeaGGrsEhY7WV722TERQja0//ELS59KCpxixz/RaP/GHAmAt6FURtQROxum1qBMAi861eSbfusgw8/8YxYYXkbQC46oeEPV/h+BWVRPLbdFDBg7ylQ9RJuRPT11q8ePE3ySiyDER3QAH1+rYyRnZuTWNLtZWCYJ6Hn00BTwDZWR1L12pSiCGQfheVZTDh7orEvisURloNPG4doku6NFQmA1ZYHRYwg11Y6R8cUAyOAQBilqcSi0Ux/2Nir9z+jm3Wx8xWsgdezBjULHdYbuz1WK8aa1av/tjnv2C2HNQUHGvmZdsF0owX7mZXW7N+tFzMXdVTDv1AFZqxCsSmJjRsu9TtXRehE8FiU21LjIEtTzKcA4P/xYYogjVEwj92Ywiz/81SMnU62CaT7ACNADJsTFY0frvK4oRMfbLJyopy/qLPuuq7BQEosYIO5NZr4jHarJaNvh7L9bIxmimul7OH6l2rTsZksRJIkKn38HS+4Ihz2xC5b/Sgvt1LEqUAy2W+asu5y3TB4/wkGwnOOeGZS7ldl0YX3VVEJeVgLHzrsJCBER9qRavbJoPHnQg6pZPfl+6crM8YLZJDqIpfF/yDzE92tmnlkgsuBQENKzM671VigRlN7HP/XaytkreJOofc/AQCkG0d2l1axe15S694PEqdWIag8H8e6vYtS+rtTuWTwTz34Y6FPJqZIfN9BspUxx50mH5gC3W9x1DeGjaMWwNibglcVhhJ7dscbWOUx5VrxH34rpiSTBQMnfr558tttb7/xo8IqVJnfu96AK7QnRPsElvReuCxVzuT5n+O+h63uCErsfwd/DGH98bIGEGVCvr0XqHxCoVdQJH36LH6qhXdYEqbR6zACC/CmsH8AHldB6dNGjqOqoGmjutEsQ4s8zCK4IMeEM0afX2XIcCxufYIluHTdRHPtkgyNoYS2XP/dsEK926fMPLjRfWGX0shh8id9etJjy6Q5uCp/nVGeUqXtXjq7MjaBonhjl7KaXUfcycxZjz024FKLy/JHQAR6YxhUgVNTx47AfBHaGSGOs85DtTK4sYXyt6ImXMSIfcPmshbHZU7AEq3ZYjXltYxFNT1C+MNBF2u47GZjMYTcLi5QgIoUCnqSwyVz1b77TpTSpPzhDZX2QvyUun5PrbRzlVspyVJ0X+LnBi7t+54sxoUsP58UAImCafqM1PrVGX0MvwWaGpJZ5L66ipdkjBmEff2sXthTFP7FsPOSYIkj9jkFtLr5YCqJytDHeQUPVQeLQt5AeIyPj0gxA5ZnD7Gq+O0X9CwZffKbD6hy5ICJhpwiQjHsVMww/8nVjA8qEtuzF0NROdnDf99NaRmguZ6e+8Nt5O3fquufjRDJIkDQOqRyPFm375SsSDeyMqQ8Z3hDejOaZ3aMXEgGWnqkA7h8lCtHxPzZc7xmZTgYjkoCEMxm9mIu5jn+2chSAdbYGLK8DbIj+shkZmbI1p5ZfcQrPORjLEnY6DKc6h7ubu1jlagubV5GkFvn6nNrUEXiDtgHNmoIAoKxUCTXGT4DJTiJ8MKb6KmGNz8W0JkwBaYfWB168esLHxc6J5arrByha94WqL8foH7396UPZOlJZGhGd2Ed2rss2ew0cLgfpbF8zJ3w7cRG/ExuUyW+Gu5+DElPLXlGefJcJ03x6Z3A6Gw7zT7N2WjJd2UPKG1kBdqij9w99aznrPJImQ58IFFsSjZFp5xNxd9hV5on4kQIYdOHinft8IE0p4UruktfL2CZxRV7IKWJKctLxcjLpbmW+Dm74Vr5nxIgsKuLdVW+X9h6M536n7PI1KKXrXVhL0VMkwVDPIWkfuJM5G9rPOT9wE8RIZePJYQ21WVcE2I2SnGjv2suPmsIyyzcKVAeK+T0bJNeDyNps81OeDdTdGJaALK3BTjaP6KvOA1aKfd6CToKcRMfesDK18PB3WqoRjhEBouV0GTdqiUY3xHnlKyf+pEo3WLmb9zhqCNidNVSZjKYJMRBLNxAylOQXPZIluZz3RS18TsELMMwIg48b4aZtlIrk9uY4uCVylPDziiPD6POBT4M8e4sywR6PnFFzzRWc6vBO0HOpLJwAr3aVgJecBTrhiHsKeBY1khacCTlASB3QPB7gHQg99/s887MgnPoVz3tYwiJedqTl7vIARAL5j50cVz9MqBH2aLg5biJoAudSlipu0p9N45k6Xrn2BVRxvQWSgRAsj8pyGKhVLSZctbibkOkej/+8rjpwCMGWNmf8nOstfGgCWbZ0FPYvL4jTiVCNIliBjCHW3WYVTiH9Jgbzf5prU9VY3PEUblAf/lB6mB2ZIR5fe69xLyS71m2o74IotP4LS3d+qoYAQ=="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a classic inoculation/'merchants of doubt' message: it explicitly reattributes existing distrust to a funded fossil-fuel disinformation campaign, adds vivid narrative detail (Santer, Mann harassment), documentary evidence (internal memos, dollar figures), credible sources, and closes with an explicit directive ('trust the climate scientists'). It directly targets the primary trust construct and, unusually, directly targets distrust by naming and explaining it, so I expect a somewhat above-average trust ATE (~2.4 points, d≈0.10) and a comparably sized reduction in distrust. Re-asked items (trust_post, belief_post) are shrunk by pre-treatment anchoring/consistency pressure. Because the text vilifies oil companies and stresses that the 'debate' was manufactured, there should be modest spillover to concern, general and fossil-fuel-specific policy support, and to research-funding attitudes, but these are distal and stay near or below 1.5 points. Institutional trust is diluted by the federal-government item; behavioral intentions move less than half of attitudes; the incentivized donation and real newsletter sign-up move only a few cents / ~1–2 percentage points. A partial offset is reactance risk among conservatives to an accusatory, left-coded anti-industry frame, which I priced in by not pushing trust above ~2.5.\", \"ates\": {\"trust_multidimensional\": 2.4, \"trust_post\": 1.9, \"distrust_post\": -2.2, \"funding_perceptions\": 1.6, \"policy_role_mean\": 1.3, \"inst_trust_mean\": 1.0, \"belief_post\": 1.2, \"concern_mean\": 1.6, \"policy_general\": 1.4, \"policy_specific_mean\": 1.35, \"behavior_mean\": 0.6, \"donation_ams\": 0.07, \"newsletter_signup\": 0.014}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1819,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1558,
+      "output_tokens_details": {
+        "thinking_tokens": 914
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a classic inoculation/'merchants of doubt' message: it explicitly reattributes existing distrust to a funded fossil-fuel disinformation campaign, adds vivid narrative detail (Santer, Mann harassment), documentary evidence (internal memos, dollar figures), credible sources, and closes with an explicit directive ('trust the climate scientists'). It directly targets the primary trust construct and, unusually, directly targets distrust by naming and explaining it, so I expect a somewhat above-average trust ATE (~2.4 points, d≈0.10) and a comparably sized reduction in distrust. Re-asked items (trust_post, belief_post) are shrunk by pre-treatment anchoring/consistency pressure. Because the text vilifies oil companies and stresses that the 'debate' was manufactured, there should be modest spillover to concern, general and fossil-fuel-specific policy support, and to research-funding attitudes, but these are distal and stay near or below 1.5 points. Institutional trust is diluted by the federal-government item; behavioral intentions move less than half of attitudes; the incentivized donation and real newsletter sign-up move only a few cents / ~1–2 percentage points. A partial offset is reactance risk among conservatives to an accusatory, left-coded anti-industry frame, which I priced in by not pushing trust above ~2.5.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.9,
+        "distrust_post": -2.2,
+        "funding_perceptions": 1.6,
+        "policy_role_mean": 1.3,
+        "inst_trust_mean": 1,
+        "belief_post": 1.2,
+        "concern_mean": 1.6,
+        "policy_general": 1.4,
+        "policy_specific_mean": 1.35,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.014
+      }
+    }
+  }
+}

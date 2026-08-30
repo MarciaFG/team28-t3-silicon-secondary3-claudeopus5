@@ -1,0 +1,64 @@
+{
+  "condition": "Peer-review",
+  "run": 2,
+  "timestamp": "2026-08-30T18:19:29.487Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPpHaJ4fj41cc3QXaQj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This peer-review message emphasizes accountability, self-correction, and competitive scrutiny, which tends to boost perceived rigor and competence. Though some skeptics might see \"consensus\" framing as gatekeeping, I'd estimate a modest positive trust effect, roughly +2 points.\n\nCalibrating against typical megastudy patterns, best-performing interventions usually shift trust by 1-4 points on a 0-100 scale, with downstream effects like belief or policy support smaller still. I'll estimate trust_multidimensional at +2.2, trust_post around +1.8 given anchoring effects, distrust_post at -1.3, funding_perceptions at +0.8, policy_role_mean near +1.0, inst_trust_mean around +0.9, and belief_post roughly +1.0.\n\nFor the remaining outcomes, I'm settling on concern_mean and policy_general around +0.8, policy_specific_mean lower at +0.6, behavior_mean weaker still at +0.4, and near-zero shifts for donation and newsletter signup given how resistant behavioral measures tend to be. I'll finalize these with non-round values for realism.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The peer-review text is a process-transparency/quality-control message: it explains an unfamiliar-to-many institutional mechanism (independent, competitive scrutiny; rejection; mandatory revision) and thus should most directly raise perceived competence and integrity of climate scientists, with a secondary consensus cue ('experts across the world consistently reach the same conclusions'). Such 'how science works' messages are usually among the moderately effective arms in trust megastudies, but single-reading text effects on 0\\ttcap100 scales are small: I center the primary multidimensional trust ATE around +2 points, with the single-item trust measure slightly attenuated by pre-treatment anchoring. Distrust typically moves less than trust and in the opposite direction, so I use roughly -60% of the trust effect. Downstream outcomes (belief, concern, policy support, funding) are progressively attenuated because the message says nothing about risk severity or policy; belief gets a small boost from the embedded consensus framing. Self-reported behavior and the two incentivized/real behaviors (donation, newsletter) should be near zero, since a brief epistemic-credibility message rarely changes costly action; I allow tiny positive values. I also discount somewhat for the possibility of mild backfire among skeptics who read peer review as gatekeeping/groupthink, which pulls the medians down modestly.\", \"ates\": {\"trust_multidimensional\": 2.1, \"trust_post\": 1.7, \"distrust_post\": -1.2, \"funding_perceptions\": 0.8, \"policy_role_mean\": 1.1, \"inst_trust_mean\": 0.9, \"belief_post\": 1.2, \"concern_mean\": 0.8, \"policy_general\": 0.85, \"policy_specific_mean\": 0.6, \"behavior_mean\": 0.35, \"donation_ams\": 0.04, \"newsletter_signup\": 0.006}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 524,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1328,
+      "output_tokens_details": {
+        "thinking_tokens": 693
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The peer-review text is a process-transparency/quality-control message: it explains an unfamiliar-to-many institutional mechanism (independent, competitive scrutiny; rejection; mandatory revision) and thus should most directly raise perceived competence and integrity of climate scientists, with a secondary consensus cue ('experts across the world consistently reach the same conclusions'). Such 'how science works' messages are usually among the moderately effective arms in trust megastudies, but single-reading text effects on 0\ttcap100 scales are small: I center the primary multidimensional trust ATE around +2 points, with the single-item trust measure slightly attenuated by pre-treatment anchoring. Distrust typically moves less than trust and in the opposite direction, so I use roughly -60% of the trust effect. Downstream outcomes (belief, concern, policy support, funding) are progressively attenuated because the message says nothing about risk severity or policy; belief gets a small boost from the embedded consensus framing. Self-reported behavior and the two incentivized/real behaviors (donation, newsletter) should be near zero, since a brief epistemic-credibility message rarely changes costly action; I allow tiny positive values. I also discount somewhat for the possibility of mild backfire among skeptics who read peer review as gatekeeping/groupthink, which pulls the medians down modestly.",
+      "ates": {
+        "trust_multidimensional": 2.1,
+        "trust_post": 1.7,
+        "distrust_post": -1.2,
+        "funding_perceptions": 0.8,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 0.9,
+        "belief_post": 1.2,
+        "concern_mean": 0.8,
+        "policy_general": 0.85,
+        "policy_specific_mean": 0.6,
+        "behavior_mean": 0.35,
+        "donation_ams": 0.04,
+        "newsletter_signup": 0.006
+      }
+    }
+  }
+}

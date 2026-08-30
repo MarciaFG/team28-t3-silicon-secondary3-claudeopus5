@@ -1,0 +1,64 @@
+{
+  "condition": "Interview Prof. Sebille",
+  "run": 5,
+  "timestamp": "2026-08-30T18:20:30.179Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPtoErbm6N7WtoBMX1Z",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention centers on shared values and benevolence through a scientist interview emphasizing honesty and care for people. I'd expect modest positive effects on trust, particularly on benevolence and openness subscales, with typical megastudy-style effects landing around 1-4 points on the primary outcome—values-based framings tend to perform among the stronger interventions in this space.\n\nThere's a risk of backlash among conservatives given the advocacy-tinged language about \"urgent need\" and \"vulnerable populations,\" which could read as politically coded, but overall the effect should skew mildly positive across trust, funding perceptions, policy role, concern, and belief measures, with small but real bumps in donation and newsletter signup behavior. I'll aim for moderate positive estimates while accounting for slight dampening from the emotive framing.\n\nGiven this arm centers on scientists expressing values, honesty, and transparency, it should land in the mid-performing range, so I'll settle on around 2.6 for the primary trust effect, keeping in mind the 0-100 slider scale with control means around 60-65, where realistic effects fall in the 2-4 point range.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a benevolence/shared-values testimonial: a named, credentialed oceanographer states alarming findings and then discloses pro-social motives (care for people and nature, honesty, inclusivity regardless of belief). Mechanistically it should most affect the benevolence, integrity and openness dimensions of trust, so the multidimensional primary outcome should move more than the single-item trust question, which is anchored by the pre-treatment answer. Because the text also asserts impacts are worse and faster than models predicted and stresses urgency, small increases in concern, belief and policy support are plausible, though belief_post is near ceiling for most respondents and anchored. Some risk of mild backlash among conservative respondents who read 'vulnerable and low-income populations' and 'urgent need' as advocacy, which caps the expected magnitude around 2-3 points; the explicit framing of scientists as communicators helps policy_role. Institutional trust is diluted by the federal-government item, and distrust items typically move less than half as much (in absolute value) as trust items. Incentivized/real behaviors (donation, newsletter) reliably show near-zero effects from a single 1-3 minute reading, so I forecast only a few cents and under a percentage point.\", \"ates\": {\"trust_multidimensional\": 2.6, \"trust_post\": 1.9, \"distrust_post\": -1.1, \"funding_perceptions\": 1.5, \"policy_role_mean\": 2.1, \"inst_trust_mean\": 1.0, \"belief_post\": 1.3, \"concern_mean\": 1.9, \"policy_general\": 1.6, \"policy_specific_mean\": 1.2, \"behavior_mean\": 1.0, \"donation_ams\": 0.08, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 570,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1283,
+      "output_tokens_details": {
+        "thinking_tokens": 692
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a benevolence/shared-values testimonial: a named, credentialed oceanographer states alarming findings and then discloses pro-social motives (care for people and nature, honesty, inclusivity regardless of belief). Mechanistically it should most affect the benevolence, integrity and openness dimensions of trust, so the multidimensional primary outcome should move more than the single-item trust question, which is anchored by the pre-treatment answer. Because the text also asserts impacts are worse and faster than models predicted and stresses urgency, small increases in concern, belief and policy support are plausible, though belief_post is near ceiling for most respondents and anchored. Some risk of mild backlash among conservative respondents who read 'vulnerable and low-income populations' and 'urgent need' as advocacy, which caps the expected magnitude around 2-3 points; the explicit framing of scientists as communicators helps policy_role. Institutional trust is diluted by the federal-government item, and distrust items typically move less than half as much (in absolute value) as trust items. Incentivized/real behaviors (donation, newsletter) reliably show near-zero effects from a single 1-3 minute reading, so I forecast only a few cents and under a percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.6,
+        "trust_post": 1.9,
+        "distrust_post": -1.1,
+        "funding_perceptions": 1.5,
+        "policy_role_mean": 2.1,
+        "inst_trust_mean": 1,
+        "belief_post": 1.3,
+        "concern_mean": 1.9,
+        "policy_general": 1.6,
+        "policy_specific_mean": 1.2,
+        "behavior_mean": 1,
+        "donation_ams": 0.08,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

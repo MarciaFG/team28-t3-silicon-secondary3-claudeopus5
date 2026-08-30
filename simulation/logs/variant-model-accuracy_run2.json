@@ -1,0 +1,64 @@
+{
+  "condition": "Model accuracy",
+  "run": 2,
+  "timestamp": "2026-08-30T18:20:06.294Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPs1cw6Q4HwoBCiHLSQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This message is evidence-based and competence-focused, directly rebutting the criticism that climate models are unreliable, so it should mainly boost the competence dimension of trust and secondarily shift belief in human-caused climate change. Given typical megastudy effect sizes, I'd estimate around +2.5 to +3.5 points on multidimensional trust, with the single-item trust_post measure likely showing a similar or slightly larger shift.\n\nFor the secondary outcomes, I'd expect smaller effects scaled down from the primary: distrust_post moving negatively but less strongly, funding_perceptions and policy_role_mean each nudging up modestly, and inst_trust_mean showing a diluted positive shift since it's a broader index. Belief and concern measures should move only slightly given anchoring on prior views, with policy support and behavioral intentions showing progressively smaller effects, and downstream behaviors like donation and newsletter signup barely moving at all given how removed they are from the direct message content.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This message is a competence-focused, evidence-based rebuttal of a specific and salient skeptic criticism ('models can't predict the future'), with concrete verifiable claims and an honest acknowledgment of limitations, which tends to enhance credibility. Its most direct target is the competence subscale of trust, with weaker spillover to integrity/benevolence/openness, so the primary multidimensional index should move a modest but real amount (~2-3 points on 0-100). The single-item trust and distrust measures are anchored on pre-treatment answers, so shifts are smaller and distrust moves less than trust (asymmetric, since distrust is a separate construct and floored for many). Downstream belief, concern, and policy outcomes are further removed and heavily determined by stable partisan priors, so I expect ~1 point or less, with specific-policy and behavior indices smaller still. Incentivized behaviors (real dollars, real newsletter sign-up) show near-zero effects in such one-shot reading studies; I forecast a few cents and well under a percentage point. Magnitudes are calibrated to prior climate-message megastudies where even the strongest arms produced only a few points on 0-100 scales.\", \"ates\": {\"trust_multidimensional\": 2.8, \"trust_post\": 2.2, \"distrust_post\": -1.5, \"funding_perceptions\": 1.0, \"policy_role_mean\": 1.1, \"inst_trust_mean\": 1.0, \"belief_post\": 1.5, \"concern_mean\": 1.0, \"policy_general\": 1.0, \"policy_specific_mean\": 0.7, \"behavior_mean\": 0.4, \"donation_ams\": 0.07, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 894,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1430,
+      "output_tokens_details": {
+        "thinking_tokens": 854
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This message is a competence-focused, evidence-based rebuttal of a specific and salient skeptic criticism ('models can't predict the future'), with concrete verifiable claims and an honest acknowledgment of limitations, which tends to enhance credibility. Its most direct target is the competence subscale of trust, with weaker spillover to integrity/benevolence/openness, so the primary multidimensional index should move a modest but real amount (~2-3 points on 0-100). The single-item trust and distrust measures are anchored on pre-treatment answers, so shifts are smaller and distrust moves less than trust (asymmetric, since distrust is a separate construct and floored for many). Downstream belief, concern, and policy outcomes are further removed and heavily determined by stable partisan priors, so I expect ~1 point or less, with specific-policy and behavior indices smaller still. Incentivized behaviors (real dollars, real newsletter sign-up) show near-zero effects in such one-shot reading studies; I forecast a few cents and well under a percentage point. Magnitudes are calibrated to prior climate-message megastudies where even the strongest arms produced only a few points on 0-100 scales.",
+      "ates": {
+        "trust_multidimensional": 2.8,
+        "trust_post": 2.2,
+        "distrust_post": -1.5,
+        "funding_perceptions": 1,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 1,
+        "belief_post": 1.5,
+        "concern_mean": 1,
+        "policy_general": 1,
+        "policy_specific_mean": 0.7,
+        "behavior_mean": 0.4,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

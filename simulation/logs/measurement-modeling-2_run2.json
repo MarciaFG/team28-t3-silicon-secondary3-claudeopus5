@@ -1,0 +1,63 @@
+{
+  "condition": "Measurement & modeling (2)",
+  "run": 2,
+  "timestamp": "2026-08-30T17:38:34.787Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLhTgxVKVz4NzUKhbjZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This measurement-and-modeling arm reads as dry, technical exposition about methods and instruments, which should mainly boost perceived competence, with a smaller lift to integrity and openness through its mention of reproducibility. The jargon-heavy tone risks feeling alienating, so I'd expect only a modest trust gain, maybe around +1.5 points.\n\nWorking through the other outcomes: trust_multidimensional lands near +1.6, trust_post around +1.0, distrust_post around -0.8, funding perceptions a small +0.6 since rigor could justify support, and policy_role_mean roughly +0.4 given the tension between crediting objective science and downplaying advocacy roles. Institutional trust comes in around +0.6, belief_post near +0.7, concern around +0.4, policy_general +0.3, policy_specific +0.25, behavior +0.2, and donation/newsletter effects stay tiny, around +0.06 and +0.005 respectively — all reflecting the flat, technical tone of this variant.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm is a dry, jargon-heavy expository text about climate science methods — instruments (disdrometers, stereoplotters), statistical modeling, reproducibility, and reliance on empirical data over 'subjective impressions.' Its mechanism is a competence/rigor signal, so it should most plausibly move the competence (and to a lesser degree openness, via reproducibility) subscales of multidimensional trust, with little touch on benevolence or warmth; the technical jargon may also feel opaque to lay readers, capping the effect below what vivid or messenger-based arms achieve. I therefore place trust_multidimensional at ~+1.5 (roughly d=0.06), with the re-asked, pre-anchored single trust item somewhat smaller and distrust falling by about half that magnitude. Downstream constructs get progressively smaller effects: funding and institutional trust mildly benefit from a rigor frame, belief in human causation ticks up slightly (methodological credibility), while concern, policy support, and behavioral intentions are nearly untouched because the text is purely epistemic and contains no risk, moral, or action content. The 'objective, non-subjective' framing gives no boost — arguably a slight damper — to scientists-as-advocates, so policy_role_mean stays near zero. Incentivized outcomes are calibrated to a few cents for the AMS donation (mild thematic fit with meteorological measurement) and well under a percentage point for real newsletter sign-up.\",\"ates\":{\"trust_multidimensional\":1.52,\"trust_post\":0.94,\"distrust_post\":-0.71,\"funding_perceptions\":0.62,\"policy_role_mean\":0.31,\"inst_trust_mean\":0.58,\"belief_post\":0.68,\"concern_mean\":0.34,\"policy_general\":0.29,\"policy_specific_mean\":0.23,\"behavior_mean\":0.17,\"donation_ams\":0.05,\"newsletter_signup\":0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 635,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1219,
+      "output_tokens_details": {
+        "thinking_tokens": 560
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a dry, jargon-heavy expository text about climate science methods — instruments (disdrometers, stereoplotters), statistical modeling, reproducibility, and reliance on empirical data over 'subjective impressions.' Its mechanism is a competence/rigor signal, so it should most plausibly move the competence (and to a lesser degree openness, via reproducibility) subscales of multidimensional trust, with little touch on benevolence or warmth; the technical jargon may also feel opaque to lay readers, capping the effect below what vivid or messenger-based arms achieve. I therefore place trust_multidimensional at ~+1.5 (roughly d=0.06), with the re-asked, pre-anchored single trust item somewhat smaller and distrust falling by about half that magnitude. Downstream constructs get progressively smaller effects: funding and institutional trust mildly benefit from a rigor frame, belief in human causation ticks up slightly (methodological credibility), while concern, policy support, and behavioral intentions are nearly untouched because the text is purely epistemic and contains no risk, moral, or action content. The 'objective, non-subjective' framing gives no boost — arguably a slight damper — to scientists-as-advocates, so policy_role_mean stays near zero. Incentivized outcomes are calibrated to a few cents for the AMS donation (mild thematic fit with meteorological measurement) and well under a percentage point for real newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 1.52,
+        "trust_post": 0.94,
+        "distrust_post": -0.71,
+        "funding_perceptions": 0.62,
+        "policy_role_mean": 0.31,
+        "inst_trust_mean": 0.58,
+        "belief_post": 0.68,
+        "concern_mean": 0.34,
+        "policy_general": 0.29,
+        "policy_specific_mean": 0.23,
+        "behavior_mean": 0.17,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

@@ -4,7 +4,16 @@
 # maintainer/owner tooling — kept locally, never shipped to participating teams
 maintainer/
 
+# simulation pipeline — never commit dependencies or the API key
+simulation/node_modules/
+simulation/.env
+
+# artifacts of the team's separate GPT-5 entry — deposited in its own repository
+simulation/out_openai/
+simulation/logs/openai-*
+
 # R / editor / OS cruft
+.idea/
 .Rhistory
 .RData
 .Rproj.user/

@@ -1,0 +1,64 @@
+{
+  "condition": "Oil industry misinformation",
+  "run": 4,
+  "timestamp": "2026-08-30T18:18:53.486Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPkzrdJoHmiZxDFKUtX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This looks like the classic \"Exxon knew\" inoculation message attributing distrust to oil industry propaganda — research suggests such source-attribution messages can modestly boost trust, though the partisan framing risks reactance among conservatives. I'm weighing typical effect sizes from megastudies testing single-text interventions on trust in scientists.\n\nGiven the emotional, detailed, policy-relevant framing, I'd estimate roughly +3 points on trust, -2 to -3 on distrust, small gains in belief and concern (~1-2 points), and notably larger increases in policy support and funding perceptions (~2-3 points) since the message directly implicates suppressed climate research and industry interference.\n\nBehaviorally, small bumps for donation and newsletter signup seem plausible but modest. I suspect this could rank among the stronger interventions overall given its length, specificity, and anti-industry framing — similar to how \"Exxon knew\" style messaging has boosted trust in prior research — though I need to be cautious that priming distrust explicitly could backfire for some respondents even as it builds trust through attribution.\n\nI'm now sketching rough point estimates across the outcome battery: trust_multidimensional around +2.8, trust_post around +2.5, distrust_post around -3, funding_perceptions around +2, policy_role_mean around +1.8, inst_trust_mean around +1.2, and belief_post around +1.5, calibrating against typical effect sizes seen in comparable climate-trust megastudies where the strongest arms moved outcomes by just a few points.\n\nExtending this to concern_mean (+1.5), policy_general (+2.2), policy_specific_mean (+1.5), behavior_mean (+0.8), donation_ams (+0.12), and newsletter_signup (+0.008), and I'm now going back through to nudge these away from round numbers for a more realistic spread.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a source-attribution/inoculation message: it reattributes existing distrust to a deliberate fossil-fuel disinformation campaign, provides vivid documentary evidence ('Exxon knew'), and casts scientists as harassed victims of corporate smear campaigns. Mechanistically it should mainly boost the integrity/benevolence facets of trust and reduce explicit distrust, while also generating anger at oil companies that spills over modestly into policy support (especially government action and fossil-fuel-targeted policies). Magnitudes are calibrated to prior single-exposure text megastudies (e.g., Vlasceanu et al. 2024), where the best-performing arms shift 0-100 attitude scales by only ~1-4 points, with belief and policy items further compressed by ceilings and by pre-treatment anchoring. I treat this as one of the stronger arms (well-documented, emotionally engaging, non-preachy toward the reader), so ~+3 on the primary trust measure, with distrust moving slightly more than trust because the text explicitly delegitimizes distrust; institutional trust is diluted by the federal-government item, and downstream behavioral outcomes (self-reported behaviors, incentivized donation, newsletter signup) should be near zero since attitudes rarely translate into costly action within a single sitting. I also allow for some conservative reactance to the overtly anti-industry, partisan-coded framing, which caps the expected averages.\", \"ates\": {\"trust_multidimensional\": 2.9, \"trust_post\": 2.6, \"distrust_post\": -3.1, \"funding_perceptions\": 2.1, \"policy_role_mean\": 1.9, \"inst_trust_mean\": 1.3, \"belief_post\": 1.6, \"concern_mean\": 1.7, \"policy_general\": 2.3, \"policy_specific_mean\": 1.6, \"behavior_mean\": 0.8, \"donation_ams\": 0.11, \"newsletter_signup\": 0.009}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1819,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 2030,
+      "output_tokens_details": {
+        "thinking_tokens": 1364
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a source-attribution/inoculation message: it reattributes existing distrust to a deliberate fossil-fuel disinformation campaign, provides vivid documentary evidence ('Exxon knew'), and casts scientists as harassed victims of corporate smear campaigns. Mechanistically it should mainly boost the integrity/benevolence facets of trust and reduce explicit distrust, while also generating anger at oil companies that spills over modestly into policy support (especially government action and fossil-fuel-targeted policies). Magnitudes are calibrated to prior single-exposure text megastudies (e.g., Vlasceanu et al. 2024), where the best-performing arms shift 0-100 attitude scales by only ~1-4 points, with belief and policy items further compressed by ceilings and by pre-treatment anchoring. I treat this as one of the stronger arms (well-documented, emotionally engaging, non-preachy toward the reader), so ~+3 on the primary trust measure, with distrust moving slightly more than trust because the text explicitly delegitimizes distrust; institutional trust is diluted by the federal-government item, and downstream behavioral outcomes (self-reported behaviors, incentivized donation, newsletter signup) should be near zero since attitudes rarely translate into costly action within a single sitting. I also allow for some conservative reactance to the overtly anti-industry, partisan-coded framing, which caps the expected averages.",
+      "ates": {
+        "trust_multidimensional": 2.9,
+        "trust_post": 2.6,
+        "distrust_post": -3.1,
+        "funding_perceptions": 2.1,
+        "policy_role_mean": 1.9,
+        "inst_trust_mean": 1.3,
+        "belief_post": 1.6,
+        "concern_mean": 1.7,
+        "policy_general": 2.3,
+        "policy_specific_mean": 1.6,
+        "behavior_mean": 0.8,
+        "donation_ams": 0.11,
+        "newsletter_signup": 0.009
+      }
+    }
+  }
+}

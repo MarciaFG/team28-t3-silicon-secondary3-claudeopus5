@@ -1,0 +1,63 @@
+{
+  "condition": "Peer-review",
+  "run": 1,
+  "timestamp": "2026-08-30T17:38:20.395Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLgQpnbvrXL7po7hEi7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This peer-review explanation is a process-transparency intervention, emphasizing accountability and competitors checking each other's work—didactic but reasonably vivid and mechanistically credible, likely scoring well on competence, integrity, and openness. I'd estimate trust_multidimensional around +2.2, since peer-review explanations tend to be among the stronger trust-building mechanisms.\n\nThe other measures should show modest, mostly diluted effects: single-item trust and distrust move moderately (~+1.4/-1.1), while funding perceptions, policy role, institutional trust, belief, concern, and policy attitudes all shift only slightly since the intervention targets scientific quality rather than policy engagement directly. Behavioral outcomes like donation and newsletter signup barely move given the topic's narrow focus.\n\n",
+        "signature": "CAISygsKjgEIERgCKkACHbszFEfLae8vibIoXSBO4aMmCtph416b9Q2ZiUbUjNEDDvAtE2BfnCsoRDyEqKmNC3L0w/jyDEL1FA/UpzoaMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAYbV0dQGEgwM3LNmqJ4049RLZJYaDJL8AoNFndHnn0zSqiIwqUjGMXIQ61ueEB1JnBvKG9Rd4pU0aRyK4JjmscFW0+A2K/KXkAo86qbqWs5knQ//KugJjWjIVFd59o24oVmuTaJ7t0tTiF4OVbavr5/lNoQiyebp8ZmbHoO8Zs14QeXL2ohDOf2JwybIk6LpUnxlQXI6pF7f3AeR5Aaje2o/urTmuchT8kC9UKhFDgsOOPoX3WkJpcGdn9B2PLR0Y5QH2gRoIvJ0084jTiguRJnbLa5BTHpOeks0YthIGmkRauALsAq4aqadfsyTEt71sWSNPNiXCZL8dIUZPfHe7GvJCGnrVac9Uql6cLGf3U3E4j4kX6jIrTFlr3Ajk6/Wkb0/Fqsk1S5my9uJIdIQwWl0wYXOvEKdLqRu3njBcCaxwVwd6zvqIJnHCsEt5W0OHfyYb0dPYlTCY7hRV4ZlwZUqEDULrll3Etb0Ki7TAofa7mjCRzCFFYuCGbJtvwlNWnW9+/S+6ZwEkFilbWwrgU6qW46QacA8nSGlKOBEUu4dpPbJk0hD6AGWyLA6NMad5x0jZhazfmFW25J6/lJ9sI0kztUg43jKQTtVOStup/orfjkMHU5b1xFoGOdDb4i1yQxOCRd7aXJ0XgSrJPIPXChmBeUGkYEfJBHD+jdI+3M1oTkV46U41inHMWfq4rM6F0Ipi//kgxmG3jF7wXCyMDHy67nZz3E2gyLAWre6EUJRRlTLeNHe4VhIgQLImOWk/rQMeLuWZVk4rE9x33AhPo/m2eSEgQL3EbyHaxQw0vd29q+2iHYpj+sr/UpT6lqYeI/F6xVtKzHR6Sney0+MdQ2j9oGPymNFPpOeAU7MYlcxKektUX5rgfOO+cBpO7iuYhNY/B0NZxrRLSKkEsxN6KI64DgMdBibXCBwoxbIOxWeE5PPvJIpgjGreBAs1I98NmWkQEFCz3O+BTcytOpqdsO8eyv1E7SEtq/3MNFnlnrqYFuOdO6MrfR3QxjcLvJ1roZ3cHJWYkq/4tye4hgT87UStb0nM683nrrlGUmT99h3XZhKaqP7YOzeFyMQZXqJsQS/CConUNoAmwJ40uxoCllpmySp8ck3w7dDXDarN3/bBr+BgEwVnyMqqrw+BsN5Ki7AyES8FNkAUQxZSrSo8/pQTwg8zxhrDuVOD9yQMLUbTsEUhyQygzuFY75cN5FG0y8pHv9dfaqjkA0hQjAeL9EswcRvZqzPcl08UedmYEAPKdpAh2qZcsPCqNIXxIB6RGs13rYHulXHuhmWD7wxUlJdzzUsQxOH2g7R2JYAleZa1H043t0RwpfO5Bh2YRAKSLCd0uQ3btRJ3EXB0QxRchY6Vt78mda9uX+AejiM0cDFnz2fgna1l3fZPuT0yyQCYB213dfr8jhsm8j2/wP8EqozjVE+qZvDcusBDC9KCkIwBQiQX+Puw/DcGiuZFBZ7vujSiXwDyAx3G3bGdkGVIsA9Y3cSruoR7E2EOXytcGY7hKJrXx3JzhVhOmm6P0I7un6zNlDS4XU3kaIyGQE9QhhdJ4Kdz1eDg8uElj+dcLJE1XtSzTKxeUU2wA8wk2uMh/HcnSw5H07GvbX56jomFny6l/WblAilEC4cU3kdSHpyI9H3ulVpNa4QI11Z21nJD0WE43OCEycwgdZm4kfBUT2hNfPfe50lTS7o+xNI+RsgWl6y9btM/Dc7olb2yYXFQUks/ywkbh7h7bABWuzHuhv7iYM+M1yIYJ5lfb9SIvagGS7xkobOJ9snivPK/csYAQ=="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The peer-review text is a process-transparency/quality-control message: it explains that independent (even competing) experts vet research, that many papers are rejected, and that climate findings are therefore not one person's opinion. Its most proximal targets are the competence, integrity and openness/accountability dimensions of the fresh multidimensional trust battery, so I place it slightly above the average arm on the primary outcome (+2.2), while the pre-anchored single trust item moves less (+1.4) and distrust falls somewhat less than trust rises (asymmetry, floor effects among already-trusting respondents). It also contains an implicit consensus cue (\\\"experts across the world consistently reach the same conclusions\\\"), which the meta-analytic literature says nudges belief only ~1 point, with concern and policy support attenuating further. There is no funding, advocacy, or behavioral content, so funding_perceptions, policy_role_mean, and behavior_mean get small spillovers driven only by generalized trust, and institutional trust is diluted by the federal-government item. Incentivized outcomes get near-zero but slightly positive values consistent with a few cents on a $10 windfall and well under 1 pp on real sign-up. A small risk of reactance (skeptics' \\\"pal review\\\" narrative) keeps me from forecasting a top-of-range trust effect.\", \"ates\": {\"trust_multidimensional\": 2.2, \"trust_post\": 1.4, \"distrust_post\": -1.1, \"funding_perceptions\": 0.5, \"policy_role_mean\": 0.7, \"inst_trust_mean\": 0.85, \"belief_post\": 1.05, \"concern_mean\": 0.6, \"policy_general\": 0.55, \"policy_specific_mean\": 0.4, \"behavior_mean\": 0.3, \"donation_ams\": 0.06, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 524,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1123,
+      "output_tokens_details": {
+        "thinking_tokens": 501
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The peer-review text is a process-transparency/quality-control message: it explains that independent (even competing) experts vet research, that many papers are rejected, and that climate findings are therefore not one person's opinion. Its most proximal targets are the competence, integrity and openness/accountability dimensions of the fresh multidimensional trust battery, so I place it slightly above the average arm on the primary outcome (+2.2), while the pre-anchored single trust item moves less (+1.4) and distrust falls somewhat less than trust rises (asymmetry, floor effects among already-trusting respondents). It also contains an implicit consensus cue (\"experts across the world consistently reach the same conclusions\"), which the meta-analytic literature says nudges belief only ~1 point, with concern and policy support attenuating further. There is no funding, advocacy, or behavioral content, so funding_perceptions, policy_role_mean, and behavior_mean get small spillovers driven only by generalized trust, and institutional trust is diluted by the federal-government item. Incentivized outcomes get near-zero but slightly positive values consistent with a few cents on a $10 windfall and well under 1 pp on real sign-up. A small risk of reactance (skeptics' \"pal review\" narrative) keeps me from forecasting a top-of-range trust effect.",
+      "ates": {
+        "trust_multidimensional": 2.2,
+        "trust_post": 1.4,
+        "distrust_post": -1.1,
+        "funding_perceptions": 0.5,
+        "policy_role_mean": 0.7,
+        "inst_trust_mean": 0.85,
+        "belief_post": 1.05,
+        "concern_mean": 0.6,
+        "policy_general": 0.55,
+        "policy_specific_mean": 0.4,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

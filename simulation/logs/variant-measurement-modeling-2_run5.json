@@ -1,0 +1,64 @@
+{
+  "condition": "Measurement & modeling (2)",
+  "run": 5,
+  "timestamp": "2026-08-30T18:19:22.701Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPotGLCWrDUP9pKVWQB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention leans on rigorous quantitative methodology, which should modestly boost competence-related trust — I'd estimate the ATE around +2 to +4, consistent with similar megastudy findings on trust interventions. This variant reads as a fairly technical, descriptive treatment of methods.\n\nWeighing it further, the jargon-heavy tone might slightly alienate some readers even as it signals credibility, so I'm landing on a modest positive profile overall: trust_multidimensional around +2.5-2.6, trust_post near +2.0, distrust_post around -1.0 to -1.5, funding_perceptions roughly +0.8-1.0, and smaller downstream effects on policy views, institutional trust, belief, concern, and behavior in the +0.5 to +1.5 range, with donation and newsletter signup effects being negligible.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This text is a competence/rigor-focused description of climate science methodology: named credentialed natural scientists, precision instruments, and sophisticated quantitative modeling, explicitly claiming reproducibility and objectivity over 'subjective impressions.' Its most direct target is the competence dimension of the primary trust measure, with weaker spillover to integrity/benevolence and little content addressing funding motives, policy advocacy, or urgency. The heavy technical jargon (disdrometers, support vector machines, wavelet analysis) may impress some but alienate or bore others, capping the effect; typical single-exposure informational texts in trust megastudies move a 0–100 primary trust index by roughly 1–4 points. I therefore center the primary outcome near +2.5, with the single-item trust measure slightly smaller due to pre-treatment anchoring, distrust reduced by about half that magnitude (distrust items are stickier and partly identity-driven), and belief/concern/policy outcomes attenuated further because they are more crystallized and only indirectly implicated. Behavioral and incentivized outcomes (donation, newsletter) should be near zero, with only trivially positive medians given a slight overall positive push. Because the text stresses value-free objectivity rather than engagement, I expect almost no gain (and possibly none) on the scientists-in-policy-making items.\", \"ates\": {\"trust_multidimensional\": 2.6, \"trust_post\": 1.9, \"distrust_post\": -1.2, \"funding_perceptions\": 0.8, \"policy_role_mean\": 0.7, \"inst_trust_mean\": 1.2, \"belief_post\": 1.3, \"concern_mean\": 0.9, \"policy_general\": 0.9, \"policy_specific_mean\": 0.6, \"behavior_mean\": 0.4, \"donation_ams\": 0.05, \"newsletter_signup\": 0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 635,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1276,
+      "output_tokens_details": {
+        "thinking_tokens": 644
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This text is a competence/rigor-focused description of climate science methodology: named credentialed natural scientists, precision instruments, and sophisticated quantitative modeling, explicitly claiming reproducibility and objectivity over 'subjective impressions.' Its most direct target is the competence dimension of the primary trust measure, with weaker spillover to integrity/benevolence and little content addressing funding motives, policy advocacy, or urgency. The heavy technical jargon (disdrometers, support vector machines, wavelet analysis) may impress some but alienate or bore others, capping the effect; typical single-exposure informational texts in trust megastudies move a 0–100 primary trust index by roughly 1–4 points. I therefore center the primary outcome near +2.5, with the single-item trust measure slightly smaller due to pre-treatment anchoring, distrust reduced by about half that magnitude (distrust items are stickier and partly identity-driven), and belief/concern/policy outcomes attenuated further because they are more crystallized and only indirectly implicated. Behavioral and incentivized outcomes (donation, newsletter) should be near zero, with only trivially positive medians given a slight overall positive push. Because the text stresses value-free objectivity rather than engagement, I expect almost no gain (and possibly none) on the scientists-in-policy-making items.",
+      "ates": {
+        "trust_multidimensional": 2.6,
+        "trust_post": 1.9,
+        "distrust_post": -1.2,
+        "funding_perceptions": 0.8,
+        "policy_role_mean": 0.7,
+        "inst_trust_mean": 1.2,
+        "belief_post": 1.3,
+        "concern_mean": 0.9,
+        "policy_general": 0.9,
+        "policy_specific_mean": 0.6,
+        "behavior_mean": 0.4,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

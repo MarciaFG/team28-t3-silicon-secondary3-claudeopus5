@@ -1,0 +1,64 @@
+{
+  "condition": "Consensus",
+  "run": 2,
+  "timestamp": "2026-08-30T18:19:55.969Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPrFHvzLc6pJCWAZKSp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "Consensus messaging effects on climate belief tend to be small-to-moderate, and effects on trust in scientists specifically are usually modest, often just a few points. This particular intervention pairs consensus correction with an uncertainty caveat (66% figure), which could meaningfully shift perceived consensus since most people underestimate it, though the effect on trust may be more muted.\n\nI'm estimating small positive shifts across most measures—roughly +2 to +2.5 for belief and trust items, smaller effects (+1 to +1.5) for policy and institutional trust, and negligible effects (under +1) for behavioral outcomes like donations or newsletter signups, given that anchoring on pre-treatment responses tends to dampen movement.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The Consensus arm combines a brief 'how science works' framing with an interactive elicit-then-correct quiz. Because most Americans substantially underestimate expert agreement (typical perceived consensus ~65-70% vs. 99%), the corrective feedback should reliably shift perceived consensus, which is the mechanism most likely to raise perceived competence/integrity of climate scientists and belief in human causation (gateway-belief pathway). However, in the gateway literature the downstream effects on concern, policy support, and behavior are much smaller than the shift in perceived consensus (often 1-2 points on 0-100 scales), and the third quiz item deliberately highlights genuine disagreement about net-zero timing, which slightly tempers the pro-trust signal. Belief_post and trust_post are anchored on pre-treatment answers, damping movement, and inst_trust_mean is diluted by the federal-government item; behavioral outcomes (donation, newsletter) are essentially noise-floor with only trivially positive expected effects. I therefore centered trust and belief effects at roughly 2-3 points, attitudinal/policy outcomes at ~1-1.6 points, distrust slightly negative, and incentivized behaviors near zero but marginally positive.\", \"ates\": {\"trust_multidimensional\": 2.4, \"trust_post\": 2.1, \"distrust_post\": -1.5, \"funding_perceptions\": 1.2, \"policy_role_mean\": 1.6, \"inst_trust_mean\": 1.0, \"belief_post\": 2.6, \"concern_mean\": 1.4, \"policy_general\": 1.5, \"policy_specific_mean\": 1.0, \"behavior_mean\": 0.6, \"donation_ams\": 0.06, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1402,
+      "output_tokens_details": {
+        "thinking_tokens": 802
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The Consensus arm combines a brief 'how science works' framing with an interactive elicit-then-correct quiz. Because most Americans substantially underestimate expert agreement (typical perceived consensus ~65-70% vs. 99%), the corrective feedback should reliably shift perceived consensus, which is the mechanism most likely to raise perceived competence/integrity of climate scientists and belief in human causation (gateway-belief pathway). However, in the gateway literature the downstream effects on concern, policy support, and behavior are much smaller than the shift in perceived consensus (often 1-2 points on 0-100 scales), and the third quiz item deliberately highlights genuine disagreement about net-zero timing, which slightly tempers the pro-trust signal. Belief_post and trust_post are anchored on pre-treatment answers, damping movement, and inst_trust_mean is diluted by the federal-government item; behavioral outcomes (donation, newsletter) are essentially noise-floor with only trivially positive expected effects. I therefore centered trust and belief effects at roughly 2-3 points, attitudinal/policy outcomes at ~1-1.6 points, distrust slightly negative, and incentivized behaviors near zero but marginally positive.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 2.1,
+        "distrust_post": -1.5,
+        "funding_perceptions": 1.2,
+        "policy_role_mean": 1.6,
+        "inst_trust_mean": 1,
+        "belief_post": 2.6,
+        "concern_mean": 1.4,
+        "policy_general": 1.5,
+        "policy_specific_mean": 1,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

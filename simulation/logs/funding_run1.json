@@ -1,0 +1,63 @@
+{
+  "condition": "Funding",
+  "run": 1,
+  "timestamp": "2026-08-30T17:37:05.080Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLa8Mg2FfAMD1SC6XaD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This \"Funding\" intervention directly counters the \"follow the money\" suspicion about climate scientists by comparing climate research funding to biomedical funding, so it should mechanistically boost trust on integrity/benevolence and likely push funding_perceptions upward since it highlights how comparatively small climate funding is.\n\nThere's a tension though: the pre-questions prime distrust of corporate/powerful influence, which could activate conspiracy-adjacent suspicion before the corrective message reframes things as value-aligned, potentially working well for skeptics but slightly dampening the effect. Also notable is the closing message arguing scientists should stick to data collection while policymakers decide policy solutions—this framing would likely decrease agreement that climate scientists should be involved in policy-making, giving a distinct negative prediction on the policy_role measure.\n\nEstimating specific values: policy_role_mean around -0.6 given the mixed messaging on communication versus advocacy, trust_multidimensional around +2.5 as one of the stronger arms due to its evidence-based interactive correction, trust_post around +1.7, distrust_post around -1.6, and funding_perceptions likely shifting toward \"too little spending\" given the message directly addresses the scale of climate research funding.\n\nPolicy specific gets +0.4 given the mix of taxes, transit, and renewables mentions, with behavior at +0.3. Donation nudges up slightly to +0.07 since AMS is a scientific society that could benefit from underfunding framing, and newsletter signup stays negligible at +0.009.\n\nLocking in final values: trust_multidimensional 2.4, trust_post 1.8, distrust_post -1.7, funding_perceptions 3.1, policy_role_mean -0.5, inst_trust_mean 0.9, belief_post 0.6, concern_mean 0.5, policy_general 0.4, policy_specific_mean 0.4, behavior_mean 0.3, donation_ams 0.07, newsletter_signup 0.009.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is an interactive, source-cited misconception correction aimed squarely at the 'follow the money' suspicion that climate scientists are financially motivated — the core integrity/benevolence threat to trust. It first affirms shared values (fairness, transparency, distrust of moneyed influence), which reduces reactance among skeptics, then elicits slider estimates and provides corrective feedback (modest salaries, unpaid NCA volunteers, climate R&D dwarfed by biomedical funding). That combination of counter-attitudinal quantitative evidence, interactivity, and value-affirmation should place it above the average arm on the primary trust battery (~+2.4, d≈0.1), with the anchored single-item trust/distrust measures moving somewhat less. Its most proximal non-trust target is funding perceptions: the text explicitly argues climate research is underfunded relative to other fields, so I give the largest ATE there (~+3). Distal outcomes (belief, concern, policy support, intentions) get sub-point effects flowing only through trust, and incentivized behaviors get a few cents / <1 pp. Notably, the closing page explicitly separates science from policy advocacy ('science isn't a tool to justify a desired set of policies'), so I predict a small NEGATIVE effect on agreement that climate scientists should be involved in policy-making.\", \"ates\": {\"trust_multidimensional\": 2.4, \"trust_post\": 1.8, \"distrust_post\": -1.7, \"funding_perceptions\": 3.1, \"policy_role_mean\": -0.5, \"inst_trust_mean\": 0.9, \"belief_post\": 0.6, \"concern_mean\": 0.5, \"policy_general\": 0.4, \"policy_specific_mean\": 0.4, \"behavior_mean\": 0.3, \"donation_ams\": 0.07, \"newsletter_signup\": 0.009}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1628,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 2104,
+      "output_tokens_details": {
+        "thinking_tokens": 1474
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is an interactive, source-cited misconception correction aimed squarely at the 'follow the money' suspicion that climate scientists are financially motivated — the core integrity/benevolence threat to trust. It first affirms shared values (fairness, transparency, distrust of moneyed influence), which reduces reactance among skeptics, then elicits slider estimates and provides corrective feedback (modest salaries, unpaid NCA volunteers, climate R&D dwarfed by biomedical funding). That combination of counter-attitudinal quantitative evidence, interactivity, and value-affirmation should place it above the average arm on the primary trust battery (~+2.4, d≈0.1), with the anchored single-item trust/distrust measures moving somewhat less. Its most proximal non-trust target is funding perceptions: the text explicitly argues climate research is underfunded relative to other fields, so I give the largest ATE there (~+3). Distal outcomes (belief, concern, policy support, intentions) get sub-point effects flowing only through trust, and incentivized behaviors get a few cents / <1 pp. Notably, the closing page explicitly separates science from policy advocacy ('science isn't a tool to justify a desired set of policies'), so I predict a small NEGATIVE effect on agreement that climate scientists should be involved in policy-making.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.8,
+        "distrust_post": -1.7,
+        "funding_perceptions": 3.1,
+        "policy_role_mean": -0.5,
+        "inst_trust_mean": 0.9,
+        "belief_post": 0.6,
+        "concern_mean": 0.5,
+        "policy_general": 0.4,
+        "policy_specific_mean": 0.4,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.009
+      }
+    }
+  }
+}

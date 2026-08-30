@@ -1,0 +1,64 @@
+{
+  "condition": "Consensus",
+  "run": 3,
+  "timestamp": "2026-08-30T18:19:57.694Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPrFzrDx7482eMRaviE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "Consensus messaging tends to have modest but real effects on belief in climate change and perceived scientific agreement, with smaller effects on trust and policy support, while corrective feedback interventions often outperform passive reading. I'm estimating the consensus message would have a small positive effect on multidimensional trust since it emphasizes scientific competence and agreement rather than directly addressing scientists' integrity.\n\nI'm assigning modest positive effect sizes across the outcome variables: around +1.8-2.0 on trust measures, a bigger effect near +2.5 on belief given this arm's direct focus on consensus, moderate bumps on concern and policy support, and minimal movement on behavioral measures like donations or newsletter signups. The honest disclosure of uncertainty in the net-zero consensus figure could give a slight boost to perceived integrity, though I'm keeping that effect conservative given how diluted trust effects tend to be across intervention arms in this literature.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The Consensus arm combines a brief framing about how science handles agreement/disagreement with an interactive misperception-correction task (people typically underestimate the 97–99% consensus, so the feedback is a genuine belief-updating shock), plus a credibility-enhancing element (openly reporting only 66% agreement on net-zero timing, which signals honesty and openness rather than dogma). Consensus messaging has a well-documented but modest 'gateway' effect: it reliably shifts perceived agreement a lot, belief in human causation a little (typically 1–4 points on 100-point scales), and downstream concern/policy support less, with attenuation from pre-treatment anchoring on belief and trust single items. Trust outcomes should move somewhat because the message speaks to competence (converging independent evidence) and integrity/openness (acknowledged uncertainty), but the text is not primarily about scientists' motives, so I keep it slightly above the typical arm average rather than large. Institutional trust is diluted by the federal-government item, and behavioral/incentivized outcomes (donation, newsletter) essentially never move more than a hair from a single 2-minute reading, so I forecast near-zero but faintly positive values there. Distrust items are stickier and less responsive than trust items, so I gave a smaller-magnitude negative.\", \"ates\": {\"trust_multidimensional\": 2.2, \"trust_post\": 1.9, \"distrust_post\": -1.2, \"funding_perceptions\": 1.6, \"policy_role_mean\": 1.1, \"inst_trust_mean\": 1.0, \"belief_post\": 2.7, \"concern_mean\": 1.5, \"policy_general\": 1.5, \"policy_specific_mean\": 1.1, \"behavior_mean\": 0.6, \"donation_ams\": 0.06, \"newsletter_signup\": 0.009}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1433,
+      "output_tokens_details": {
+        "thinking_tokens": 815
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The Consensus arm combines a brief framing about how science handles agreement/disagreement with an interactive misperception-correction task (people typically underestimate the 97–99% consensus, so the feedback is a genuine belief-updating shock), plus a credibility-enhancing element (openly reporting only 66% agreement on net-zero timing, which signals honesty and openness rather than dogma). Consensus messaging has a well-documented but modest 'gateway' effect: it reliably shifts perceived agreement a lot, belief in human causation a little (typically 1–4 points on 100-point scales), and downstream concern/policy support less, with attenuation from pre-treatment anchoring on belief and trust single items. Trust outcomes should move somewhat because the message speaks to competence (converging independent evidence) and integrity/openness (acknowledged uncertainty), but the text is not primarily about scientists' motives, so I keep it slightly above the typical arm average rather than large. Institutional trust is diluted by the federal-government item, and behavioral/incentivized outcomes (donation, newsletter) essentially never move more than a hair from a single 2-minute reading, so I forecast near-zero but faintly positive values there. Distrust items are stickier and less responsive than trust items, so I gave a smaller-magnitude negative.",
+      "ates": {
+        "trust_multidimensional": 2.2,
+        "trust_post": 1.9,
+        "distrust_post": -1.2,
+        "funding_perceptions": 1.6,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 1,
+        "belief_post": 2.7,
+        "concern_mean": 1.5,
+        "policy_general": 1.5,
+        "policy_specific_mean": 1.1,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.009
+      }
+    }
+  }
+}

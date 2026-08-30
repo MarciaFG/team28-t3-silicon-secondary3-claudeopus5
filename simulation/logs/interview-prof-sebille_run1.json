@@ -1,0 +1,63 @@
+{
+  "condition": "Interview Prof. Sebille",
+  "run": 1,
+  "timestamp": "2026-08-30T17:38:59.513Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLjQKc4dfWZYzxrGzUt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This narrative interview leans on the scientist's benevolence, integrity, and warmth, with an inclusive \"regardless of background or belief\" framing that should help most on the trust dimension despite the messenger not being ideologically matched to skeptics. The climate impact details on oceans, coral, and vulnerable populations could give a modest nudge to concern as well, so I'm leaning toward a moderate trust estimate.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a first-person narrative interview in which an oceanographer pairs impact findings (marine heat waves, coral bleaching, sea-level rise, harms to vulnerable populations) with an explicit statement of prosocial motives and honesty ('clear, honest evidence that helps everyone, regardless of background or belief'). Its most proximal target is the benevolence/integrity/openness dimensions of the multidimensional trust battery, and narrative/testimonial formats carry a small immediate advantage (~d 0.1–0.2) on warmth-adjacent outcomes, so I place it modestly above the expected mid-range of arms (~+2.3 points). The messenger is a foreign university scientist rather than an ideologically congruent source, which caps gains among skeptics, and the pre-treatment anchoring of trust_post and belief_post shrinks those single re-asked items relative to the fresh trust battery. Impact content plus the scientist's expressed concern should produce a modest spillover to concern (~+1.5) and, via the 'help everyone shape a safer world' framing, to perceived legitimacy of scientists' policy role (~+1.6); belief, general and specific policy support, and behavioral intentions get progressively smaller effects. Institutional trust is diluted by the federal-government item, and incentivized outcomes are held to a few cents and ~1 percentage point, consistent with megastudy evidence that attitude shifts rarely translate into costly action.\", \"ates\": {\"trust_multidimensional\": 2.3, \"trust_post\": 1.5, \"distrust_post\": -1.05, \"funding_perceptions\": 1.0, \"policy_role_mean\": 1.6, \"inst_trust_mean\": 0.8, \"belief_post\": 0.9, \"concern_mean\": 1.5, \"policy_general\": 1.05, \"policy_specific_mean\": 0.8, \"behavior_mean\": 0.6, \"donation_ams\": 0.06, \"newsletter_signup\": 0.012}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 570,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1217,
+      "output_tokens_details": {
+        "thinking_tokens": 550
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a first-person narrative interview in which an oceanographer pairs impact findings (marine heat waves, coral bleaching, sea-level rise, harms to vulnerable populations) with an explicit statement of prosocial motives and honesty ('clear, honest evidence that helps everyone, regardless of background or belief'). Its most proximal target is the benevolence/integrity/openness dimensions of the multidimensional trust battery, and narrative/testimonial formats carry a small immediate advantage (~d 0.1–0.2) on warmth-adjacent outcomes, so I place it modestly above the expected mid-range of arms (~+2.3 points). The messenger is a foreign university scientist rather than an ideologically congruent source, which caps gains among skeptics, and the pre-treatment anchoring of trust_post and belief_post shrinks those single re-asked items relative to the fresh trust battery. Impact content plus the scientist's expressed concern should produce a modest spillover to concern (~+1.5) and, via the 'help everyone shape a safer world' framing, to perceived legitimacy of scientists' policy role (~+1.6); belief, general and specific policy support, and behavioral intentions get progressively smaller effects. Institutional trust is diluted by the federal-government item, and incentivized outcomes are held to a few cents and ~1 percentage point, consistent with megastudy evidence that attitude shifts rarely translate into costly action.",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.5,
+        "distrust_post": -1.05,
+        "funding_perceptions": 1,
+        "policy_role_mean": 1.6,
+        "inst_trust_mean": 0.8,
+        "belief_post": 0.9,
+        "concern_mean": 1.5,
+        "policy_general": 1.05,
+        "policy_specific_mean": 0.8,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.012
+      }
+    }
+  }
+}

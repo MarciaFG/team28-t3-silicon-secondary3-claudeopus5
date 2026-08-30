@@ -1,0 +1,63 @@
+{
+  "condition": "Interview Prof. Maraun",
+  "run": 1,
+  "timestamp": "2026-08-30T17:37:02.076Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLa84K1kuQqb4zXnn9B",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This first-person narrative from an Austrian climate scientist emphasizes self-correction, openness to error, and collaboration rather than message-pushing, hitting the openness/integrity dimensions directly with a personal voice advantage. The admission of uncertainty about regional trends might slightly dampen perceived competence, but overall I'd estimate the multidimensional trust boost around +2.3.\n\nFor the other measures: trust_post around +1.4, distrust_post around -1.2, funding_perceptions mildly positive at +1.3 given the \"further research\" framing, policy_role_mean modest at +0.5 since the anti-advocacy stance both helps and dampens that item, inst_trust_mean +0.7, belief_post +0.4, concern_mean +0.3, policy_general +0.4, policy_specific_mean +0.3, behavior_mean +0.2, donation_ams a small +0.06 given AMS's scientific credibility, and newsletter_signup negligible at +0.008.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a first-person narrative from a named working climate scientist emphasizing epistemic humility, self-correction, error-admission, non-advocacy ('not to push a certain message'), and interdisciplinary collaboration. Mechanistically it targets precisely the openness-to-feedback and integrity subscales of the multidimensional trust battery, and narratives/portraits have a small immediate advantage on warmth- and trust-adjacent outcomes, so I place it slightly above the average trust arm (~+2.2 on the primary outcome). Because the concrete example is technical (European summer warming trends, model biases) and set in Austria rather than the U.S., and because it openly stresses residual uncertainty ('we still do not fully understand regional trends'), I expect little or no boost — possibly a wash — on belief, concern, and threat-based outcomes; the acknowledgment of uncertainty can even slightly offset any spillover to alarm. The explicit 'we require further research' framing gives a modest lift to funding_perceptions, while the explicit disavowal of message-pushing dampens the advocacy items, so policy_role_mean gets only a small positive. Re-asked single items (trust_post, belief_post) are shrunk relative to the fresh trust battery due to within-survey anchoring, distrust is given a smaller-magnitude mirror of trust, and the incentivized outcomes (AMS donation, newsletter) are set at a few cents and well under one percentage point, consistent with megastudy evidence that attitude gains rarely translate into costly behavior.\", \"ates\": {\"trust_multidimensional\": 2.24, \"trust_post\": 1.42, \"distrust_post\": -1.15, \"funding_perceptions\": 1.25, \"policy_role_mean\": 0.62, \"inst_trust_mean\": 0.78, \"belief_post\": 0.44, \"concern_mean\": 0.32, \"policy_general\": 0.41, \"policy_specific_mean\": 0.29, \"behavior_mean\": 0.21, \"donation_ams\": 0.06, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 679,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1265,
+      "output_tokens_details": {
+        "thinking_tokens": 567
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a first-person narrative from a named working climate scientist emphasizing epistemic humility, self-correction, error-admission, non-advocacy ('not to push a certain message'), and interdisciplinary collaboration. Mechanistically it targets precisely the openness-to-feedback and integrity subscales of the multidimensional trust battery, and narratives/portraits have a small immediate advantage on warmth- and trust-adjacent outcomes, so I place it slightly above the average trust arm (~+2.2 on the primary outcome). Because the concrete example is technical (European summer warming trends, model biases) and set in Austria rather than the U.S., and because it openly stresses residual uncertainty ('we still do not fully understand regional trends'), I expect little or no boost — possibly a wash — on belief, concern, and threat-based outcomes; the acknowledgment of uncertainty can even slightly offset any spillover to alarm. The explicit 'we require further research' framing gives a modest lift to funding_perceptions, while the explicit disavowal of message-pushing dampens the advocacy items, so policy_role_mean gets only a small positive. Re-asked single items (trust_post, belief_post) are shrunk relative to the fresh trust battery due to within-survey anchoring, distrust is given a smaller-magnitude mirror of trust, and the incentivized outcomes (AMS donation, newsletter) are set at a few cents and well under one percentage point, consistent with megastudy evidence that attitude gains rarely translate into costly behavior.",
+      "ates": {
+        "trust_multidimensional": 2.24,
+        "trust_post": 1.42,
+        "distrust_post": -1.15,
+        "funding_perceptions": 1.25,
+        "policy_role_mean": 0.62,
+        "inst_trust_mean": 0.78,
+        "belief_post": 0.44,
+        "concern_mean": 0.32,
+        "policy_general": 0.41,
+        "policy_specific_mean": 0.29,
+        "behavior_mean": 0.21,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

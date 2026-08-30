@@ -1,0 +1,63 @@
+{
+  "condition": "placebo: How Sourdough Fermentation Works",
+  "run": 3,
+  "timestamp": "2026-08-30T17:46:50.461Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZMLWi4M476tZHmXUGA9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is essentially a placebo arm, so effects should hover near zero with tiny noise. There might be a marginal positive nudge on trust from mentioning science and microorganisms, so I'll set trust values slightly above zero, distrust slightly negative, and donation/newsletter effects near-zero but non-round.\n\n",
+        "signature": "CAIS8wUKjgEIERgCKkDbZAG9KYcFz7+xkdSEX1B2b6MljTDFSpcvzHNyBBOvW8qkMGznG5ltaMiTLrH5JOd2HWhw/8N/+w4lE6ie/QUNMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAYTZ0dQGEgzYNvvOlo/wsul2PAEaDMKhbdlPAoj/c7ES3CIwKlR5NS5NE4VC6rUS8ZBW29EZp39pxlIom0q2B5wIPR/9FqXtUsj79UbHkYiMSFGyKpEEA7W37t/vMn+foOhZDEUmWOaibEg95tQGkuCisnD08+YBAw5XH3aZ9lJz08WxgjQp+M2Lf1CIGoTCucS/DgAg3WENXosS47oh0ueWJqaERHIt4k51FSfql/Ia20fxRen87ASx0ThktoWvoJk4gZHQMdmUKmR7ZqLNAktvMp5TNJK19li67cJAtZOrzF4NT3xXkE7VH2AZAGBQd0Bm9z3kZjSAK1auXyqmslQa9goLgnj2uJlGXFoteNIiOdo4sXtUgdX8as/vXy228fYKbByjSTGZiS9fMYLcryajCWrJD/zuCzuo+tYx43JnDmHj7oBEFLBgcM2cmcDLC7z544oaYxpIKj5DORoVeX+yGbGL+2Po4p44f9W4822PjWRRT/kTeObwVIQkL8bYlhApwT82kyVyiW3tmI6E1UVCjst3gx2Uo/QJEp9m7Y9wIRwrNfTC+Szy5DERCmkmwRLxYQIgFrWrEe7eodKc1sKHFd6YxuBsW4w1HwdmJJLtvvIumRfMCmUAFVGD/yVoHpAFmKGXN5Eimm7AOrp3zLzUkVoVdTtyDdm6stWSwqNd0xvDGnMrEb/mRWKiLhHcobQOA0RfFyY8dBucEp0WTDzm1vX9M22Ko4BJlc6H9spmr+p+6SRcRPIBtbP3xGdCJ9h8VLAV4gfnlG3jOdWangKnT9EsBqF0xBeWuuUM4TiqgA9cH9VlixgB"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is an explicit placebo: a neutral, off-topic expository text about sourdough fermentation, structurally equivalent to the control fillers (necktie history, baseball rules, dance styles). It contains no climate content, no scientist messenger, no consensus or funding information, and no counter-attitudinal evidence, so there is no plausible persuasive mechanism for any of the 13 outcomes. The only conceivable spillover is a very faint priming of appreciation for microbiology/scientific knowledge ('managed without fully understanding it for 5,000 years'), which might nudge general science-warmth by a fraction of a point at most; the control texts are themselves mildly pleasant expository prose, so even that differential is negligible. I therefore forecast ATEs statistically indistinguishable from zero, keeping magnitudes well under 0.3 points on 0-100 scales, a few cents at most on the incentivized donation, and under half a percentage point on newsletter sign-up. Signs are set to be internally coherent (a hair of trust up, distrust down) but the values are essentially sampling noise around zero.\", \"ates\": {\"trust_multidimensional\": 0.18, \"trust_post\": 0.07, \"distrust_post\": -0.06, \"funding_perceptions\": 0.04, \"policy_role_mean\": 0.11, \"inst_trust_mean\": 0.09, \"belief_post\": 0.03, \"concern_mean\": 0.02, \"policy_general\": 0.05, \"policy_specific_mean\": 0.06, \"behavior_mean\": 0.04, \"donation_ams\": 0.008, \"newsletter_signup\": 0.001}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 668,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 755,
+      "output_tokens_details": {
+        "thinking_tokens": 206
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is an explicit placebo: a neutral, off-topic expository text about sourdough fermentation, structurally equivalent to the control fillers (necktie history, baseball rules, dance styles). It contains no climate content, no scientist messenger, no consensus or funding information, and no counter-attitudinal evidence, so there is no plausible persuasive mechanism for any of the 13 outcomes. The only conceivable spillover is a very faint priming of appreciation for microbiology/scientific knowledge ('managed without fully understanding it for 5,000 years'), which might nudge general science-warmth by a fraction of a point at most; the control texts are themselves mildly pleasant expository prose, so even that differential is negligible. I therefore forecast ATEs statistically indistinguishable from zero, keeping magnitudes well under 0.3 points on 0-100 scales, a few cents at most on the incentivized donation, and under half a percentage point on newsletter sign-up. Signs are set to be internally coherent (a hair of trust up, distrust down) but the values are essentially sampling noise around zero.",
+      "ates": {
+        "trust_multidimensional": 0.18,
+        "trust_post": 0.07,
+        "distrust_post": -0.06,
+        "funding_perceptions": 0.04,
+        "policy_role_mean": 0.11,
+        "inst_trust_mean": 0.09,
+        "belief_post": 0.03,
+        "concern_mean": 0.02,
+        "policy_general": 0.05,
+        "policy_specific_mean": 0.06,
+        "behavior_mean": 0.04,
+        "donation_ams": 0.008,
+        "newsletter_signup": 0.001
+      }
+    }
+  }
+}

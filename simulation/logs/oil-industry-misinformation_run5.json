@@ -1,0 +1,63 @@
+{
+  "condition": "Oil industry misinformation",
+  "run": 5,
+  "timestamp": "2026-08-30T17:37:57.859Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLeeP4eas8Ywq3mZ4rj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is the inoculation arm — long, vivid, evidence-based, counter-attitudinal for skeptics, reattributing distrust to oil industry propaganda. It's a strong mechanism for trust and defends the integrity of climate scientists as victims of a smear campaign, though the accusatory framing risks triggering reactance among conservatives, and inoculation effects tend to be modest per the literature.\n\nI'm estimating this as one of the strongest arms overall: trust_multidimensional around +2.6, trust_post around +2.2, distrust_post around -1.8 to -2.0 given the residual salience of distrust language. For secondary outcomes, funding_perceptions might rise around +1.5 since the narrative frames industry as undermining legitimate science, policy_role_mean around +1.3 since scientists are portrayed as trustworthy and combating misinformation, inst_trust_mean around +1.0 given positive framing of federal scientists, and belief_post around +1.2 reflecting the manufactured-doubt narrative.\n\nI'm also settling on concern_mean around +1.0, policy_general around +1.3 given anti-oil-industry framing boosting support for government action, policy_specific_mean around +1.1 due to the fossil-fuel tax mention, behavior_mean around +0.6, donation_ams around +0.07-0.08 since AMS is portrayed as a trustworthy scientific society, and newsletter_signup around +0.014-0.015. I'm finalizing these as slightly non-round values: 2.6, 2.15, -1.85, 1.55, 1.35, 1.05, 1.25, 1.05, 1.35, 1.05, 0.55, 0.07, 0.014.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is an inoculation/source-delegitimization message: it reattributes existing distrust to a documented fossil-fuel disinformation campaign, portrays scientists as honest victims of harassment (targeting integrity and benevolence dimensions directly), and closes with an explicit directive to trust climate scientists. It is long, vivid, narrative (Santer, Mann), heavily sourced and counter-attitudinal for skeptics, so I place it above the average arm on the primary trust outcome (~+2.6 points, d≈0.11), while discounting somewhat for reactance among conservatives and because the opening line explicitly primes the idea that scientists are distrusted. Re-asked single items (trust_post, belief_post) are shrunk relative to the fresh multidimensional battery due to within-survey anchoring; distrust falls slightly less in absolute terms than trust rises, since the text keeps accusations and controversy salient. Downstream outcomes get progressively smaller effects: an anti-oil villain frame plausibly nudges support for research funding, scientists' policy role, and general/specific policy (including fossil-fuel taxes) by ~1–1.5 points; institutional trust is diluted by the federal-government item; concern and behavioral intentions move under a point. Incentivized behaviors are near floor: a few cents to the American Meteorological Society and ~1.4 percentage points on real newsletter sign-up.\", \"ates\": {\"trust_multidimensional\": 2.6, \"trust_post\": 2.15, \"distrust_post\": -1.85, \"funding_perceptions\": 1.55, \"policy_role_mean\": 1.35, \"inst_trust_mean\": 1.05, \"belief_post\": 1.25, \"concern_mean\": 1.05, \"policy_general\": 1.35, \"policy_specific_mean\": 1.05, \"behavior_mean\": 0.55, \"donation_ams\": 0.07, \"newsletter_signup\": 0.014}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1819,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1421,
+      "output_tokens_details": {
+        "thinking_tokens": 767
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is an inoculation/source-delegitimization message: it reattributes existing distrust to a documented fossil-fuel disinformation campaign, portrays scientists as honest victims of harassment (targeting integrity and benevolence dimensions directly), and closes with an explicit directive to trust climate scientists. It is long, vivid, narrative (Santer, Mann), heavily sourced and counter-attitudinal for skeptics, so I place it above the average arm on the primary trust outcome (~+2.6 points, d≈0.11), while discounting somewhat for reactance among conservatives and because the opening line explicitly primes the idea that scientists are distrusted. Re-asked single items (trust_post, belief_post) are shrunk relative to the fresh multidimensional battery due to within-survey anchoring; distrust falls slightly less in absolute terms than trust rises, since the text keeps accusations and controversy salient. Downstream outcomes get progressively smaller effects: an anti-oil villain frame plausibly nudges support for research funding, scientists' policy role, and general/specific policy (including fossil-fuel taxes) by ~1–1.5 points; institutional trust is diluted by the federal-government item; concern and behavioral intentions move under a point. Incentivized behaviors are near floor: a few cents to the American Meteorological Society and ~1.4 percentage points on real newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 2.6,
+        "trust_post": 2.15,
+        "distrust_post": -1.85,
+        "funding_perceptions": 1.55,
+        "policy_role_mean": 1.35,
+        "inst_trust_mean": 1.05,
+        "belief_post": 1.25,
+        "concern_mean": 1.05,
+        "policy_general": 1.35,
+        "policy_specific_mean": 1.05,
+        "behavior_mean": 0.55,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.014
+      }
+    }
+  }
+}

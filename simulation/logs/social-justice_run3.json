@@ -1,0 +1,63 @@
+{
+  "condition": "Social justice",
+  "run": 3,
+  "timestamp": "2026-08-30T17:37:24.639Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLbsfS93sjUPwjX11fg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This framing casts scientists as allies of the 90% against a wealthy 10%, which codes politically left and could trigger reactance among conservatives while undermining perceived scientist neutrality. The net effect on trust seems likely small overall, though it may boost trust on the left while reducing it on the right—despite the inoculation angle about corporate doubt-casting, positioning scientists within a class conflict risks compromising their perceived objectivity.\n\nI'm estimating trust_multidimensional around 0.8, with trust_post shrinking to roughly 0.5 and distrust_post near -0.2 given possible conservative reactance. For funding_perceptions I'm landing on about +0.8 since the accountability framing might nudge support for research spending, while policy_role_mean seems stronger at +1.8 given the explicit framing of scientists as advocates providing evidence for accountability. Now I'm working out the inst_trust_mean estimate.\n\nFor belief_post I'm anchoring to a small +0.4, concern_mean to +0.9 given the focus on consequences for the majority, and policy_general to +1.0 given emphasis on holding major emitters accountable. Policy_specific_mean I'm placing at +0.8, favoring corporate taxes over food carbon taxes, while behavior_mean might actually dip slightly negative (~-0.3) since the \"burden shouldn't fall on individuals\" framing could undercut personal behavioral intentions. I'm setting donation_ams around 0.01 and newsletter_signup at 0.005, while reconsidering whether the solidarity framing might actually push trust higher than my initial estimate.\n\nI'm weighing the benevolence-focused solidarity appeal — while it strongly targets that subscale, I'm tempering my estimate to account for polarization risk and typical mid-to-low performance of justice-framed arms in similar studies, settling on trust_multidimensional at 0.9, trust_post at 0.6, distrust_post at -0.25, and policy_role at 1.7.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm uses a populist solidarity frame: climate scientists are cast as allies of 'the 90%' against wealthy high emitters, plus a light inoculation element (polluters sow doubt about science). The benevolence/'on our side' appeal should modestly lift the multidimensional trust battery (especially benevolence and, via the inoculation cue, integrity), but the explicitly redistributive, left-coded class framing risks reactance among right-leaning respondents and can make scientists look like partisan advocates, muting the average effect relative to source-credibility or consensus arms. The most proximal non-trust outcome is the scientists-in-policy battery, since the text literally depicts scientists supplying evidence to hold emitters accountable and 'staying united' in a political fight, so I put the largest distal effect there. Concern and general policy support get small positive bumps from the harm-inequity framing, while personal behavior intentions are flat-to-slightly-negative because the text explicitly says the burden should not fall on ordinary struggling people (a responsibility-displacement mechanism). Trust_post and belief_post are shrunk further because both were asked pre-treatment and are anchored, and incentivized outcomes (donation, newsletter) are set to near-zero, consistent with megastudy evidence that attitude shifts rarely translate into costly action.\", \"ates\": {\"trust_multidimensional\": 0.9, \"trust_post\": 0.6, \"distrust_post\": -0.22, \"funding_perceptions\": 0.85, \"policy_role_mean\": 1.7, \"inst_trust_mean\": 0.35, \"belief_post\": 0.4, \"concern_mean\": 0.9, \"policy_general\": 1.05, \"policy_specific_mean\": 0.75, \"behavior_mean\": -0.25, \"donation_ams\": 0.012, \"newsletter_signup\": 0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 611,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1703,
+      "output_tokens_details": {
+        "thinking_tokens": 1080
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm uses a populist solidarity frame: climate scientists are cast as allies of 'the 90%' against wealthy high emitters, plus a light inoculation element (polluters sow doubt about science). The benevolence/'on our side' appeal should modestly lift the multidimensional trust battery (especially benevolence and, via the inoculation cue, integrity), but the explicitly redistributive, left-coded class framing risks reactance among right-leaning respondents and can make scientists look like partisan advocates, muting the average effect relative to source-credibility or consensus arms. The most proximal non-trust outcome is the scientists-in-policy battery, since the text literally depicts scientists supplying evidence to hold emitters accountable and 'staying united' in a political fight, so I put the largest distal effect there. Concern and general policy support get small positive bumps from the harm-inequity framing, while personal behavior intentions are flat-to-slightly-negative because the text explicitly says the burden should not fall on ordinary struggling people (a responsibility-displacement mechanism). Trust_post and belief_post are shrunk further because both were asked pre-treatment and are anchored, and incentivized outcomes (donation, newsletter) are set to near-zero, consistent with megastudy evidence that attitude shifts rarely translate into costly action.",
+      "ates": {
+        "trust_multidimensional": 0.9,
+        "trust_post": 0.6,
+        "distrust_post": -0.22,
+        "funding_perceptions": 0.85,
+        "policy_role_mean": 1.7,
+        "inst_trust_mean": 0.35,
+        "belief_post": 0.4,
+        "concern_mean": 0.9,
+        "policy_general": 1.05,
+        "policy_specific_mean": 0.75,
+        "behavior_mean": -0.25,
+        "donation_ams": 0.012,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

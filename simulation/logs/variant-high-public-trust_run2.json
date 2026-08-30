@@ -1,0 +1,64 @@
+{
+  "condition": "High public trust",
+  "run": 2,
+  "timestamp": "2026-08-30T18:19:15.188Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPnoVZz8Ze5qHuX4xTF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This looks like a social norms correction intervention, where revealing that 76% of Americans trust climate scientists counters people's tendency to underestimate that trust. Drawing on research like Sparkman & Walton and van der Linden's consensus messaging work, I'd expect this kind of descriptive norm feedback to produce a small-to-modest boost in trust rather than a dramatic shift.\n\nSince respondents first guess the actual trust level before seeing the true 76% figure, the correction becomes more salient when it's surprising, likely nudging trust upward by a couple points on the primary outcome, though some skeptics might react to the mainstream nature of that statistic with mild reactance. I'm estimating effect sizes around +1.8 to +2.2 points depending on which trust measure is used, while also considering how the reduction in distrust might track alongside these gains.\n\nI'm now working out corresponding shifts across the other outcomes -- funding perceptions, institutional trust, policy support, concern, and behavioral intentions -- setting each proportionally smaller than the primary trust effect, with financial and newsletter behaviors barely moving at all. Since the norm statement so closely mirrors the wording of the direct trust item, I think that single-item measure should show one of the larger effects, comparable to or slightly above the multidimensional trust subscales like competence and integrity.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a descriptive-norm correction: respondents first guess public trust (most Americans underestimate it, typically guessing ~45–55%) and are then told 76% of Americans have at least some trust. The mechanism is second-order belief updating — learning that trusting climate scientists is the mainstream position, which can license or reinforce one's own trust and reduce the sense that skepticism is normative. Because the information is about others' trust rather than direct evidence about scientists' competence, integrity, or benevolence, I expect a small positive effect on the primary multidimensional trust measure (~1 point) and a slightly larger effect on the single direct trust item that most closely matches the norm's wording, though pre-treatment anchoring dampens movement there. Distrust items are typically stickier and move less than trust items. Downstream outcomes (belief, concern, policy, behavior) are attenuated further because they are causally distal, already highly polarized/anchored, and the message says nothing new about climate science itself; incentivized behaviors (donation, newsletter) should be near zero with tiny positive medians. I also allow for modest reactance among skeptics who may reject the majority framing, which pulls the medians toward, but not below, zero.\", \"ates\": {\"trust_multidimensional\": 1.2, \"trust_post\": 1.6, \"distrust_post\": -1.1, \"funding_perceptions\": 0.8, \"policy_role_mean\": 1.0, \"inst_trust_mean\": 0.9, \"belief_post\": 0.6, \"concern_mean\": 0.6, \"policy_general\": 0.8, \"policy_specific_mean\": 0.5, \"behavior_mean\": 0.4, \"donation_ams\": 0.04, \"newsletter_signup\": 0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 421,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1787,
+      "output_tokens_details": {
+        "thinking_tokens": 1205
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a descriptive-norm correction: respondents first guess public trust (most Americans underestimate it, typically guessing ~45–55%) and are then told 76% of Americans have at least some trust. The mechanism is second-order belief updating — learning that trusting climate scientists is the mainstream position, which can license or reinforce one's own trust and reduce the sense that skepticism is normative. Because the information is about others' trust rather than direct evidence about scientists' competence, integrity, or benevolence, I expect a small positive effect on the primary multidimensional trust measure (~1 point) and a slightly larger effect on the single direct trust item that most closely matches the norm's wording, though pre-treatment anchoring dampens movement there. Distrust items are typically stickier and move less than trust items. Downstream outcomes (belief, concern, policy, behavior) are attenuated further because they are causally distal, already highly polarized/anchored, and the message says nothing new about climate science itself; incentivized behaviors (donation, newsletter) should be near zero with tiny positive medians. I also allow for modest reactance among skeptics who may reject the majority framing, which pulls the medians toward, but not below, zero.",
+      "ates": {
+        "trust_multidimensional": 1.2,
+        "trust_post": 1.6,
+        "distrust_post": -1.1,
+        "funding_perceptions": 0.8,
+        "policy_role_mean": 1,
+        "inst_trust_mean": 0.9,
+        "belief_post": 0.6,
+        "concern_mean": 0.6,
+        "policy_general": 0.8,
+        "policy_specific_mean": 0.5,
+        "behavior_mean": 0.4,
+        "donation_ams": 0.04,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

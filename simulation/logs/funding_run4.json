@@ -1,0 +1,63 @@
+{
+  "condition": "Funding",
+  "run": 4,
+  "timestamp": "2026-08-30T17:37:28.701Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLcBUzpqJ3yqyZCAE7F",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is the \"Funding\" intervention: values affirmation followed by corrective feedback about climate scientists' funding and pay, aimed at the integrity/financial-motives suspicion dimension. Since it explicitly states federal climate research spending is small relative to other areas, this should directly push funding_perceptions upward, indicating people currently think spending is too little.\n\nFor trust_multidimensional, this is interactive and evidence-based, countering the common skeptic claim that scientists profit from climate research, and the values preamble may reduce defensiveness. But the pre-questions priming distrust of corporations and powerful interests could activate suspicion before the correction lands, creating some risk of a mixed effect, so I'll estimate a moderate positive shift.\n\nFor trust_post, I'll anchor to something smaller than the pre-measure boost given the priming risk.\n\nFunding perceptions should shift strongly positive since this directly corrects a factual misperception. Policy_role_mean is trickier — the message stresses that policymakers decide and science shouldn't justify policy, which likely tempers support for scientist advocacy even though it also emphasizes collaboration and communication, so I'm landing near slightly negative. Institutional trust gets a modest boost, diluted by the multiple constructs, and belief_post, concern_mean, and policy_general all get small positive nudges, tempered by that same policy-role framing dampening enthusiasm for policy involvement.\n\nFor the remaining behavioral outcomes — specific policy support, general behavior, donations to the meteorological society, and newsletter signups — I'm assigning small positive increments, reasoning that learning scientists are underfunded could modestly increase willingness to support them financially, though the effect sizes shrink for the more distal, effortful actions like donating or signing up. I'm ready to finalize these estimates.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm combines a values-affirmation preamble (fairness, honesty, transparency) with interactive belief-elicitation plus corrective feedback aimed squarely at the 'climate scientists are in it for the money' suspicion — modest salaries, unpaid National Climate Assessment work, and climate research funding that is small relative to biomedical research. The most proximal targets are therefore the integrity/benevolence facets of trust and, very directly, funding_perceptions: the text explicitly argues federal (and private) climate-research spending is small, which should shift respondents toward 'too little is being spent' more than any attitudinal outcome. I gave trust_multidimensional a moderately strong effect (+2.3) because the arm is evidence-based, counter-attitudinal, interactive and sourced, but discounted it somewhat because the opening agreement items prime suspicion of powerful/corporate interests before the correction arrives, and because the text is long and numeric. Re-asked, pre-anchored single items (trust_post, belief_post) get smaller effects than the fresh multidimensional battery, and distrust falls slightly less in absolute value than trust rises. Notably, the closing frame ('science isn't a tool to justify policies; policymakers decide') should mildly depress agreement that scientists ought to advocate and be more involved in policy, so I forecast a small negative policy_role_mean. Distal climate attitudes, intentions, and especially incentivized behaviors get sub-point / few-cent effects, with a slight bump on the AMS donation because the message frames climate science as under-resourced.\", \"ates\": {\"trust_multidimensional\": 2.3, \"trust_post\": 1.7, \"distrust_post\": -1.5, \"funding_perceptions\": 4.1, \"policy_role_mean\": -0.8, \"inst_trust_mean\": 0.9, \"belief_post\": 0.6, \"concern_mean\": 0.7, \"policy_general\": 0.6, \"policy_specific_mean\": 0.5, \"behavior_mean\": 0.3, \"donation_ams\": 0.09, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1628,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1744,
+      "output_tokens_details": {
+        "thinking_tokens": 1039
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm combines a values-affirmation preamble (fairness, honesty, transparency) with interactive belief-elicitation plus corrective feedback aimed squarely at the 'climate scientists are in it for the money' suspicion — modest salaries, unpaid National Climate Assessment work, and climate research funding that is small relative to biomedical research. The most proximal targets are therefore the integrity/benevolence facets of trust and, very directly, funding_perceptions: the text explicitly argues federal (and private) climate-research spending is small, which should shift respondents toward 'too little is being spent' more than any attitudinal outcome. I gave trust_multidimensional a moderately strong effect (+2.3) because the arm is evidence-based, counter-attitudinal, interactive and sourced, but discounted it somewhat because the opening agreement items prime suspicion of powerful/corporate interests before the correction arrives, and because the text is long and numeric. Re-asked, pre-anchored single items (trust_post, belief_post) get smaller effects than the fresh multidimensional battery, and distrust falls slightly less in absolute value than trust rises. Notably, the closing frame ('science isn't a tool to justify policies; policymakers decide') should mildly depress agreement that scientists ought to advocate and be more involved in policy, so I forecast a small negative policy_role_mean. Distal climate attitudes, intentions, and especially incentivized behaviors get sub-point / few-cent effects, with a slight bump on the AMS donation because the message frames climate science as under-resourced.",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.7,
+        "distrust_post": -1.5,
+        "funding_perceptions": 4.1,
+        "policy_role_mean": -0.8,
+        "inst_trust_mean": 0.9,
+        "belief_post": 0.6,
+        "concern_mean": 0.7,
+        "policy_general": 0.6,
+        "policy_specific_mean": 0.5,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.09,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

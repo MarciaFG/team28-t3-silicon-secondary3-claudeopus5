@@ -1,0 +1,63 @@
+{
+  "condition": "Corporate reliance",
+  "run": 3,
+  "timestamp": "2026-08-30T17:37:12.959Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLbT4Li2QUFohZttCjL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention leans on market-based credibility—profit-driven companies trusting climate science implies competence and accuracy, which is counter-attitudinal for skeptics since business framing appeals to conservatives. The reflection prompt adds light interactivity, so it should strongly target competence and moderately target integrity, likely landing among the stronger arms for trust, though the boost to benevolence/openness may be more limited.\n\nI'm working through my point estimates: trust_multidimensional around +2.3, trust_post +1.7, distrust_post -1.3, funding_perceptions +0.9, policy_role_mean +1.1, with the corporate framing potentially dampening concern mobilization or policy support since it suggests markets are already managing the risk, so I'm keeping those more modest.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The text supplies an indirect, market-based credibility cue: profit-motivated actors (insurers, global manufacturers) with real money at stake rely on climate models and avoid 'biased or ideological' sources. This is a source/validation argument targeting the COMPETENCE and (secondarily) INTEGRITY dimensions of trust, and it is ideologically congruent for right-leaning skeptics, which the messenger literature suggests boosts average effects; the reflection prompt adds mild elaboration. So I place it slightly above the median arm on the multidimensional trust battery (~+2.3), with a smaller effect on the pre-anchored single trust item and a modest reduction in distrust. Distal outcomes get much less: the text says nothing about federal funding (small positive spillover from perceived usefulness of research), mildly supports scientists engaging with real-world decision-makers (policy_role), and only weakly implies risk reality (belief/concern under 1 point). Policy support and behavioral intentions are least proximal and the corporate 'markets are already handling risk' framing could even blunt mobilization, so I keep them at ~0.3–0.4. Incentivized outcomes are near zero: a few cents on the donation and well under one percentage point on newsletter sign-up.\", \"ates\": {\"trust_multidimensional\": 2.3, \"trust_post\": 1.7, \"distrust_post\": -1.3, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.1, \"inst_trust_mean\": 0.65, \"belief_post\": 0.9, \"concern_mean\": 0.7, \"policy_general\": 0.45, \"policy_specific_mean\": 0.35, \"behavior_mean\": 0.25, \"donation_ams\": 0.04, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 685,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1302,
+      "output_tokens_details": {
+        "thinking_tokens": 699
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text supplies an indirect, market-based credibility cue: profit-motivated actors (insurers, global manufacturers) with real money at stake rely on climate models and avoid 'biased or ideological' sources. This is a source/validation argument targeting the COMPETENCE and (secondarily) INTEGRITY dimensions of trust, and it is ideologically congruent for right-leaning skeptics, which the messenger literature suggests boosts average effects; the reflection prompt adds mild elaboration. So I place it slightly above the median arm on the multidimensional trust battery (~+2.3), with a smaller effect on the pre-anchored single trust item and a modest reduction in distrust. Distal outcomes get much less: the text says nothing about federal funding (small positive spillover from perceived usefulness of research), mildly supports scientists engaging with real-world decision-makers (policy_role), and only weakly implies risk reality (belief/concern under 1 point). Policy support and behavioral intentions are least proximal and the corporate 'markets are already handling risk' framing could even blunt mobilization, so I keep them at ~0.3–0.4. Incentivized outcomes are near zero: a few cents on the donation and well under one percentage point on newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.7,
+        "distrust_post": -1.3,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 0.65,
+        "belief_post": 0.9,
+        "concern_mean": 0.7,
+        "policy_general": 0.45,
+        "policy_specific_mean": 0.35,
+        "behavior_mean": 0.25,
+        "donation_ams": 0.04,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

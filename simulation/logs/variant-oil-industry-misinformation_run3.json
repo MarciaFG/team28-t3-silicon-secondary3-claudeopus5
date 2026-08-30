@@ -1,0 +1,64 @@
+{
+  "condition": "Oil industry misinformation",
+  "run": 3,
+  "timestamp": "2026-08-30T18:18:51.450Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPkzuMaQunUZErPwo8o",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This looks like a misinformation-attribution intervention that shifts blame to oil industry propaganda, which tends to be compelling and could produce moderate trust gains alongside mobilizing effects on concern. I'm estimating it falls among the stronger performers in this domain, likely in the 4-6 point range on the trust scale, though its politically charged framing adds some uncertainty.\n\nI'm working through likely effect sizes across the various outcome measures: trust_multidimensional probably around +2.5 to +3.5, trust_post similar but possibly attenuated by anchoring, distrust_post modestly negative around -2, and smaller ripple effects on funding_perceptions, policy_role_mean, inst_trust_mean, and belief_post given ceiling effects from pre-treatment anchoring.\n\nFor the remaining outcomes, I'm estimating concern_mean around +1.5, policy_general higher at +2.5 since the oil-industry framing directly targets support for government action, and policy_specific_mean slightly above that given its overlap with fossil fuel taxation. Behavioral and donation measures likely see smaller bumps, maybe +1.0 for behavior_mean and modest dollar amounts for donation_ams and newsletter_signup. Given that this framing functions like misinformation inoculation and validates skeptics' feelings to reduce reactance, I suspect it performs above average among the sixteen interventions, though partisan backlash among conservatives could attenuate the overall average slightly — landing me around +2.8 for trust_multidimensional.\n\nSettling on final numbers: trust_multidimensional at 2.8, trust_post at 2.6, distrust_post at -2.2, funding_perceptions at 2.3, policy_role_mean at 2.0, inst_trust_mean at 1.3, belief_post at 1.6, concern_mean at 2.0 given the emphasis on catastrophic risk and crisis language, policy_general at 2.4, policy_specific_mean at 1.8, behavior_mean at 1.0, donation_ams at 0.08, and newsletter_signup at 0.012.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This is an attribution/inoculation message: it reframes existing distrust as the manufactured product of a fossil-fuel disinformation campaign, validates skeptics' feelings up front (reducing reactance), and portrays scientists as honest victims of harassment. That directly targets integrity/benevolence dimensions of trust and supplies a clear villain, so I expect above-average effects for this megastudy on the trust outcomes and modest spillover to policy support (especially anti-fossil-fuel measures) and to perceived need for research funding. Calibration: single-reading text interventions in climate/trust megastudies typically produce ATEs of roughly 0–5 points on 0–100 scales, with the strongest arms near 4–6; I place this arm at the upper-middle of the distribution (~3 points on primary trust) since it is vivid, evidence-dense, and reactance-buffered, but partly offset by partisan resistance to anti-oil framing among conservatives and by mentioning fraud accusations (a mild familiarity risk). Downstream outcomes (belief, concern, behavior) are attenuated by pre-treatment anchoring, ceilings among believers, and their greater distance from the message's focus, so I scale them to roughly half to two-thirds of the trust effect. Incentivized behaviors (donation, newsletter) are dominated by inertia and other considerations, so I forecast only a few cents and about one percentage point.\", \"ates\": {\"trust_multidimensional\": 2.9, \"trust_post\": 2.6, \"distrust_post\": -2.2, \"funding_perceptions\": 2.3, \"policy_role_mean\": 2.0, \"inst_trust_mean\": 1.3, \"belief_post\": 1.6, \"concern_mean\": 1.9, \"policy_general\": 2.4, \"policy_specific_mean\": 1.8, \"behavior_mean\": 1.0, \"donation_ams\": 0.08, \"newsletter_signup\": 0.012}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1819,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1968,
+      "output_tokens_details": {
+        "thinking_tokens": 1314
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This is an attribution/inoculation message: it reframes existing distrust as the manufactured product of a fossil-fuel disinformation campaign, validates skeptics' feelings up front (reducing reactance), and portrays scientists as honest victims of harassment. That directly targets integrity/benevolence dimensions of trust and supplies a clear villain, so I expect above-average effects for this megastudy on the trust outcomes and modest spillover to policy support (especially anti-fossil-fuel measures) and to perceived need for research funding. Calibration: single-reading text interventions in climate/trust megastudies typically produce ATEs of roughly 0–5 points on 0–100 scales, with the strongest arms near 4–6; I place this arm at the upper-middle of the distribution (~3 points on primary trust) since it is vivid, evidence-dense, and reactance-buffered, but partly offset by partisan resistance to anti-oil framing among conservatives and by mentioning fraud accusations (a mild familiarity risk). Downstream outcomes (belief, concern, behavior) are attenuated by pre-treatment anchoring, ceilings among believers, and their greater distance from the message's focus, so I scale them to roughly half to two-thirds of the trust effect. Incentivized behaviors (donation, newsletter) are dominated by inertia and other considerations, so I forecast only a few cents and about one percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.9,
+        "trust_post": 2.6,
+        "distrust_post": -2.2,
+        "funding_perceptions": 2.3,
+        "policy_role_mean": 2,
+        "inst_trust_mean": 1.3,
+        "belief_post": 1.6,
+        "concern_mean": 1.9,
+        "policy_general": 2.4,
+        "policy_specific_mean": 1.8,
+        "behavior_mean": 1,
+        "donation_ams": 0.08,
+        "newsletter_signup": 0.012
+      }
+    }
+  }
+}

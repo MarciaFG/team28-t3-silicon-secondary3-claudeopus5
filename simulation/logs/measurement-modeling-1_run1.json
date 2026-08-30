@@ -1,0 +1,63 @@
+{
+  "condition": "Measurement & modeling (1)",
+  "run": 1,
+  "timestamp": "2026-08-30T17:37:43.128Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLdiGwDdYai5wTpotdg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This piece is a \"how climate science works\" methods-style text, heavy on rigor and evidence with vivid details like ice cores and the ink-in-swimming-pool analogy. It mostly targets the competence dimension of trust rather than benevolence or integrity, with no messenger presence or acknowledgment of counterarguments, so I'd expect a modest trust gain, maybe around +1.9 on the multidimensional scale.\n\nFor the individual outcomes, I'm estimating small positive shifts across the board: trust_post around +1.2, distrust around -1.0, funding perceptions and policy role each around +0.9-1.1 given mentions of assessments and NASA satellites, belief around +0.8, concern around +0.6, and diminishing effects further down to policy_general (+0.45), policy_specific (+0.35), behavior (+0.25), donation (+0.05), and newsletter signup (+0.006) — this being one of several similar \"Measurement & modeling\" arms in the study.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a purely expository account of how climate science is done — instruments, ice cores, isotopes, satellites, models — with some vivid concreteness (volcanic ash fingerprints, 'a drop of ink in an Olympic pool'). Its mechanism is competence/epistemic-rigor signaling: it should raise the competence subscale most, openness somewhat (methods transparency), and integrity/benevolence only indirectly, so the four-subscale primary index gets a diluted, moderate boost (~+2). There is no ideologically congruent messenger, no correction of a misperception, no acknowledgment of criticism or funding issues, so it lacks the counter-attitudinal punch of source-credibility or inoculation arms; it is also long and somewhat dry, which caps engagement. Downstream outcomes get progressively smaller effects: re-asked single items (trust_post, belief_post) are shrunk by pre-treatment anchoring; the explicit NASA/satellite and 'findings inform international assessments' content gives small positive nudges to institutional trust and the scientists-in-policy items; mentions of heatwaves/droughts/flooding give only a slight concern bump. Policy support and behavioral intentions are distal and near-zero-to-small, and the incentivized measures (AMS donation, newsletter signup) should move only a few cents / a fraction of a percentage point, though the meteorology-science framing marginally favors the AMS donation.\", \"ates\": {\"trust_multidimensional\": 1.95, \"trust_post\": 1.2, \"distrust_post\": -0.95, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.1, \"inst_trust_mean\": 0.95, \"belief_post\": 0.8, \"concern_mean\": 0.6, \"policy_general\": 0.45, \"policy_specific_mean\": 0.35, \"behavior_mean\": 0.25, \"donation_ams\": 0.06, \"newsletter_signup\": 0.006}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 997,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1279,
+      "output_tokens_details": {
+        "thinking_tokens": 617
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a purely expository account of how climate science is done — instruments, ice cores, isotopes, satellites, models — with some vivid concreteness (volcanic ash fingerprints, 'a drop of ink in an Olympic pool'). Its mechanism is competence/epistemic-rigor signaling: it should raise the competence subscale most, openness somewhat (methods transparency), and integrity/benevolence only indirectly, so the four-subscale primary index gets a diluted, moderate boost (~+2). There is no ideologically congruent messenger, no correction of a misperception, no acknowledgment of criticism or funding issues, so it lacks the counter-attitudinal punch of source-credibility or inoculation arms; it is also long and somewhat dry, which caps engagement. Downstream outcomes get progressively smaller effects: re-asked single items (trust_post, belief_post) are shrunk by pre-treatment anchoring; the explicit NASA/satellite and 'findings inform international assessments' content gives small positive nudges to institutional trust and the scientists-in-policy items; mentions of heatwaves/droughts/flooding give only a slight concern bump. Policy support and behavioral intentions are distal and near-zero-to-small, and the incentivized measures (AMS donation, newsletter signup) should move only a few cents / a fraction of a percentage point, though the meteorology-science framing marginally favors the AMS donation.",
+      "ates": {
+        "trust_multidimensional": 1.95,
+        "trust_post": 1.2,
+        "distrust_post": -0.95,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 0.95,
+        "belief_post": 0.8,
+        "concern_mean": 0.6,
+        "policy_general": 0.45,
+        "policy_specific_mean": 0.35,
+        "behavior_mean": 0.25,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.006
+      }
+    }
+  }
+}

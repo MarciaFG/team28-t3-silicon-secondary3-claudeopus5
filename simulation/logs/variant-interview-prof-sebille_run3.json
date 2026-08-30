@@ -1,0 +1,64 @@
+{
+  "condition": "Interview Prof. Sebille",
+  "run": 3,
+  "timestamp": "2026-08-30T18:20:28.536Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPtnfd1sj92KUrzikNr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This looks like a values-sharing/benevolence intervention, with a climate scientist's warm, honest testimonial likely producing a modest positive shift in trust, especially on the benevolence dimension—maybe +2 to +4 points on the primary trust measure. The urgency/threat framing could introduce mild partisan pushback, but overall the personal tone should keep backlash minimal.\n\nI'm settling on conservative estimates across the board: trust_multidimensional around +2.8, trust_post around +2.2, distrust_post around -1.5, with smaller positive nudges to funding perceptions, policy attitudes, and institutional trust, and modest bumps to concern and behavioral measures. The scientist being Dutch rather than American might slightly dampen relevance, but the inclusive framing (\"helps everyone regardless of background or belief\") should offset that.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This intervention is a warm, first-person testimonial from a named climate scientist that pairs a brief impact summary (ocean warming, sea-level rise, vulnerable populations) with explicit statements of benevolent motives, honesty, and inclusivity ('regardless of background or belief'). Mechanistically it should most directly move the benevolence/integrity subscales of the multidimensional trust measure, which is measured first and is a fresh, unanchored composite — hence the largest effect there (~3 points). Single-item trust and distrust are anchored on pre-treatment answers and thus attenuated, and distrust items are stickier than trust items, so I shrink those. Because the scientist explicitly frames communication and protection as his role, policy_role_mean should get a modest boost comparable to trust. Downstream belief/concern/policy outcomes are heavily pre-determined by partisanship and (for belief) anchored, so effects there are small (1–2 points), with concern getting slightly more because the text foregrounds accelerating, worse-than-modeled harms. Incentivized behaviors (donation, newsletter) show only tiny shifts in such studies, on the order of a few cents and ~1 percentage point; I keep those near the low end since a single mild testimonial rarely changes costly action.\", \"ates\": {\"trust_multidimensional\": 2.9, \"trust_post\": 2.2, \"distrust_post\": -1.5, \"funding_perceptions\": 1.3, \"policy_role_mean\": 2.3, \"inst_trust_mean\": 1.1, \"belief_post\": 1.4, \"concern_mean\": 2.0, \"policy_general\": 1.6, \"policy_specific_mean\": 1.2, \"behavior_mean\": 0.9, \"donation_ams\": 0.09, \"newsletter_signup\": 0.011}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 570,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1330,
+      "output_tokens_details": {
+        "thinking_tokens": 724
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This intervention is a warm, first-person testimonial from a named climate scientist that pairs a brief impact summary (ocean warming, sea-level rise, vulnerable populations) with explicit statements of benevolent motives, honesty, and inclusivity ('regardless of background or belief'). Mechanistically it should most directly move the benevolence/integrity subscales of the multidimensional trust measure, which is measured first and is a fresh, unanchored composite — hence the largest effect there (~3 points). Single-item trust and distrust are anchored on pre-treatment answers and thus attenuated, and distrust items are stickier than trust items, so I shrink those. Because the scientist explicitly frames communication and protection as his role, policy_role_mean should get a modest boost comparable to trust. Downstream belief/concern/policy outcomes are heavily pre-determined by partisanship and (for belief) anchored, so effects there are small (1–2 points), with concern getting slightly more because the text foregrounds accelerating, worse-than-modeled harms. Incentivized behaviors (donation, newsletter) show only tiny shifts in such studies, on the order of a few cents and ~1 percentage point; I keep those near the low end since a single mild testimonial rarely changes costly action.",
+      "ates": {
+        "trust_multidimensional": 2.9,
+        "trust_post": 2.2,
+        "distrust_post": -1.5,
+        "funding_perceptions": 1.3,
+        "policy_role_mean": 2.3,
+        "inst_trust_mean": 1.1,
+        "belief_post": 1.4,
+        "concern_mean": 2,
+        "policy_general": 1.6,
+        "policy_specific_mean": 1.2,
+        "behavior_mean": 0.9,
+        "donation_ams": 0.09,
+        "newsletter_signup": 0.011
+      }
+    }
+  }
+}

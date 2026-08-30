@@ -1,0 +1,63 @@
+{
+  "condition": "Interview Prof. Sebille",
+  "run": 2,
+  "timestamp": "2026-08-30T17:39:16.018Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLkdVtpv4UgYcmD7pm5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This narrative arm leans into benevolence and integrity by highlighting the scientist's personal values and care, which typically gives a modest trust boost. The Dutch/Utrecht framing and inclusive \"regardless of background\" language add credibility while keeping things relatable, though the advocacy tone risks reading as values-driven rather than purely factual.\n\nSo I'll estimate strong gains on trust and openness (~+2.3), a solid post-trust bump (~+1.7) with reduced distrust (~-1.2), moderate belief and concern increases (~+1.0 to +1.6) since impacts are vividly described, and smaller gains across policy support, behavior, and donation/newsletter measures given the diluted institutional framing.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm is a first-person narrative interview in which a named climate scientist voices care for the ocean, people, and vulnerable communities, and stresses providing 'clear, honest evidence' for everyone 'regardless of background or belief.' The mechanism is direct source-credibility signalling on the benevolence, integrity, and openness dimensions of trust, delivered in a warm narrative format that the literature credits with a small immediate advantage (d ≈ 0.1–0.2) over dry expository text. It should therefore be among the better-performing arms on the fresh multidimensional trust battery (~+2.3, d ≈ 0.1), with a smaller effect on the pre-anchored single trust item and a modest reduction in distrust. Because the text also vividly describes ocean impacts (marine heat waves, coral bleaching, coastal flooding) and equity risks, it should nudge concern (~+1.6) more than belief, which is already near ceiling and pre-anchored. The scientist explicitly frames sharing research as a public-service duty, so the scientists-in-policy items get a modest lift (~+1.8), while broad policy support, behavioral intentions, and diluted institutional trust move under a point. Incentivized outcomes should barely move: a few cents on the AMS donation and about one percentage point on newsletter sign-up.\",\"ates\":{\"trust_multidimensional\":2.3,\"trust_post\":1.7,\"distrust_post\":-1.2,\"funding_perceptions\":1.0,\"policy_role_mean\":1.8,\"inst_trust_mean\":0.7,\"belief_post\":1.0,\"concern_mean\":1.6,\"policy_general\":1.0,\"policy_specific_mean\":0.8,\"behavior_mean\":0.6,\"donation_ams\":0.07,\"newsletter_signup\":0.011}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 570,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1178,
+      "output_tokens_details": {
+        "thinking_tokens": 569
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a first-person narrative interview in which a named climate scientist voices care for the ocean, people, and vulnerable communities, and stresses providing 'clear, honest evidence' for everyone 'regardless of background or belief.' The mechanism is direct source-credibility signalling on the benevolence, integrity, and openness dimensions of trust, delivered in a warm narrative format that the literature credits with a small immediate advantage (d ≈ 0.1–0.2) over dry expository text. It should therefore be among the better-performing arms on the fresh multidimensional trust battery (~+2.3, d ≈ 0.1), with a smaller effect on the pre-anchored single trust item and a modest reduction in distrust. Because the text also vividly describes ocean impacts (marine heat waves, coral bleaching, coastal flooding) and equity risks, it should nudge concern (~+1.6) more than belief, which is already near ceiling and pre-anchored. The scientist explicitly frames sharing research as a public-service duty, so the scientists-in-policy items get a modest lift (~+1.8), while broad policy support, behavioral intentions, and diluted institutional trust move under a point. Incentivized outcomes should barely move: a few cents on the AMS donation and about one percentage point on newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.7,
+        "distrust_post": -1.2,
+        "funding_perceptions": 1,
+        "policy_role_mean": 1.8,
+        "inst_trust_mean": 0.7,
+        "belief_post": 1,
+        "concern_mean": 1.6,
+        "policy_general": 1,
+        "policy_specific_mean": 0.8,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.011
+      }
+    }
+  }
+}

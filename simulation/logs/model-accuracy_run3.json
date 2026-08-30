@@ -1,0 +1,63 @@
+{
+  "condition": "Model accuracy",
+  "run": 3,
+  "timestamp": "2026-08-30T17:39:11.456Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLkKPij6iNitWhdmvew",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This one addresses model track-record accuracy, a strong counter-attitudinal correction to the common \"models can't predict\" skeptic argument, directly hitting the competence dimension of trust while acknowledging limitations for added credibility. I'd estimate trust_multidimensional around +2.5, likely one of the stronger-performing arms given its specificity and evidence base.\n\nDistrust drops less, around -1.4, since distrust items tend to move less readily. Funding perceptions get a modest bump (~+0.7) since the text doesn't directly address funding, and inst_trust_mean similarly stays modest at ~+0.7 due to dilution. Belief in human-caused climate change should move meaningfully (~+1.2) since accurate models imply accurate underlying physics, with smaller downstream effects on concern (~+0.9), policy support (~+0.7 general, ~+0.5 specific), and minimal shifts in behavior and donation/newsletter metrics.\n\n",
+        "signature": "CAIS/AoKjgEIERgCKkCnI2cqyBP3gpgo4DBQf/eNsbz7ELmrwFpHZDodZF+0qCif/lH2ybIIXGG+lDKPhyE7CCrNHoSCka9PjTo0xQClMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAbnV0dQGEgyXDbm0c41OZKxp6OMaDCAuNu+mTU8y9B27ASIwhF30RMTI3AdtD1E5h8U5cHbZhk/8iBTcEGCoIdWBYnnGbZHCp4kgKGsR/5ag9sfxKpoJWfj6xFc5YCk3mrGpuFspcNVcLSqLduxw2ZU6j6giMNoVwqVE0yG0Xe8BvscPAlMnUdOwAe53dP86NSH7UQI3agSVE4ulmUDt6pQO3feHgK9Rb+Qsxzj/vD+meaUBREA7J/Z9gJg9XGs9H4DZ5eh+evKnt+9vSkDZtsexXllw7oZ+A+KKr3ckrmhO0Z+blBLuKR6R6QzOB69O/zhd/JGTqxQM8+ZTi5UBTnwvzTOU+eICE4qSYdgHZp7xaqacAmcGzDWQcCmqlshslT+cZzqcTI7nDiA+WY9ZOcJ9HHlYGirnVLCRJDLGe5bV7CCHGeHju2rBbNnYO9SvsZIV3b23Lu1hfvxnroEOGD1hAWfsJTIVos5n1/wI5sWuDy9Jfcgs+rNccVx6ZR859sqA99CZ2IYojFpH1XvcceWiwqgjakiNYqWXwg3mu+rW59fMK7IHaDKYPv16dGdKAXcOOG77GUH+1YAunLGe8553xRssjIPE9uTDo52QMct0l+uGPtEfhvf89Ys4WIxnKY28wJranOl/5J0BMKZDbx92uiKEUFGdvjOBy9mQXsqdJNL/BtXzSHf7a4AOFrUJklVoKDWS/JySRbMCSuAbO1lzf6oM3SRTULrZjIPR2jLB5tga6DngUvMNwZ7V/3MnpDwJtRpCn47crw/eT5DN5mRDHX7JMLCov9oVBLtuz8w90ZVlQPEbstFKWSQImoTNVImhRj73ka6o13Imgf3q1l+mhJD328oDpzhTyUuqfwcYrwRH9OgJl2pvp/1lltX99BKOLjQ5jwbU0hSH7IwQGWZb+AMGP+YjAf0UwaoidZHHLzc5kTU7JvAyxG/s93lvTel5xziE4GyOoJVyijTafL2A1P1nL2CLCr9+ZWvEWH/rMZwK48uOMrLRmb/zJqp+Dg96eD01clHIkebjt88a3idnpO+SzaE3BhU+eUhDy6NYucRZs6nO85PhD7ZpuCEblPCTyez89HRY01+aEv2qZ1SmJ1BTsXjXU+9yMauBdx6LYgZmhaa/TZNxq3/BgqK6rOCp1f3YMx4pYjRQYJkx+GEiXCL3SFuw9rVOV9Hib1nAbZkorK+Q7c8TGVzzw3sGGKHJIHfyzMy5OO1RroJfdKSN8sIFpmno0SsPD5eTH11FGSNx758u7JB3qIzxwucCn9pbRPpe19PCxvjrawTEvIRsV1Om6gJ66gflJf+wXEXYaIJZGF3WcJnU5kkvUU0o9C4YvecC1hDMYqS5Xu43ZQqBEXpsNQuL/jF+73iCIjnPM+t+mg5EW4vy4Ejj1iDFOfIXRtwfwbqyyGefetNX/MZZ7myxP6YJA3FAVyvQRvgZpM00tFLooQq8YpeBmV7fP4yrqF/h7qqQsGt4KtF4PSdsVzAHFTpOf0SyZrD38afdDWlJT/LIZTsynME9nuEah2PG7gKRsWzWwSAYYxpBjR1JzrFJGMTIrSuijcjItBojjXnqhB6BOyV7wELGFePHU3LXUak/32M3xZAkXTddFgDoSjNMoaWQSGSS83qF7FjPr+I9T7k1JT/aR5J1rLsxU7obX79wN2esc3aaIx9NmZAYAQ=="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm is a source-credibility/competence correction: it names a common skeptic criticism (\\\"models can't predict the future\\\") and rebuts it with concrete, verifiable evidence (17 forecasts 1970–2001, direction and magnitude correct, errors traceable to emissions assumptions rather than physics), while candidly conceding imperfections — a two-sided framing that typically enhances perceived honesty as well as competence. It should therefore be an above-average arm on the fresh multidimensional trust battery (competence and openness subscales especially), placing it near the top of the plausible +0.5 to +3.5 range at roughly +2.5 points. Effects on the re-asked single items (trust_post, belief_post) are shrunk by pre-treatment anchoring and consistency pressure, and distrust items tend to be stickier than trust items, so I put those at about two-thirds and half the primary effect respectively. Because the text validates the fundamental science, belief in human causation gets a modest boost (~+1.2), but concern, general and specific policy support, and behavioral intentions are progressively more distal and partisan-anchored, falling under a point. Funding perceptions and scientists' policy role get small positive spillovers (competence implies research is worth funding and worth heeding), and institutional trust is diluted by the federal-government item. Incentivized outcomes get near-floor values: a few cents on the donation and about one percentage point on newsletter sign-up.\",\"ates\":{\"trust_multidimensional\":2.5,\"trust_post\":1.7,\"distrust_post\":-1.35,\"funding_perceptions\":0.75,\"policy_role_mean\":0.95,\"inst_trust_mean\":0.7,\"belief_post\":1.2,\"concern_mean\":0.85,\"policy_general\":0.7,\"policy_specific_mean\":0.45,\"behavior_mean\":0.3,\"donation_ams\":0.06,\"newsletter_signup\":0.011}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 894,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1109,
+      "output_tokens_details": {
+        "thinking_tokens": 464
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a source-credibility/competence correction: it names a common skeptic criticism (\"models can't predict the future\") and rebuts it with concrete, verifiable evidence (17 forecasts 1970–2001, direction and magnitude correct, errors traceable to emissions assumptions rather than physics), while candidly conceding imperfections — a two-sided framing that typically enhances perceived honesty as well as competence. It should therefore be an above-average arm on the fresh multidimensional trust battery (competence and openness subscales especially), placing it near the top of the plausible +0.5 to +3.5 range at roughly +2.5 points. Effects on the re-asked single items (trust_post, belief_post) are shrunk by pre-treatment anchoring and consistency pressure, and distrust items tend to be stickier than trust items, so I put those at about two-thirds and half the primary effect respectively. Because the text validates the fundamental science, belief in human causation gets a modest boost (~+1.2), but concern, general and specific policy support, and behavioral intentions are progressively more distal and partisan-anchored, falling under a point. Funding perceptions and scientists' policy role get small positive spillovers (competence implies research is worth funding and worth heeding), and institutional trust is diluted by the federal-government item. Incentivized outcomes get near-floor values: a few cents on the donation and about one percentage point on newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 2.5,
+        "trust_post": 1.7,
+        "distrust_post": -1.35,
+        "funding_perceptions": 0.75,
+        "policy_role_mean": 0.95,
+        "inst_trust_mean": 0.7,
+        "belief_post": 1.2,
+        "concern_mean": 0.85,
+        "policy_general": 0.7,
+        "policy_specific_mean": 0.45,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.011
+      }
+    }
+  }
+}

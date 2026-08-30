@@ -1,0 +1,64 @@
+{
+  "condition": "Interview Prof. Sebille",
+  "run": 1,
+  "timestamp": "2026-08-30T18:20:10.874Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPsLK5jqjTRUvEqc7Qr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention is a personal, values-based interview with a climate scientist highlighting shared values, benevolence, and honesty—the kind of trust-building approach that typically yields modest gains, maybe 2-4 points on a 0-100 trust scale, with the strongest effects likely on benevolence and integrity subscales since it's measured as the primary outcome.\n\nThat said, mentions of vulnerable populations and advocacy framing could trigger mild backlash among some conservative respondents, tempering the otherwise net-positive effect. My working estimates: trust_multidimensional around +3.0, trust_post +2.2, distrust_post -1.5, funding_perceptions +1.5, policy_role_mean +2.5, inst_trust_mean +1.2, belief_post +1.5, concern_mean +2.0, policy_general +1.8, policy_specific_mean +1.3, behavior_mean +1.0, donation_ams +0.10, and newsletter_signup +0.012 -- though I suspect these might be slightly inflated given how many arms this megastudy likely has.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm humanizes a single climate scientist, foregrounding benevolence (caring about the ocean, people, communities), integrity (\\\"clear, honest evidence\\\"), and inclusivity (\\\"regardless of background or belief\\\"). Such value-affirming, personal-narrative messages reliably nudge the warmth/benevolence and integrity dimensions of trust more than competence, so the primary multidimensional trust measure (asked first, before anchoring fatigue) should show the largest movement, on the order of a few points on a 0\\\\u2013100 scale. Single-item trust and belief items are pre-measured, so anchoring compresses their ATEs relative to the fresh multidimensional battery; distrust moves less than trust because distrust items are floor-heavy and stickier. The passage also contains alarming impact content (marine heat waves, coastal flooding, faster than models), so concern and general policy support should rise modestly, while specific policies, self-reported behavior, and especially incentivized behaviors (donation, newsletter) show only small spillovers, since a 1\\\\u20132 minute read rarely changes revealed preferences. I also discount slightly for potential mild reactance among conservatives to the equity framing and the Dutch, non-U.S. messenger, and for the institutional trust index being diluted by the federal-government item.\", \"ates\": {\"trust_multidimensional\": 3.1, \"trust_post\": 2.2, \"distrust_post\": -1.5, \"funding_perceptions\": 1.5, \"policy_role_mean\": 2.4, \"inst_trust_mean\": 1.3, \"belief_post\": 1.5, \"concern_mean\": 2.0, \"policy_general\": 1.8, \"policy_specific_mean\": 1.3, \"behavior_mean\": 0.9, \"donation_ams\": 0.09, \"newsletter_signup\": 0.012}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 570,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1413,
+      "output_tokens_details": {
+        "thinking_tokens": 796
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm humanizes a single climate scientist, foregrounding benevolence (caring about the ocean, people, communities), integrity (\"clear, honest evidence\"), and inclusivity (\"regardless of background or belief\"). Such value-affirming, personal-narrative messages reliably nudge the warmth/benevolence and integrity dimensions of trust more than competence, so the primary multidimensional trust measure (asked first, before anchoring fatigue) should show the largest movement, on the order of a few points on a 0\\u2013100 scale. Single-item trust and belief items are pre-measured, so anchoring compresses their ATEs relative to the fresh multidimensional battery; distrust moves less than trust because distrust items are floor-heavy and stickier. The passage also contains alarming impact content (marine heat waves, coastal flooding, faster than models), so concern and general policy support should rise modestly, while specific policies, self-reported behavior, and especially incentivized behaviors (donation, newsletter) show only small spillovers, since a 1\\u20132 minute read rarely changes revealed preferences. I also discount slightly for potential mild reactance among conservatives to the equity framing and the Dutch, non-U.S. messenger, and for the institutional trust index being diluted by the federal-government item.",
+      "ates": {
+        "trust_multidimensional": 3.1,
+        "trust_post": 2.2,
+        "distrust_post": -1.5,
+        "funding_perceptions": 1.5,
+        "policy_role_mean": 2.4,
+        "inst_trust_mean": 1.3,
+        "belief_post": 1.5,
+        "concern_mean": 2,
+        "policy_general": 1.8,
+        "policy_specific_mean": 1.3,
+        "behavior_mean": 0.9,
+        "donation_ams": 0.09,
+        "newsletter_signup": 0.012
+      }
+    }
+  }
+}

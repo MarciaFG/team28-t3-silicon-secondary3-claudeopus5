@@ -1,0 +1,64 @@
+{
+  "condition": "Interview Prof. Sebille",
+  "run": 4,
+  "timestamp": "2026-08-30T18:20:26.979Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPtoA9HaPnAkXt8FtGD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention reads as a benevolence and values testimonial from a climate scientist, emphasizing caring motives and honesty toward everyone regardless of belief. I'd expect a modest positive effect on trust, particularly benevolence and integrity, likely in the +2-3 point range on a multidimensional scale, with the personal testimonial framing being one of the stronger approaches typically seen in these megastudies.\n\nWorking through the other outcomes, I'm settling on smaller but consistently positive effects: distrust drops slightly (-1.1), concern about climate impacts rises modestly (+1.8) given the alarming content, policy role and general policy attitudes shift up (+1.7 and +1.4), belief and funding perceptions nudge up slightly, and behavioral/donation outcomes show only marginal movement (+0.7, +0.07, +0.012) reflecting the typical pattern where attitude shifts are easier to move than actual behavior.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm is a first-person testimonial from a named, credentialed climate scientist that (a) summarizes alarming ocean-climate findings and (b) explicitly signals benevolent, pro-social motives and honest, non-partisan intent. Mechanistically it targets the benevolence and integrity dimensions of trust most directly, with competence implied by institutional affiliation; it should therefore move the multidimensional trust primary outcome more than the single anchored trust item (which is dragged toward the pre-treatment answer). Because it also conveys severity and vulnerability framing, modest spillovers to concern, belief and policy support are plausible, but downstream attitudes are heavily pre-formed and politically anchored, so those effects should be smaller and diluted further for inst_trust_mean (federal-government item) and behavior/incentivized outcomes. I calibrated magnitudes to typical single-exposure message experiments in this literature: primary trust effects of roughly 1–4 points on 0–100 scales, distrust reductions about half the size of trust gains, 1–2 points for concern/policy, well under a point for self-reported behavior, and near-zero for real behaviors (a few cents of donation, ~1 pp newsletter signup). I nudged policy_role_mean up slightly because the scientist explicitly models public engagement and evidence-sharing, which legitimizes a policy-adjacent role.\",\"ates\":{\"trust_multidimensional\":2.4,\"trust_post\":1.9,\"distrust_post\":-1.1,\"funding_perceptions\":1.1,\"policy_role_mean\":1.7,\"inst_trust_mean\":0.9,\"belief_post\":1.3,\"concern_mean\":1.8,\"policy_general\":1.4,\"policy_specific_mean\":1.0,\"behavior_mean\":0.7,\"donation_ams\":0.07,\"newsletter_signup\":0.012}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 570,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1219,
+      "output_tokens_details": {
+        "thinking_tokens": 588
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a first-person testimonial from a named, credentialed climate scientist that (a) summarizes alarming ocean-climate findings and (b) explicitly signals benevolent, pro-social motives and honest, non-partisan intent. Mechanistically it targets the benevolence and integrity dimensions of trust most directly, with competence implied by institutional affiliation; it should therefore move the multidimensional trust primary outcome more than the single anchored trust item (which is dragged toward the pre-treatment answer). Because it also conveys severity and vulnerability framing, modest spillovers to concern, belief and policy support are plausible, but downstream attitudes are heavily pre-formed and politically anchored, so those effects should be smaller and diluted further for inst_trust_mean (federal-government item) and behavior/incentivized outcomes. I calibrated magnitudes to typical single-exposure message experiments in this literature: primary trust effects of roughly 1–4 points on 0–100 scales, distrust reductions about half the size of trust gains, 1–2 points for concern/policy, well under a point for self-reported behavior, and near-zero for real behaviors (a few cents of donation, ~1 pp newsletter signup). I nudged policy_role_mean up slightly because the scientist explicitly models public engagement and evidence-sharing, which legitimizes a policy-adjacent role.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.9,
+        "distrust_post": -1.1,
+        "funding_perceptions": 1.1,
+        "policy_role_mean": 1.7,
+        "inst_trust_mean": 0.9,
+        "belief_post": 1.3,
+        "concern_mean": 1.8,
+        "policy_general": 1.4,
+        "policy_specific_mean": 1,
+        "behavior_mean": 0.7,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.012
+      }
+    }
+  }
+}

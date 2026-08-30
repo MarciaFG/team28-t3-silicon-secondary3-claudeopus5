@@ -1,0 +1,64 @@
+{
+  "condition": "Model accuracy",
+  "run": 5,
+  "timestamp": "2026-08-30T18:20:06.688Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPs26hwcNqSq92FUBqr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is a competence-focused intervention citing accurate climate model track records, which should boost trust particularly along the competence dimension. I'm estimating modest effect sizes typical of megastudies: trust_multidimensional around +3.0, trust_post around +2.5, distrust_post around -2.0, funding_perceptions around +1.0, policy_role_mean and inst_trust_mean around +1.2, and belief_post around +2.0 since model accuracy evidence directly supports belief in human-caused climate change.\n\nConcern_mean lands around +1.3, policy_general around +1.2, policy_specific_mean around +0.8, behavior_mean around +0.6, with donation_ams and newsletter_signup showing tiny effects near +0.08 and +0.01 respectively. I'm recalibrating against prior megastudy evidence—the Vlasceanu et al. 2024 climate belief study found top interventions moving belief by 2-3 points, and trust interventions on 0-100 sliders targeting scientists directly could plausibly hit 3-5 points for the strongest arms.\n\nGiven baseline trust in climate scientists sits around 60-65 out of 100, there's room to move, so I'm settling on trust_multidimensional at +3.2. For belief_post, prior beliefs are likely already high (~70) with anchoring reducing movement, so I'm adjusting down to +1.8, while distrust items tend to be less responsive to this kind of competence-focused messaging.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The text is a concrete, evidence-based rebuttal to a specific competence-related criticism (that climate models can't predict the future), citing a real Science article and a review of 17 forecasts. Because the primary trust measure is administered immediately after reading and includes a competence subscale, this arm should perform relatively well among trust interventions, but single-reading text effects in megastudies are typically small: a few points on directly targeted 0-100 sliders, and progressively smaller as outcomes move away from the treated construct (trust > belief > concern > policy > behavior > incentivized behavior). I set trust_multidimensional at ~+3 points, trust_post slightly lower given pre-treatment anchoring, and distrust_post negative but attenuated (distrust items are stickier and partly identity-driven). Downstream outcomes (funding, policy role, institutional trust, belief, concern, policy support) get ~+0.7 to +1.8 points, reflecting partial spillover diluted by anchoring, ceilings among already-convinced respondents, and unmoved skeptics. Self-reported behavior gets a smaller bump, and the incentivized donation and newsletter signup are forecast as near-zero (a few cents and under one percentage point), consistent with the general finding that real-money/real-action outcomes barely move from a single reading.\", \"ates\": {\"trust_multidimensional\": 3.1, \"trust_post\": 2.5, \"distrust_post\": -1.8, \"funding_perceptions\": 1.2, \"policy_role_mean\": 1.0, \"inst_trust_mean\": 1.1, \"belief_post\": 1.8, \"concern_mean\": 1.1, \"policy_general\": 1.0, \"policy_specific_mean\": 0.7, \"behavior_mean\": 0.45, \"donation_ams\": 0.06, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 894,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1441,
+      "output_tokens_details": {
+        "thinking_tokens": 823
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text is a concrete, evidence-based rebuttal to a specific competence-related criticism (that climate models can't predict the future), citing a real Science article and a review of 17 forecasts. Because the primary trust measure is administered immediately after reading and includes a competence subscale, this arm should perform relatively well among trust interventions, but single-reading text effects in megastudies are typically small: a few points on directly targeted 0-100 sliders, and progressively smaller as outcomes move away from the treated construct (trust > belief > concern > policy > behavior > incentivized behavior). I set trust_multidimensional at ~+3 points, trust_post slightly lower given pre-treatment anchoring, and distrust_post negative but attenuated (distrust items are stickier and partly identity-driven). Downstream outcomes (funding, policy role, institutional trust, belief, concern, policy support) get ~+0.7 to +1.8 points, reflecting partial spillover diluted by anchoring, ceilings among already-convinced respondents, and unmoved skeptics. Self-reported behavior gets a smaller bump, and the incentivized donation and newsletter signup are forecast as near-zero (a few cents and under one percentage point), consistent with the general finding that real-money/real-action outcomes barely move from a single reading.",
+      "ates": {
+        "trust_multidimensional": 3.1,
+        "trust_post": 2.5,
+        "distrust_post": -1.8,
+        "funding_perceptions": 1.2,
+        "policy_role_mean": 1,
+        "inst_trust_mean": 1.1,
+        "belief_post": 1.8,
+        "concern_mean": 1.1,
+        "policy_general": 1,
+        "policy_specific_mean": 0.7,
+        "behavior_mean": 0.45,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

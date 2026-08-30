@@ -1,0 +1,64 @@
+{
+  "condition": "Portrait Prof. Cherry",
+  "run": 5,
+  "timestamp": "2026-08-30T18:20:03.942Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPrp2g8akpBhWVuCGUp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This reads like a \"portrait of a scientist\" intervention humanizing a climate scientist through relatable details like football and Wyoming. These personal-narrative approaches tend to produce modest positive trust effects, mostly around warmth and benevolence, so I'm estimating something like +2 to +4 points on a 0-100 trust scale, consistent with megastudy findings like Vlasceanu et al.\n\nI'm setting rough effect sizes: trust measures around +2, distrust slightly negative, funding perceptions and institutional trust under +1, with policy role perception getting a slightly larger bump since the text explicitly ties the scientist to policy work. Downstream belief, concern, and behavioral outcomes stay small, near zero for actual behavior, and I'm noting the portrait's indirect framing may dampen its overall potency.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This is a humanizing 'portrait of a scientist' intervention: it builds warmth/benevolence and perceived practical usefulness by depicting a relatable, community-oriented climate scientist (football, Rockies, Wyoming, working with local decision-makers). Such narrative exemplar messages reliably produce small-to-moderate gains on trust perception scales (especially benevolence/integrity dimensions measured immediately after reading), but they carry no corrective factual content about consensus, funding, or methods, so downstream belief, concern, and policy effects should be much weaker, mediated only loosely through trust. I calibrated the primary trust ATE at roughly +2 to +3 points on the 0–100 scale, consistent with typical trust-intervention megastudy magnitudes; the single-item trust measure is attenuated by pre-treatment anchoring, and distrust moves less than trust because it is a separate construct with floor/asymmetry issues. The text's explicit framing of the scientist's work being 'used by policymakers' and interdisciplinary teamwork should give a modest boost to policy_role_mean. Institutional trust is diluted by the federal-government item, and belief/concern/policy/behavior outcomes are strongly anchored, ideologically crystallized, or pre-measured, so I expect sub-point to ~1-point effects. Incentivized behaviors (donation, newsletter) should show only trivial effects, on the order of a few cents and a few tenths of a percentage point.\", \"ates\": {\"trust_multidimensional\": 2.6, \"trust_post\": 1.9, \"distrust_post\": -1.1, \"funding_perceptions\": 0.8, \"policy_role_mean\": 1.6, \"inst_trust_mean\": 0.9, \"belief_post\": 0.7, \"concern_mean\": 0.8, \"policy_general\": 0.9, \"policy_specific_mean\": 0.8, \"behavior_mean\": 0.6, \"donation_ams\": 0.05, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 689,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1479,
+      "output_tokens_details": {
+        "thinking_tokens": 804
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This is a humanizing 'portrait of a scientist' intervention: it builds warmth/benevolence and perceived practical usefulness by depicting a relatable, community-oriented climate scientist (football, Rockies, Wyoming, working with local decision-makers). Such narrative exemplar messages reliably produce small-to-moderate gains on trust perception scales (especially benevolence/integrity dimensions measured immediately after reading), but they carry no corrective factual content about consensus, funding, or methods, so downstream belief, concern, and policy effects should be much weaker, mediated only loosely through trust. I calibrated the primary trust ATE at roughly +2 to +3 points on the 0–100 scale, consistent with typical trust-intervention megastudy magnitudes; the single-item trust measure is attenuated by pre-treatment anchoring, and distrust moves less than trust because it is a separate construct with floor/asymmetry issues. The text's explicit framing of the scientist's work being 'used by policymakers' and interdisciplinary teamwork should give a modest boost to policy_role_mean. Institutional trust is diluted by the federal-government item, and belief/concern/policy/behavior outcomes are strongly anchored, ideologically crystallized, or pre-measured, so I expect sub-point to ~1-point effects. Incentivized behaviors (donation, newsletter) should show only trivial effects, on the order of a few cents and a few tenths of a percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.6,
+        "trust_post": 1.9,
+        "distrust_post": -1.1,
+        "funding_perceptions": 0.8,
+        "policy_role_mean": 1.6,
+        "inst_trust_mean": 0.9,
+        "belief_post": 0.7,
+        "concern_mean": 0.8,
+        "policy_general": 0.9,
+        "policy_specific_mean": 0.8,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

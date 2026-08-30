@@ -1,0 +1,64 @@
+{
+  "condition": "Measurement & modeling (2)",
+  "run": 4,
+  "timestamp": "2026-08-30T18:19:22.593Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPotJKG6N4PVxpoAYXp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention leans on methodological transparency—describing instruments and rigor to signal competence and objectivity, which tends to produce a modest trust boost, mostly on the competence dimension. Similar process-transparency studies typically show small gains, around 1-3 points on trust scales, strongest on the primary outcome, though some may read the jargon as overly technocratic.\n\nI'll set the numbers accordingly: trust_multidimensional around +2.2, trust_post around +1.8, distrust_post around -1.2, with smaller positive shifts across funding perceptions, institutional trust, belief, concern, and policy measures, and minimal effects on donation and newsletter behaviors given the dry, technical framing.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a 'process/competence' intervention: it details instruments, quantitative methods, and reproducibility, signaling that climate science is rigorous and data-driven rather than opinion-based. Such methodological-transparency texts reliably nudge the competence (and somewhat integrity/openness) dimensions of trust, but the text is dry, jargon-heavy, and says nothing about scientists' motives, benevolence, or policy — so I expect a small positive primary effect (~2 points on 0–100) rather than a large one. Downstream outcomes are attenuated by causal distance: single-item trust and belief are anchored on pre-treatment answers, distrust items respond weakly and asymmetrically, and policy/concern/behavior items are dominated by stable partisan priors, so I place these in the 0.3–1.2 point range. The text's emphasis on objectivity rather than engagement gives essentially no lift (possibly a wash) for scientists' policy involvement. Incentivized behaviors (real donation dollars, newsletter signup) almost never move detectably from a 2-minute read, so I forecast near-zero but slightly positive values.\", \"ates\": {\"trust_multidimensional\": 2.2, \"trust_post\": 1.7, \"distrust_post\": -1.1, \"funding_perceptions\": 1.0, \"policy_role_mean\": 0.6, \"inst_trust_mean\": 1.1, \"belief_post\": 1.0, \"concern_mean\": 0.7, \"policy_general\": 0.8, \"policy_specific_mean\": 0.6, \"behavior_mean\": 0.4, \"donation_ams\": 0.05, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 635,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1294,
+      "output_tokens_details": {
+        "thinking_tokens": 733
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a 'process/competence' intervention: it details instruments, quantitative methods, and reproducibility, signaling that climate science is rigorous and data-driven rather than opinion-based. Such methodological-transparency texts reliably nudge the competence (and somewhat integrity/openness) dimensions of trust, but the text is dry, jargon-heavy, and says nothing about scientists' motives, benevolence, or policy — so I expect a small positive primary effect (~2 points on 0–100) rather than a large one. Downstream outcomes are attenuated by causal distance: single-item trust and belief are anchored on pre-treatment answers, distrust items respond weakly and asymmetrically, and policy/concern/behavior items are dominated by stable partisan priors, so I place these in the 0.3–1.2 point range. The text's emphasis on objectivity rather than engagement gives essentially no lift (possibly a wash) for scientists' policy involvement. Incentivized behaviors (real donation dollars, newsletter signup) almost never move detectably from a 2-minute read, so I forecast near-zero but slightly positive values.",
+      "ates": {
+        "trust_multidimensional": 2.2,
+        "trust_post": 1.7,
+        "distrust_post": -1.1,
+        "funding_perceptions": 1,
+        "policy_role_mean": 0.6,
+        "inst_trust_mean": 1.1,
+        "belief_post": 1,
+        "concern_mean": 0.7,
+        "policy_general": 0.8,
+        "policy_specific_mean": 0.6,
+        "behavior_mean": 0.4,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

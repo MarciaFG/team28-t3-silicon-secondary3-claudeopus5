@@ -1,0 +1,64 @@
+{
+  "condition": "Peer-review",
+  "run": 4,
+  "timestamp": "2026-08-30T18:19:28.112Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPpHuPaVxZn8EXstNr6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This looks like a process-transparency intervention centered on peer review and accountability, which typically nudges trust dimensions like integrity and competence modestly. Drawing on similar megastudies, I'd expect effect sizes in the range of roughly 1-3 points on a 0-100 trust scale, with the peer-review framing being broadly credible though possibly less persuasive to skeptical conservatives.\n\nI'm working through conservative estimates across the various outcomes—trust measures around 2-2.5 points, distrust dropping slightly, and downstream effects like funding perceptions, policy attitudes, and behavioral outcomes scaling down further since these secondary measures usually show smaller shifts than direct trust ratings. There's also a chance of mild backfire from people who view peer review skeptically as gatekeeping, but the average effect should still be net positive.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The text is a process-transparency/quality-control message: it explains peer review as adversarial vetting by competitors, implying accountability, competence and integrity, and it appends a consensus cue ('experts across the world consistently reach the same conclusions'). This targets exactly the epistemic-quality dimensions of the multidimensional trust scale, so I expect its largest effect there (a couple of points on 0\\ncomma100), somewhat smaller on the single trust item because respondents anchor on their pre-treatment answer, and a smaller-magnitude reduction in distrust (distrust items are stickier and driven by motivated skepticism; some readers may even react against 'many studies are rejected' gatekeeping framing). Downstream outcomes (belief, concern, policy, behavior) are only indirectly touched \\ncomma the text gives no new evidence about impacts or solutions \\ncomma and belief/policy items are near ceiling for most respondents and pre-anchored, so I expect roughly half to a third of the trust effect. Incentivized behaviors (donation, newsletter) almost never move detectably from a single 1\\ncomma3 minute reading, so I forecast near-zero but slightly positive values. Magnitudes are calibrated to prior climate/science-communication megastudies where the best single-text arms produce ~2\\ncomma4 points on the targeted attitude and <1 point on distal outcomes.\", \"ates\": {\"trust_multidimensional\": 2.3, \"trust_post\": 1.9, \"distrust_post\": -1.3, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.3, \"inst_trust_mean\": 1.0, \"belief_post\": 1.3, \"concern_mean\": 0.9, \"policy_general\": 1.0, \"policy_specific_mean\": 0.7, \"behavior_mean\": 0.45, \"donation_ams\": 0.07, \"newsletter_signup\": 0.006}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 524,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1355,
+      "output_tokens_details": {
+        "thinking_tokens": 710
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text is a process-transparency/quality-control message: it explains peer review as adversarial vetting by competitors, implying accountability, competence and integrity, and it appends a consensus cue ('experts across the world consistently reach the same conclusions'). This targets exactly the epistemic-quality dimensions of the multidimensional trust scale, so I expect its largest effect there (a couple of points on 0\ncomma100), somewhat smaller on the single trust item because respondents anchor on their pre-treatment answer, and a smaller-magnitude reduction in distrust (distrust items are stickier and driven by motivated skepticism; some readers may even react against 'many studies are rejected' gatekeeping framing). Downstream outcomes (belief, concern, policy, behavior) are only indirectly touched \ncomma the text gives no new evidence about impacts or solutions \ncomma and belief/policy items are near ceiling for most respondents and pre-anchored, so I expect roughly half to a third of the trust effect. Incentivized behaviors (donation, newsletter) almost never move detectably from a single 1\ncomma3 minute reading, so I forecast near-zero but slightly positive values. Magnitudes are calibrated to prior climate/science-communication megastudies where the best single-text arms produce ~2\ncomma4 points on the targeted attitude and <1 point on distal outcomes.",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.9,
+        "distrust_post": -1.3,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1.3,
+        "inst_trust_mean": 1,
+        "belief_post": 1.3,
+        "concern_mean": 0.9,
+        "policy_general": 1,
+        "policy_specific_mean": 0.7,
+        "behavior_mean": 0.45,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.006
+      }
+    }
+  }
+}

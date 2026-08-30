@@ -1,0 +1,63 @@
+{
+  "condition": "Measurement & modeling (2)",
+  "run": 1,
+  "timestamp": "2026-08-30T17:38:16.761Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLgFGpAXdTqKduZi2LF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention leans heavily on measurement rigor and technical jargon, which should bump competence perceptions but may not move benevolence or integrity much—and could even feel opaque to some. I'd estimate a modest trust gain, maybe around +1.6 to +1.8 on trust_multidimensional, with the competence subscale rising more than the others.\n\nFor the remaining outcomes, I'm settling on smaller, non-round estimates: distrust down slightly, funding perceptions barely nudged, and small positive shifts for institutional trust, belief, concern, and policy support—with behavioral measures like donations and newsletter signups barely moving given the dry, technical framing.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a dry, didactic explanation of climate science's instruments, data and statistical methods, culminating in an explicit claim of rigor, reproducibility, and objectivity ('empirical data rather than subjective impressions'). Its mechanism is procedural/epistemic transparency, which should primarily lift the competence dimension of the multidimensional trust battery, with weaker spillover to integrity (objectivity) and almost none to benevolence/warmth; the heavy jargon (stereoplotters, support vector machines, wavelet analysis) likely limits fluency and hence dilutes the effect relative to narrative or messenger-based arms. I therefore put the primary trust ATE in the low-to-middle range of the expected +0.5 to +3.5 band (~1.5), with the pre-anchored single-item trust and distrust moving less (~1.0 and −0.8). Downstream constructs (belief, concern, policy, behavior) are only indirectly touched via credibility, so I shrink them to well under a point, with policy_role slightly muted because the objectivity framing cuts both ways for advocacy. Incentivized outcomes get near-zero values consistent with megastudy evidence: a few cents on the donation and about half a percentage point on newsletter sign-up.\", \"ates\": {\"trust_multidimensional\": 1.55, \"trust_post\": 1.0, \"distrust_post\": -0.85, \"funding_perceptions\": 0.45, \"policy_role_mean\": 0.35, \"inst_trust_mean\": 0.65, \"belief_post\": 0.6, \"concern_mean\": 0.3, \"policy_general\": 0.35, \"policy_specific_mean\": 0.25, \"behavior_mean\": 0.15, \"donation_ams\": 0.04, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 635,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1134,
+      "output_tokens_details": {
+        "thinking_tokens": 530
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a dry, didactic explanation of climate science's instruments, data and statistical methods, culminating in an explicit claim of rigor, reproducibility, and objectivity ('empirical data rather than subjective impressions'). Its mechanism is procedural/epistemic transparency, which should primarily lift the competence dimension of the multidimensional trust battery, with weaker spillover to integrity (objectivity) and almost none to benevolence/warmth; the heavy jargon (stereoplotters, support vector machines, wavelet analysis) likely limits fluency and hence dilutes the effect relative to narrative or messenger-based arms. I therefore put the primary trust ATE in the low-to-middle range of the expected +0.5 to +3.5 band (~1.5), with the pre-anchored single-item trust and distrust moving less (~1.0 and −0.8). Downstream constructs (belief, concern, policy, behavior) are only indirectly touched via credibility, so I shrink them to well under a point, with policy_role slightly muted because the objectivity framing cuts both ways for advocacy. Incentivized outcomes get near-zero values consistent with megastudy evidence: a few cents on the donation and about half a percentage point on newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 1.55,
+        "trust_post": 1,
+        "distrust_post": -0.85,
+        "funding_perceptions": 0.45,
+        "policy_role_mean": 0.35,
+        "inst_trust_mean": 0.65,
+        "belief_post": 0.6,
+        "concern_mean": 0.3,
+        "policy_general": 0.35,
+        "policy_specific_mean": 0.25,
+        "behavior_mean": 0.15,
+        "donation_ams": 0.04,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

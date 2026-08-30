@@ -1,31 +1,46 @@
 {
-  "team_id": "example",
-  "team_name": "Example Team (replace me)",
-  "contact": "name@institution.edu",
+  "team_id": "team_28",
+  "team_name": "team_28",
+  "contact": "marciaferreiragoncalves8@gmail.com",
   "creators": [
     {
-      "name": "Lastname, Firstname",
-      "affiliation": "Your institution",
-      "orcid": ""
+      "name": "Adeeba, Farah",
+      "affiliation": "University of Konstanz",
+      "orcid": "0009-0001-1740-8657"
+    },
+    {
+      "name": "Ma, Jing",
+      "affiliation": "University of Konstanz",
+      "orcid": "0009-0007-8951-9819"
+    },
+    {
+      "name": "Ferreira, Marcia",
+      "affiliation": "Graphwise",
+      "orcid": "0000-0001-5337-4637"
+    },
+    {
+      "name": "Pellert, Max",
+      "affiliation": "Barcelona Supercomputing Center",
+      "orcid": "0000-0002-6557-7607"
     }
   ],
   "abstract": "",
   "license": "CC-BY-4.0",
-  "tier": 1,
-  "entry": "primary",
-  "approach_family": "per-respondent simulation, single model",
+  "tier": 3,
+  "entry": "secondary-3",
+  "approach_family": "direct forecast, single model, literature-conditioned, ensemble of 5 runs (median)",
   "models": [
-    "gpt-4o-mini-2024-07-18"
+    "claude-opus-5"
   ],
-  "code_repository": "https://github.com/your-team/your-repo",
+  "code_repository": "https://github.com/MarciaFG/silicon-sample-submission",
   "code_doi": null,
   "disclosure_class": "A",
   "escrow_doi": null,
   "zenodo_doi": null,
   "prediction_files": [
     {
-      "file": "predictions/example_T1_primary_v1.csv",
-      "sha256": "0f24e117fcf6803743a12ab43f42bf8b0a7893fb9a706e5303cae3eadb79cc59"
+      "file": "predictions/team_28_T3_secondary-3_v1.csv",
+      "sha256": "ae461917e1643981f7f4782953a803550a72b621b946f687978d8a7426b482f8"
     }
   ],
   "coverage": {

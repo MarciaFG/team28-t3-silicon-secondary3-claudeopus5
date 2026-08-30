@@ -1,0 +1,63 @@
+{
+  "condition": "Measurement & modeling (1)",
+  "run": 2,
+  "timestamp": "2026-08-30T17:38:00.789Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLeyhAYEe3U3HZYW3mG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This text reads as descriptive and rigorous, showcasing scientific methodology with vivid details like ice cores and the swimming pool analogy — it should boost perceived competence more than integrity or benevolence, so I'd estimate a modest rise in multidimensional trust, maybe around 2 points, similar to other process-transparency interventions.\n\nWorking through the other measures, distrust should drop somewhat, funding perceptions and support for policy roles get small bumps from mentions of international assessments, NASA's OCO-2 might slightly boost institutional trust, and belief in human causation ticks up given the indirect evidence presented. Concern, general and specific policy support, and behavioral intentions all get smaller nudges, while donation and newsletter signup barely move given this is a science-literacy-focused piece rather than an emotional appeal — I'll set trust_multidimensional around 2.2 and fine-tune the rest with non-round values to reflect these modest, competence-driven shifts.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a purely informative, non-defensive 'how we know what we know' text: it details instrumentation (weather stations, satellites, OCO-2), paleoclimate proxies (ice cores, volcanic ash dating, isotopes, trapped CO2/CH4), and modeling, with a couple of vivid concretizers (drilling in Antarctica; 'a drop of ink in an Olympic pool'). Its dominant mechanism is perceived methodological rigor and expertise, so it should load most on the competence (and somewhat openness) subscales of the fresh multidimensional trust battery, with weaker effects on integrity/benevolence — hence a solid but not top-tier primary effect (~+2.2), and a smaller effect on the pre-anchored single trust item and its distrust mirror. Because it is descriptive rather than persuasive about causation, urgency, or policy, downstream belief, concern, and policy outcomes should be clearly attenuated (under ~1 point), with behavioral intentions smaller still. Institutional trust gets a small lift via the explicit NASA/satellite-network content, but is diluted by the federal-government item; funding perceptions get a modest bump because the text implicitly showcases expensive, valuable monitoring infrastructure. Incentivized outcomes are calibrated to the literature's near-floor magnitudes, with a slight positive tilt for the AMS donation given the text's measurement/observation framing.\", \"ates\": {\"trust_multidimensional\": 2.2, \"trust_post\": 1.45, \"distrust_post\": -1.15, \"funding_perceptions\": 1.3, \"policy_role_mean\": 1.25, \"inst_trust_mean\": 1.05, \"belief_post\": 0.95, \"concern_mean\": 0.75, \"policy_general\": 0.6, \"policy_specific_mean\": 0.55, \"behavior_mean\": 0.35, \"donation_ams\": 0.07, \"newsletter_signup\": 0.009}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 997,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1261,
+      "output_tokens_details": {
+        "thinking_tokens": 600
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a purely informative, non-defensive 'how we know what we know' text: it details instrumentation (weather stations, satellites, OCO-2), paleoclimate proxies (ice cores, volcanic ash dating, isotopes, trapped CO2/CH4), and modeling, with a couple of vivid concretizers (drilling in Antarctica; 'a drop of ink in an Olympic pool'). Its dominant mechanism is perceived methodological rigor and expertise, so it should load most on the competence (and somewhat openness) subscales of the fresh multidimensional trust battery, with weaker effects on integrity/benevolence — hence a solid but not top-tier primary effect (~+2.2), and a smaller effect on the pre-anchored single trust item and its distrust mirror. Because it is descriptive rather than persuasive about causation, urgency, or policy, downstream belief, concern, and policy outcomes should be clearly attenuated (under ~1 point), with behavioral intentions smaller still. Institutional trust gets a small lift via the explicit NASA/satellite-network content, but is diluted by the federal-government item; funding perceptions get a modest bump because the text implicitly showcases expensive, valuable monitoring infrastructure. Incentivized outcomes are calibrated to the literature's near-floor magnitudes, with a slight positive tilt for the AMS donation given the text's measurement/observation framing.",
+      "ates": {
+        "trust_multidimensional": 2.2,
+        "trust_post": 1.45,
+        "distrust_post": -1.15,
+        "funding_perceptions": 1.3,
+        "policy_role_mean": 1.25,
+        "inst_trust_mean": 1.05,
+        "belief_post": 0.95,
+        "concern_mean": 0.75,
+        "policy_general": 0.6,
+        "policy_specific_mean": 0.55,
+        "behavior_mean": 0.35,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.009
+      }
+    }
+  }
+}

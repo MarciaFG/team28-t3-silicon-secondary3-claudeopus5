@@ -1,0 +1,64 @@
+{
+  "condition": "Corporate reliance",
+  "run": 4,
+  "timestamp": "2026-08-30T18:17:54.633Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPhW9tZW9xkbp5XmYqR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This argument leans on a \"market validation\" logic—if profit-driven companies trust climate science, it must hold up—which is a credible-messenger, skin-in-the-game appeal likely to resonate with conservatives by targeting perceived competence and integrity rather than ideology. Given typical effect sizes in these megastudies and the added engagement from a reflection prompt, I'd estimate a moderate positive trust effect, around +2.5 points.\n\nI'm now sketching estimates across the full battery: single-item trust maybe +2.2, distrust around -1.5, with smaller spillover effects on funding perceptions, policy role, institutional trust, and general belief in the range of +1.0 each. Concern and general policy support might tick up slightly too (+1.0), while specific policy support could be a touch lower (+0.7) since the market framing might subtly suggest less need for government intervention. Behavioral and donation measures should show only marginal movement, so I'm settling on modest, non-round values across the board rather than uniform round numbers.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"The text uses a 'skin-in-the-game' market-validation argument: profit-driven insurers and corporations, who lose money if forecasts are wrong, bet on climate models — implying competence and freedom from ideological bias. This is a credible, novel cue that mainly targets the competence and integrity dimensions of trust, and the reflection prompt should boost encoding, so I expect a modest but real gain on the primary trust measure (a few points on 0–100), consistent with typical single-exposure message effects in large megastudies. Effects should attenuate as outcomes get further from trust: pre-anchored items (trust_post, belief_post) are partly frozen by respondents' earlier answers; inst_trust_mean is diluted by the federal-government item; policy, concern, and behavior outcomes are only indirectly implicated, and the corporate/market framing gives no direct push for government action (possibly even a slight substitution effect), so I keep those under ~1 point. Distrust shifts less than trust in absolute value because distrust items are stickier and partly identity-driven. Incentivized behaviors (donation, newsletter) are dominated by non-attitudinal factors and effort costs, so I forecast near-zero effects with a slight positive tilt.\",\"ates\":{\"trust_multidimensional\":2.4,\"trust_post\":2.1,\"distrust_post\":-1.4,\"funding_perceptions\":1.0,\"policy_role_mean\":1.6,\"inst_trust_mean\":1.1,\"belief_post\":1.2,\"concern_mean\":1.1,\"policy_general\":0.9,\"policy_specific_mean\":0.7,\"behavior_mean\":0.5,\"donation_ams\":0.06,\"newsletter_signup\":0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 685,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1146,
+      "output_tokens_details": {
+        "thinking_tokens": 567
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text uses a 'skin-in-the-game' market-validation argument: profit-driven insurers and corporations, who lose money if forecasts are wrong, bet on climate models — implying competence and freedom from ideological bias. This is a credible, novel cue that mainly targets the competence and integrity dimensions of trust, and the reflection prompt should boost encoding, so I expect a modest but real gain on the primary trust measure (a few points on 0–100), consistent with typical single-exposure message effects in large megastudies. Effects should attenuate as outcomes get further from trust: pre-anchored items (trust_post, belief_post) are partly frozen by respondents' earlier answers; inst_trust_mean is diluted by the federal-government item; policy, concern, and behavior outcomes are only indirectly implicated, and the corporate/market framing gives no direct push for government action (possibly even a slight substitution effect), so I keep those under ~1 point. Distrust shifts less than trust in absolute value because distrust items are stickier and partly identity-driven. Incentivized behaviors (donation, newsletter) are dominated by non-attitudinal factors and effort costs, so I forecast near-zero effects with a slight positive tilt.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 2.1,
+        "distrust_post": -1.4,
+        "funding_perceptions": 1,
+        "policy_role_mean": 1.6,
+        "inst_trust_mean": 1.1,
+        "belief_post": 1.2,
+        "concern_mean": 1.1,
+        "policy_general": 0.9,
+        "policy_specific_mean": 0.7,
+        "behavior_mean": 0.5,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

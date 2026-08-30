@@ -1,0 +1,63 @@
+{
+  "condition": "High public trust",
+  "run": 3,
+  "timestamp": "2026-08-30T17:38:13.827Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLfrVbzJXDm4JHtu53S",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is a social-norm intervention showing people how much others trust climate scientists, correcting for the typical underestimation with an interactive slider. Since people usually underestimate others' trust, the corrective feedback is counter-attitudinal and should produce a modest positive shift in the target's own trust in climate scientists—likely a small-to-moderate effect on that trust measure.\n\nI'm settling on estimates: trust_multidimensional around +1.8-1.9, trust_post around +1.5, distrust_post around -1.3, funding_perceptions near +0.7, policy_role_mean around +1.0, inst_trust_mean around +0.8, belief_post around +0.7, concern_mean around +0.6, policy_general around +0.7, policy_specific_mean around +0.5, behavior_mean around +0.4, donation_ams a tiny +0.04, and newsletter_signup near +0.008. I'm also weighing whether the norm framing could backfire for some people who notice the sizable minority expressing distrust.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is an interactive descriptive-norm correction: respondents first guess what share of Americans trust climate scientists (people systematically underestimate this, especially given perceived polarization), then receive Pew data showing 76% express at least some trust. The mechanism is social proof plus surprise-driven correction, which reliably moves the proximal target (own trust/perceived legitimacy of climate scientists) but only indirectly touches beliefs, concern, and policy. Because the evidence is about other people's attitudes rather than direct information about scientists' competence or integrity, I place it slightly above the median arm but below source-credibility or deception-exposure arms: ~+2 points on the fresh multidimensional trust battery, with the re-asked single trust item shrunk by anchoring and distrust falling somewhat less in absolute magnitude. Downstream outcomes are attenuated in the expected order (scientist-role/institutional trust > belief/concern/policy > behavioral intentions), and the incentivized outcomes get near-zero effects (a few cents on donations, well under 1pp on sign-ups). One counter-consideration muting the estimate: the text also explicitly states that 23% have little or no trust, which can partially normalize distrust for skeptical readers.\", \"ates\": {\"trust_multidimensional\": 1.95, \"trust_post\": 1.55, \"distrust_post\": -1.2, \"funding_perceptions\": 0.65, \"policy_role_mean\": 1.05, \"inst_trust_mean\": 0.85, \"belief_post\": 0.75, \"concern_mean\": 0.55, \"policy_general\": 0.6, \"policy_specific_mean\": 0.45, \"behavior_mean\": 0.35, \"donation_ams\": 0.04, \"newsletter_signup\": 0.007}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 421,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1351,
+      "output_tokens_details": {
+        "thinking_tokens": 755
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is an interactive descriptive-norm correction: respondents first guess what share of Americans trust climate scientists (people systematically underestimate this, especially given perceived polarization), then receive Pew data showing 76% express at least some trust. The mechanism is social proof plus surprise-driven correction, which reliably moves the proximal target (own trust/perceived legitimacy of climate scientists) but only indirectly touches beliefs, concern, and policy. Because the evidence is about other people's attitudes rather than direct information about scientists' competence or integrity, I place it slightly above the median arm but below source-credibility or deception-exposure arms: ~+2 points on the fresh multidimensional trust battery, with the re-asked single trust item shrunk by anchoring and distrust falling somewhat less in absolute magnitude. Downstream outcomes are attenuated in the expected order (scientist-role/institutional trust > belief/concern/policy > behavioral intentions), and the incentivized outcomes get near-zero effects (a few cents on donations, well under 1pp on sign-ups). One counter-consideration muting the estimate: the text also explicitly states that 23% have little or no trust, which can partially normalize distrust for skeptical readers.",
+      "ates": {
+        "trust_multidimensional": 1.95,
+        "trust_post": 1.55,
+        "distrust_post": -1.2,
+        "funding_perceptions": 0.65,
+        "policy_role_mean": 1.05,
+        "inst_trust_mean": 0.85,
+        "belief_post": 0.75,
+        "concern_mean": 0.55,
+        "policy_general": 0.6,
+        "policy_specific_mean": 0.45,
+        "behavior_mean": 0.35,
+        "donation_ams": 0.04,
+        "newsletter_signup": 0.007
+      }
+    }
+  }
+}

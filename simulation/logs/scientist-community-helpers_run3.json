@@ -1,0 +1,63 @@
+{
+  "condition": "Scientist community helpers",
+  "run": 3,
+  "timestamp": "2026-08-30T17:38:42.571Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLiCALfbcmV9LhYCQPB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention leans into a benevolence/warmth narrative, portraying climate scientists as community members, which should target the benevolence and integrity dimensions of trust particularly well. Given its narrative, concrete, non-accusatory, shared-values framing, I'd expect it to score above average on trust_multidimensional, somewhere around 2.5-3.0.\n\nWorking through the other outcomes: trust_post around 1.6, distrust_post around -1.1, funding_perceptions modestly positive at 0.9, and policy_role_mean higher at 1.8 since the text directly depicts scientists collaborating with emergency managers and policymakers. Institutional trust gets diluted to around 0.8, belief and concern measures stay modest since extreme weather is only mentioned briefly, and behavioral/donation/newsletter outcomes trail off toward negligible effect sizes.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a warmth/benevolence narrative: it recasts climate scientists as neighbors, parents, and first-responder collaborators, with vivid, concrete cases (Harvey flood maps, 2020 wildfire spread models). It targets exactly the benevolence and integrity dimensions of the multidimensional trust battery, is non-accusatory and value-consonant (family, home, safety), so reactance risk among skeptics is low, and narrative framing carries the documented small advantage (~d 0.1–0.2) over dry expository text on trust-adjacent outcomes. I therefore place it slightly above the expected arm average on the primary outcome (~+2.7 points, d≈0.12), with a smaller effect on the pre-anchored single trust item and a modest reduction in distrust. Because it repeatedly depicts scientists collaborating with emergency managers and local officials, policy_role_mean is unusually proximal here (+1.8). Belief, concern, and policy outcomes are distal — the text makes no consensus or evidentiary claim about human causation — so those stay under ~1 point, and incentivized behaviors (AMS donation, newsletter) move only trivially, with a slight boost for the AMS donation given the text's positive framing of meteorologists serving communities.\", \"ates\": {\"trust_multidimensional\": 2.7, \"trust_post\": 1.65, \"distrust_post\": -1.15, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.8, \"inst_trust_mean\": 0.85, \"belief_post\": 0.55, \"concern_mean\": 0.85, \"policy_general\": 0.65, \"policy_specific_mean\": 0.55, \"behavior_mean\": 0.45, \"donation_ams\": 0.09, \"newsletter_signup\": 0.009}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 869,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1098,
+      "output_tokens_details": {
+        "thinking_tokens": 491
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a warmth/benevolence narrative: it recasts climate scientists as neighbors, parents, and first-responder collaborators, with vivid, concrete cases (Harvey flood maps, 2020 wildfire spread models). It targets exactly the benevolence and integrity dimensions of the multidimensional trust battery, is non-accusatory and value-consonant (family, home, safety), so reactance risk among skeptics is low, and narrative framing carries the documented small advantage (~d 0.1–0.2) over dry expository text on trust-adjacent outcomes. I therefore place it slightly above the expected arm average on the primary outcome (~+2.7 points, d≈0.12), with a smaller effect on the pre-anchored single trust item and a modest reduction in distrust. Because it repeatedly depicts scientists collaborating with emergency managers and local officials, policy_role_mean is unusually proximal here (+1.8). Belief, concern, and policy outcomes are distal — the text makes no consensus or evidentiary claim about human causation — so those stay under ~1 point, and incentivized behaviors (AMS donation, newsletter) move only trivially, with a slight boost for the AMS donation given the text's positive framing of meteorologists serving communities.",
+      "ates": {
+        "trust_multidimensional": 2.7,
+        "trust_post": 1.65,
+        "distrust_post": -1.15,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1.8,
+        "inst_trust_mean": 0.85,
+        "belief_post": 0.55,
+        "concern_mean": 0.85,
+        "policy_general": 0.65,
+        "policy_specific_mean": 0.55,
+        "behavior_mean": 0.45,
+        "donation_ams": 0.09,
+        "newsletter_signup": 0.009
+      }
+    }
+  }
+}

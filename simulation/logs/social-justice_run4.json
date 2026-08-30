@@ -1,0 +1,63 @@
+{
+  "condition": "Social justice",
+  "run": 4,
+  "timestamp": "2026-08-30T17:37:24.549Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLbsXVqmAvn74bnXzVF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This framing casts scientists as allies of the 90% against the wealthy elite, using class-warfare language that's politically left-coded and risks provoking reactance among conservatives, since politicizing science tends to reduce perceived objectivity. The accusatory note about corporations casting doubt on science could also come across as suspicious rather than reassuring.\n\nI'm estimating a modest positive effect on trust — maybe +0.8 to +1.5 on the multidimensional measure, with a boost to perceived benevolence (\"scientists stand with us\") but little movement on competence or openness, and possibly some erosion of perceived integrity given the politicized framing. I'd land on roughly +1.1 for trust_multidimensional, +0.9 for trust_post, and -0.6 for distrust_post. For funding perceptions, the accountability angle could nudge support for research funding up slightly, so I'll estimate around +1.0, while policy_role_mean should reflect the text's explicit framing of scientists as active participants providing evidence to hold emitters accountable.\n\nThis last point is arguably the most proximal outcome after trust, so I'm pushing it to around +1.8, while institutional trust gets diluted to about +0.5, belief_post stays modest at +0.4, and concern_mean rises to +0.8 given the focus on consequences borne by the majority. Policy attitudes generally should tick up (+1.0) since the accountability framing implies government action, and policy_specific_mean gets a moderate +0.8 despite tension between support for fossil fuel taxes and skepticism toward regressive measures like food carbon taxes. For behavior_mean, I'm weighing whether the \"burden shouldn't fall on individuals\" framing dampens personal action through diffusion of responsibility, landing on a slight net negative around -0.2, and I'm now turning to how this framing might affect donation intentions toward AMS.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"The text uses a populist solidarity frame: scientists are allies of the 'other 90%' against a wealthy, high-emitting elite, plus a light inoculation element (polluters cast doubt on science). Mechanistically it targets the benevolence/integrity dimensions of trust ('scientists stand with us') and, very directly, the legitimacy of scientists engaging in policy/advocacy, so policy_role_mean should be its most proximal gain after trust. However, the explicit class-conflict framing politicizes science and is left-coded, which invites reactance among right-leaning respondents and can undercut perceived objectivity, so I place the trust ATE modestly below the likely arm average (~+1.1 rather than +2). Belief and institutional trust are barely targeted and further attenuated by pre-measurement anchoring and the federal-government item, so I keep those under 0.5. Concern and policy support get small spillovers via the accountability/injustice frame, while behavior_mean is forecast slightly negative because the text explicitly says the burden should not fall on ordinary struggling people, plausibly diffusing personal responsibility. Incentivized outcomes are near zero: a couple of cents on the AMS donation (solidarity with scientists) and under one percentage point on newsletter sign-up.\",\"ates\":{\"trust_multidimensional\":1.15,\"trust_post\":0.85,\"distrust_post\":-0.55,\"funding_perceptions\":1.1,\"policy_role_mean\":1.85,\"inst_trust_mean\":0.48,\"belief_post\":0.42,\"concern_mean\":0.87,\"policy_general\":1.05,\"policy_specific_mean\":0.78,\"behavior_mean\":-0.14,\"donation_ams\":0.028,\"newsletter_signup\":0.007}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 611,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1773,
+      "output_tokens_details": {
+        "thinking_tokens": 1176
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text uses a populist solidarity frame: scientists are allies of the 'other 90%' against a wealthy, high-emitting elite, plus a light inoculation element (polluters cast doubt on science). Mechanistically it targets the benevolence/integrity dimensions of trust ('scientists stand with us') and, very directly, the legitimacy of scientists engaging in policy/advocacy, so policy_role_mean should be its most proximal gain after trust. However, the explicit class-conflict framing politicizes science and is left-coded, which invites reactance among right-leaning respondents and can undercut perceived objectivity, so I place the trust ATE modestly below the likely arm average (~+1.1 rather than +2). Belief and institutional trust are barely targeted and further attenuated by pre-measurement anchoring and the federal-government item, so I keep those under 0.5. Concern and policy support get small spillovers via the accountability/injustice frame, while behavior_mean is forecast slightly negative because the text explicitly says the burden should not fall on ordinary struggling people, plausibly diffusing personal responsibility. Incentivized outcomes are near zero: a couple of cents on the AMS donation (solidarity with scientists) and under one percentage point on newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 1.15,
+        "trust_post": 0.85,
+        "distrust_post": -0.55,
+        "funding_perceptions": 1.1,
+        "policy_role_mean": 1.85,
+        "inst_trust_mean": 0.48,
+        "belief_post": 0.42,
+        "concern_mean": 0.87,
+        "policy_general": 1.05,
+        "policy_specific_mean": 0.78,
+        "behavior_mean": -0.14,
+        "donation_ams": 0.028,
+        "newsletter_signup": 0.007
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "condition": "Peer-review",
+  "run": 3,
+  "timestamp": "2026-08-30T18:19:24.263Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPpHt9PsKAJgxH9k9VX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This peer-review framing is a transparency/accountability intervention, so I'm estimating modest positive effects: trust gains around 2-4 points, with smaller shifts on things like funding perceptions and policy-role attitudes since peer review doesn't directly address those dimensions.\n\nBehavioral and donation effects are likely near-zero given how indirect they are from this manipulation. I should also note that peer review could backfire slightly for the most skeptical respondents who might interpret it as gatekeeping or groupthink, but on average the effect stays net positive, so I'll finalize with slightly irregular values rather than round numbers.\n\n",
+        "signature": "CAISoAoKjgEIERgCKkCZqz09xql2MQ2jbfMxTtgn4edEBBmHW/F1lHAtqYbIogSKAQNG3zCM4jHEhXBcvfEOimEBc4c2ppV86BdkEHf2Mg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAafo0dQGEgz/6vAX4iUF2VDrQC4aDHgeXrpo/9GQeTDbdyIwwuR56lJomh004ilqZ88urAOVep2oU8o3b9ForZrNHXs8CzWnJwE3cqmyzC105N6XKr4IKXu7SRoAPXEFn+KQcdeubL5YtDvB7C9jbrTvcYP6DR7SSrfIrvbM7YzokEPj4DFBsGUAic+vxYL2OlA/T66NbX4IkvCSQjo0ELEYxYnPN1QRM02hLbdfRQekKEr8oSRjl6FKj5rgHWuObL7sfMKBtCrq9Y6vXIJ95RR7E1hrYj9qwL5+uZ2iHYRyWXguNHBgeB9QvLYGti5pS4+6QXJdkdD1zWkq7o9Mb3BDBo7O70mhkdYUFsjlbpjeaxbznl/EMsL2cohHrQPjLL4s30rf8EzAaK0qBRDl90yfj5FgqdiwZm0iwumRLhvu4yKhF0MB4TxWKCVT/eP0w5lpgeB6t+/5H7OxceTvGfL439d/0we7mLb3ooox7eksfQ0XXN5HPUQ30pRVqRvYSGHLBbjwuFG1L8ZzSmqJcF9cbcHQq05jVq7WLEVDLo8AWyjpizpRrNPfTxW8klFAmo/MfWcaSdfBGBw+7UwcI3S6yJFRFzNkFTeS724e3QZd5WW6EerwHqDh6z58mvY7m9AhAR583oMsaI/2oFZmT+bJUFQ3gk+AxpIXMJtOPWPRNiD2Jwyy6U+wmHIXZIJnnzM5nqew3I11e7wrLqlI8bXE+tBuwHL3ALfC8Zwscdzdg1VTYCZ5+8+jQjiHfnnLekuDXjsK9xzxklmW8jyyTE4gSwpOL0+cSZggXvVyY/ilGNCwFjxaPwC6Zrt5gVF4/uV1sb70zGcKf//nwhCWxrAzbnfw43yrwDiryEjHbVgEdY89iYxVXX884+YrL+EvVk4hSzWpZ9VX5GqhcYEo48x9GSL3ysfEn3GRLvYET/fUp4dZ7BTKSouojvG7CrKZzSWjXu+cb/KkXYOakRBCjPQhH5CJsk0xOfDCgopk4++79bfGFDLsnX5OcbJ+KCKTWrtPz59my4W7WEihPGpFHGq02WutioXslpg8uVj7rYCbHRmgffJD84UxoDeOYNOkX4TJZ9G6/Gf4R1YvfJM6P9tafTGUxzjnfgK99mqVbww3j1RjyHa2LotlDYrEdOFPjFAY9xW59Ahr6aCj7vRv4FHh1YdXBNn2qUrhwYyvACpUtvKqIsGu5ulufDZMa2tWtx14v4wU4bNaR9Dvu4AQ67MjfshxIlFd2Ykh1g36MXMNeWdrDYZGBqZ1OmSfg1rl3I2KXgVX9Fe8TRpTXT0Sr48i251xGPcPpBp4OkAwHT4Rc2O1zBA6XtDHYCi2oMN8bcORQUQrBaQuVFboaRjyLilH4ru7HNWy3XfRVZ0814nL0Tywo/6QnMHJgD7sTf77n3QqGLEmtUtdJ7JNVWYLhvr1vlyv1N6rhw7Wk1bLbVzikt/0m3RRjxCheQI+T0J9EAPPQzph6K5DBTF0iLWjiF0FtQCPBHHYdP8HldUwt1ZwUuIAbTHCZg+y1nNB8LDUD1W9OejKDGzQ9xoBRjcsdpu6Ai4wGAE="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"The text is a process-legitimacy/accountability message: it explains peer review as adversarial vetting by competitors, which most directly targets the competence, integrity and openness dimensions of trust rather than beliefs or policy attitudes. Such single-exposure informational texts in megastudies typically move an immediately-measured, semantically-close primary trust scale by roughly 1–4 points on a 0–100 scale, so I center the primary outcome near +2.5, with the single-item trust measure somewhat smaller because respondents anchor on their pre-treatment answer, and distrust moving less than trust (asymmetric, floor-ish and less responsive). Downstream outcomes (belief, concern, policy, behavior) are attenuated by ceiling effects among believers, ideological entrenchment among skeptics, and the fact that the text says nothing about policy or personal action; I therefore place them in the 0.3–1.5 range, with the consensus-flavored sentence giving belief a slightly bigger nudge than concern. A modest risk of backfire among skeptics (gatekeeping/groupthink framing) pulls the medians toward zero rather than making them negative. Incentivized real-behavior outcomes (donation, newsletter) are near-zero by construction, so I forecast a few cents and well under one percentage point.\",\"ates\":{\"trust_multidimensional\":2.4,\"trust_post\":1.9,\"distrust_post\":-1.4,\"funding_perceptions\":0.8,\"policy_role_mean\":1.1,\"inst_trust_mean\":1.0,\"belief_post\":1.4,\"concern_mean\":0.9,\"policy_general\":0.9,\"policy_specific_mean\":0.7,\"behavior_mean\":0.5,\"donation_ams\":0.05,\"newsletter_signup\":0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 524,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1058,
+      "output_tokens_details": {
+        "thinking_tokens": 456
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text is a process-legitimacy/accountability message: it explains peer review as adversarial vetting by competitors, which most directly targets the competence, integrity and openness dimensions of trust rather than beliefs or policy attitudes. Such single-exposure informational texts in megastudies typically move an immediately-measured, semantically-close primary trust scale by roughly 1–4 points on a 0–100 scale, so I center the primary outcome near +2.5, with the single-item trust measure somewhat smaller because respondents anchor on their pre-treatment answer, and distrust moving less than trust (asymmetric, floor-ish and less responsive). Downstream outcomes (belief, concern, policy, behavior) are attenuated by ceiling effects among believers, ideological entrenchment among skeptics, and the fact that the text says nothing about policy or personal action; I therefore place them in the 0.3–1.5 range, with the consensus-flavored sentence giving belief a slightly bigger nudge than concern. A modest risk of backfire among skeptics (gatekeeping/groupthink framing) pulls the medians toward zero rather than making them negative. Incentivized real-behavior outcomes (donation, newsletter) are near-zero by construction, so I forecast a few cents and well under one percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.9,
+        "distrust_post": -1.4,
+        "funding_perceptions": 0.8,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 1,
+        "belief_post": 1.4,
+        "concern_mean": 0.9,
+        "policy_general": 0.9,
+        "policy_specific_mean": 0.7,
+        "behavior_mean": 0.5,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "condition": "High public trust",
+  "run": 5,
+  "timestamp": "2026-08-30T18:19:10.785Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPnofEnY21vZFXx75MG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is a social norms intervention showing people that 76% of Americans trust climate scientists, and since people typically underestimate this trust, the corrective feedback likely produces a small norm effect—based on similar megastudies, I'd expect the primary trust outcome to shift by roughly 2-3 points on the scale.\n\nI'm estimating smaller effects across secondary outcomes: distrust dropping about 1.2 points, funding perceptions up 0.8, policy role and institutional trust measures shifting 1-1.2 points, and belief/concern items moving less than a point due to anchoring on prior responses. Behavioral outcomes like donations and newsletter signups should barely move, maybe 0.05 and 0.005 respectively.\n\nThere's a chance this backfires with skeptical or conservative respondents who might view the \"high trust\" framing as incredible, but the elicit-then-reveal format tends to amplify effects since most people will guess around 50% and be surprised by the actual 76% figure, producing a mild positive update rather than reactance.\n\nSettling on moderate estimates given typical megastudy findings: trust-based norm interventions tend to fall in the middle of the effectiveness range, so I'll set the primary trust_multidimensional effect around 2.2, with the understanding that this kind of conformity/social-proof mechanism concentrates most of the impact on the direct trust measures rather than downstream behaviors.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This is a descriptive-norm correction: respondents first guess the share of Americans who trust climate scientists (most people substantially underestimate this, typically guessing 40-55%), then learn the true figure is 76%. Social-proof/pluralistic-ignorance corrections reliably produce small-to-modest positive shifts on the directly targeted attitude (trust), because conformity and 'if most people trust them, they must be credible' inferences operate immediately in the same sitting. Because the message is about trust specifically rather than about climate science content, effects should be concentrated on the trust outcomes and decay sharply across belief, concern, policy, and especially incentivized behavior, where single-reading effects in megastudies are near zero. I set the primary trust outcome at ~+2 points (well within the typical 0-5 point range for effective trust manipulations), the single trust item slightly lower due to pre-treatment anchoring, distrust modestly negative but smaller in magnitude (distrust items are stickier and partly identity-based), and downstream policy/behavior items at under 1 point. Donation and newsletter signup get near-zero forecasts (a few cents; well under 1 percentage point), consistent with the general finding that real behavioral measures barely move. I allowed for the possibility of mild reactance among skeptics who find the statistic implausible, which pulls my medians toward the lower end of the plausible positive range rather than into negative territory.\", \"ates\": {\"trust_multidimensional\": 2.1, \"trust_post\": 1.9, \"distrust_post\": -1.2, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.3, \"inst_trust_mean\": 1.1, \"belief_post\": 0.7, \"concern_mean\": 0.8, \"policy_general\": 1.0, \"policy_specific_mean\": 0.7, \"behavior_mean\": 0.5, \"donation_ams\": 0.06, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 421,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1383,
+      "output_tokens_details": {
+        "thinking_tokens": 732
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This is a descriptive-norm correction: respondents first guess the share of Americans who trust climate scientists (most people substantially underestimate this, typically guessing 40-55%), then learn the true figure is 76%. Social-proof/pluralistic-ignorance corrections reliably produce small-to-modest positive shifts on the directly targeted attitude (trust), because conformity and 'if most people trust them, they must be credible' inferences operate immediately in the same sitting. Because the message is about trust specifically rather than about climate science content, effects should be concentrated on the trust outcomes and decay sharply across belief, concern, policy, and especially incentivized behavior, where single-reading effects in megastudies are near zero. I set the primary trust outcome at ~+2 points (well within the typical 0-5 point range for effective trust manipulations), the single trust item slightly lower due to pre-treatment anchoring, distrust modestly negative but smaller in magnitude (distrust items are stickier and partly identity-based), and downstream policy/behavior items at under 1 point. Donation and newsletter signup get near-zero forecasts (a few cents; well under 1 percentage point), consistent with the general finding that real behavioral measures barely move. I allowed for the possibility of mild reactance among skeptics who find the statistic implausible, which pulls my medians toward the lower end of the plausible positive range rather than into negative territory.",
+      "ates": {
+        "trust_multidimensional": 2.1,
+        "trust_post": 1.9,
+        "distrust_post": -1.2,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1.3,
+        "inst_trust_mean": 1.1,
+        "belief_post": 0.7,
+        "concern_mean": 0.8,
+        "policy_general": 1,
+        "policy_specific_mean": 0.7,
+        "behavior_mean": 0.5,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

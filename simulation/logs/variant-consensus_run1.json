@@ -1,0 +1,64 @@
+{
+  "condition": "Consensus",
+  "run": 1,
+  "timestamp": "2026-08-30T18:19:36.270Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPpgmJjpSpT6ztxXA6m",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This looks like the classic consensus messaging intervention design with interactive slider estimates and corrective feedback. From what I know of the literature, consensus messaging tends to produce modest effects on belief and perceived consensus, smaller effects on policy support, and modest effects on trust—typically ATEs in the 1-4 point range on a 0-100 scale, with the interactive format and acknowledgment of uncertainty potentially boosting credibility and effect size somewhat.\n\nI'm working through likely effect sizes across the various outcomes: trust measures around +2-2.5, distrust around -1.8, funding and policy perceptions around +1.2-1.8, belief around +2.5 given it's the most directly targeted outcome, and smaller behavioral effects like donations and newsletter signups near zero. I'm also weighing whether the interactive feedback could backfire for people whose priors were already accurate or who might react defensively, though on average the effect should still be positive.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"The Consensus arm is a classic scientific-agreement correction, made stronger than passive reading by its interactive guess-then-feedback structure and its transparent acknowledgment that some questions (net-zero timing) remain uncertain, which tends to enhance perceived honesty and openness rather than trigger reactance. Mechanistically it should most directly raise perceived competence/agreement and belief that humans cause climate change, with smaller downstream spillover to concern, policy and least of all to costly/real behaviors. Meta-analytic evidence on consensus messaging shows reliable but modest effects on perceived consensus (d≈0.2-0.5) that attenuate sharply for belief (d≈0.1) and further for policy support and behavior; on 0-100 scales with SDs near 25-30 that implies a few points at most. Pre-treatment measurement of trust_post and belief_post creates anchoring that damps those single-item effects, while inst_trust_mean is diluted by the federal-government item. Distrust is expected to fall by somewhat less in absolute magnitude than trust rises, since distrust items are floor-compressed and stickier. Incentivized outcomes (donation, newsletter) should move only trivially, on the order of a few cents and about one percentage point.\",\"ates\":{\"trust_multidimensional\":2.5,\"trust_post\":2.2,\"distrust_post\":-1.7,\"funding_perceptions\":1.5,\"policy_role_mean\":1.6,\"inst_trust_mean\":1.3,\"belief_post\":2.3,\"concern_mean\":1.7,\"policy_general\":1.8,\"policy_specific_mean\":1.2,\"behavior_mean\":0.8,\"donation_ams\":0.08,\"newsletter_signup\":0.011}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1433,
+      "output_tokens_details": {
+        "thinking_tokens": 844
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The Consensus arm is a classic scientific-agreement correction, made stronger than passive reading by its interactive guess-then-feedback structure and its transparent acknowledgment that some questions (net-zero timing) remain uncertain, which tends to enhance perceived honesty and openness rather than trigger reactance. Mechanistically it should most directly raise perceived competence/agreement and belief that humans cause climate change, with smaller downstream spillover to concern, policy and least of all to costly/real behaviors. Meta-analytic evidence on consensus messaging shows reliable but modest effects on perceived consensus (d≈0.2-0.5) that attenuate sharply for belief (d≈0.1) and further for policy support and behavior; on 0-100 scales with SDs near 25-30 that implies a few points at most. Pre-treatment measurement of trust_post and belief_post creates anchoring that damps those single-item effects, while inst_trust_mean is diluted by the federal-government item. Distrust is expected to fall by somewhat less in absolute magnitude than trust rises, since distrust items are floor-compressed and stickier. Incentivized outcomes (donation, newsletter) should move only trivially, on the order of a few cents and about one percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.5,
+        "trust_post": 2.2,
+        "distrust_post": -1.7,
+        "funding_perceptions": 1.5,
+        "policy_role_mean": 1.6,
+        "inst_trust_mean": 1.3,
+        "belief_post": 2.3,
+        "concern_mean": 1.7,
+        "policy_general": 1.8,
+        "policy_specific_mean": 1.2,
+        "behavior_mean": 0.8,
+        "donation_ams": 0.08,
+        "newsletter_signup": 0.011
+      }
+    }
+  }
+}

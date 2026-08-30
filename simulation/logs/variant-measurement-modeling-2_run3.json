@@ -1,0 +1,64 @@
+{
+  "condition": "Measurement & modeling (2)",
+  "run": 3,
+  "timestamp": "2026-08-30T18:19:20.948Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPotNXhEYn4uDKLfMmc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention leans on competence framing through methodology and rigor, so I'd expect modest positive shifts—trust up a couple points, distrust down slightly, funding perception and institutional trust nudging up around +1, with policy role and belief effects staying fairly small given the emphasis on objectivity over advocacy.\n\nI'm also noting this appears to be a jargon-heavy variant (\"stereoplotters,\" \"disdrometers,\" \"support vector machines\"), which could signal expertise but might also alienate readers unfamiliar with the terms—research on similar interventions suggests single-exposure trust effects typically land in the 1-3 point range on these scales, with sharing/transparency-style texts performing best. I'll set trust_multidimensional around +2.5, trust_post at +1.8, distrust at -1.2, and funding perception at +0.8, moving on to policy role next.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This text is a competence/rigor framing: it describes climate scientists' instruments, data collection, and quantitative modeling, explicitly claiming reproducibility and objectivity. Mechanistically it should mainly boost the competence (and somewhat openness/integrity) facets of trust, with weaker downstream flow to belief, concern, and policy attitudes, since it makes no argument about risk or the need for action. Heavy jargon (disdrometers, support vector machines, wavelet analysis) can signal expertise but also reduce comprehension and warmth, so I shade the effect toward the small end; the multidimensional trust measure is the most directly targeted and comes first, so it gets the largest ATE (~2 points). Single-shot reading interventions in trust-in-science experiments typically yield 1-3 points on 0-100 scales for the targeted construct, with anchored repeated items (trust_post, belief_post) attenuated further and distrust moving less than trust. Distal outcomes (concern, policy support, behavior) get sub-point effects, and incentivized real behaviors (donation, newsletter) should be near zero with only a slight positive tilt.\", \"ates\": {\"trust_multidimensional\": 2.2, \"trust_post\": 1.7, \"distrust_post\": -1.1, \"funding_perceptions\": 0.7, \"policy_role_mean\": 0.8, \"inst_trust_mean\": 1.0, \"belief_post\": 1.1, \"concern_mean\": 0.6, \"policy_general\": 0.6, \"policy_specific_mean\": 0.5, \"behavior_mean\": 0.3, \"donation_ams\": 0.05, \"newsletter_signup\": 0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 635,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1284,
+      "output_tokens_details": {
+        "thinking_tokens": 720
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This text is a competence/rigor framing: it describes climate scientists' instruments, data collection, and quantitative modeling, explicitly claiming reproducibility and objectivity. Mechanistically it should mainly boost the competence (and somewhat openness/integrity) facets of trust, with weaker downstream flow to belief, concern, and policy attitudes, since it makes no argument about risk or the need for action. Heavy jargon (disdrometers, support vector machines, wavelet analysis) can signal expertise but also reduce comprehension and warmth, so I shade the effect toward the small end; the multidimensional trust measure is the most directly targeted and comes first, so it gets the largest ATE (~2 points). Single-shot reading interventions in trust-in-science experiments typically yield 1-3 points on 0-100 scales for the targeted construct, with anchored repeated items (trust_post, belief_post) attenuated further and distrust moving less than trust. Distal outcomes (concern, policy support, behavior) get sub-point effects, and incentivized real behaviors (donation, newsletter) should be near zero with only a slight positive tilt.",
+      "ates": {
+        "trust_multidimensional": 2.2,
+        "trust_post": 1.7,
+        "distrust_post": -1.1,
+        "funding_perceptions": 0.7,
+        "policy_role_mean": 0.8,
+        "inst_trust_mean": 1,
+        "belief_post": 1.1,
+        "concern_mean": 0.6,
+        "policy_general": 0.6,
+        "policy_specific_mean": 0.5,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

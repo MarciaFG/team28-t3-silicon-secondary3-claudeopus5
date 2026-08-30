@@ -1,0 +1,63 @@
+{
+  "condition": "placebo: How Sourdough Fermentation Works",
+  "run": 1,
+  "timestamp": "2026-08-30T17:46:39.294Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZMKRn7W9SqxKLiK3jzW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This placebo arm is another neutral filler, but it's slightly science-flavored with mentions of fermentation and microbes, which could marginally nudge trust in science even though it's not really about persuasion. I'll predict near-zero ATEs with small, non-round magnitudes given this faint possible priming effect.\n\n",
+        "signature": "CAISrgoKjgEIERgCKkCZGYnNrOmO8nYZVljjC0JH5bUwILifD9L3UN7vC1rO/GqYDjn4Cy2QOSdGBC4R1e+n2w65pO9bIGQMNBnIvZpVMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAfjY0dQGEgxYWWLYvviZ+TIVrZUaDNF477bcpBRt1BQFfSIw9XM9C1Y+Eu0c4o/0lFx17+uzD51HfAuNTxvTF+pEkmskLGFv0CZko85m4rlfdkoVKswIgcgp7RNg1sGpMq6JIFIo6CLnKj0WzMNPi/0FQ7sQj9GKyq/vr5msxMFvL79/8aPT1iPT74dascbUSvhqwfNtysGOobh0s8KhkRm0bzwAfKESShJFL9ECUrwYJHna+R0FhItY+A8Gw6KooQ0pYSe7pN7cFMIuMvM6Ihk2JwBp+3k4zJ0bbCDW1e65qQuC9WNIOBIiJUffkmeOnbdhSSS3CBuO+B0+Zad3qU1PGohxpdwH4qhMuiSvTQn7h8X3FgcBwXKI0WVSGeaNdETE04xH4F1vgcFI9kLaj5TupZo7Dy4yb+RLxPoyed2QOq2HQMFzmp4y/Hco5YFTMJIjeFLsRdPR5t2qZToqs8nYNDXP1gTAUmFmhM44cU90zICeIaIMxZJoH4DteJf/RTeq4lYVJsmMYO8Ap5pvXC8bbB94Kx8LPtCSHJbAFxh8mgLkkgmQJJmCiTbxSGdb1YMdS/rt5icha2ZQHZPEVO218PzttD4PcK05uunz/0bz27sa5/y6/xpZAi+cwAHEmC4MetmeIQZI5jPwis8D01bG5TkKMqcpgNF7HySTE0JWBifCr+LS9wcErlJec+/7keONubwIvGCjPdOaQ0DuepqRDLVWsDix8xmjrXnpPEIcHd/GcaxzdixxnmddK2haVGhS/GiWF9j8hJlkPBSX4rdr45IxGn6JiZE90e6sIZHGWouL+jAyZ/AIg8UjIksLarAD86arbFwT4BHTePqdNZwOlVDvYS+Ixkm+jTQh+UT9yLUDUtiz/AT5Hi25x1nDrsG6atUuEIzVTaSk4fFYuCO9J5Ps4OPRDa93URr0tEZGp02/ICjwm9DFmlLtOWIGynFBYkd0L5s6Q+AQn1Cv2Dhmh61NoFcKnMDv7J2cCPwIhslMn/0dEjheitT8ET2zXpJu1bc+eTjBI18QcoxK/hGvsp79UMDJd86UNI63rqZx8t1LibUrApkCxtdxVWtJfvZMdi3OHhV4B5dTdi6bWugcDl/UIEiF6M3H//lbPId3ji7v6wikAOvebOlJh6ZOhp6rFSp/59Eo6fN9YE+B2KZymkqHMnUic/ChMW3MnjxjMV7b2dpjyhjw/oq4YitXkVrjHtLZQWo949IZ5H7aIfwTk1twIZYHaaXxtU7PZsX8ZkQiv/jGSDkKOYkVhWzfkOyJhifSkL7t1BoC1vdn/jop1ZFpH3uzqKO3QrMW+zTaiHhcSNmVrpypb/oyq1IEb0mvZ3F8yWjkqhOXLdURIL5G76hEMr/O69u8Zipl+NAUaWRqXwnJT/EqZqjWJUfERSTgrE5z18rdjir2RN/RyH4TbyoaJxrn4Rz87uwiCMVdEPC9bE6Mq/Vn993AMtecB0oIL5624VnkNwF4LwO+8Odi6EAyTNz2rTHX5/XoMY3z11TNzuc9g+5JxmsWs0AJZ4Gv9ZW6PC5If4qWHHb8gk4qLsy+cEATMGQ6ZzFJ4DNEIFIYAQ=="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm is an explicit placebo: an off-topic expository text about sourdough fermentation, structurally equivalent to the control fillers (neckties, baseball, dance) in length, tone, and irrelevance to climate. There is no messenger, no counter-attitudinal evidence, no climate or trust-in-science content, so no persuasive mechanism targets any outcome. The only conceivable spillover is a faint priming of appreciation for microbiology/science and for knowledge accumulated over millennia ('humans managed without fully understanding it'), which could nudge general science-warmth by a fraction of a point at most — well within sampling noise. I therefore forecast essentially zero ATEs, with the tiniest positive tilt on the fresh multidimensional trust battery and scientist-role items (which lack pre-treatment anchoring and thus are marginally more susceptible to mood/priming), and near-exact zeros on belief, concern, policy, intentions, and the two incentivized behaviors. Signs are kept internally consistent (a hair of extra trust implies a hair less distrust), but magnitudes are all under ~0.2 points, $0.01, and 0.3 percentage points.\",\"ates\":{\"trust_multidimensional\":0.18,\"trust_post\":0.07,\"distrust_post\":-0.06,\"funding_perceptions\":0.04,\"policy_role_mean\":0.11,\"inst_trust_mean\":0.08,\"belief_post\":0.05,\"concern_mean\":0.03,\"policy_general\":0.04,\"policy_specific_mean\":0.06,\"behavior_mean\":0.02,\"donation_ams\":0.008,\"newsletter_signup\":0.0015}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 668,
+      "cache_creation_input_tokens": 6503,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6503,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 994,
+      "output_tokens_details": {
+        "thinking_tokens": 432
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is an explicit placebo: an off-topic expository text about sourdough fermentation, structurally equivalent to the control fillers (neckties, baseball, dance) in length, tone, and irrelevance to climate. There is no messenger, no counter-attitudinal evidence, no climate or trust-in-science content, so no persuasive mechanism targets any outcome. The only conceivable spillover is a faint priming of appreciation for microbiology/science and for knowledge accumulated over millennia ('humans managed without fully understanding it'), which could nudge general science-warmth by a fraction of a point at most — well within sampling noise. I therefore forecast essentially zero ATEs, with the tiniest positive tilt on the fresh multidimensional trust battery and scientist-role items (which lack pre-treatment anchoring and thus are marginally more susceptible to mood/priming), and near-exact zeros on belief, concern, policy, intentions, and the two incentivized behaviors. Signs are kept internally consistent (a hair of extra trust implies a hair less distrust), but magnitudes are all under ~0.2 points, $0.01, and 0.3 percentage points.",
+      "ates": {
+        "trust_multidimensional": 0.18,
+        "trust_post": 0.07,
+        "distrust_post": -0.06,
+        "funding_perceptions": 0.04,
+        "policy_role_mean": 0.11,
+        "inst_trust_mean": 0.08,
+        "belief_post": 0.05,
+        "concern_mean": 0.03,
+        "policy_general": 0.04,
+        "policy_specific_mean": 0.06,
+        "behavior_mean": 0.02,
+        "donation_ams": 0.008,
+        "newsletter_signup": 0.0015
+      }
+    }
+  }
+}

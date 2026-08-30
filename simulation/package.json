@@ -1,0 +1,15 @@
+{
+  "name": "team28-t3-forecast",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Team 28 Tier-3 direct-forecast pipeline for the Silicon Sample Benchmark",
+  "scripts": {
+    "predict": "node predict.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.122.0",
+    "openai": "^7.8.0",
+    "zod": "^4.5.4"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "finished": "2026-08-30T18:29:25.085Z",
+  "model": "gpt-5",
+  "reasoning_effort": "high",
+  "samples_per_intervention": 5,
+  "api_calls": 80,
+  "input_tokens": 352645,
+  "output_tokens": 437132,
+  "reasoning_tokens": 411392
+}

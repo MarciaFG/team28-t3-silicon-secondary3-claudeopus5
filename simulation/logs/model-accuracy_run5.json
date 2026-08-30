@@ -1,0 +1,63 @@
+{
+  "condition": "Model accuracy",
+  "run": 5,
+  "timestamp": "2026-08-30T17:39:11.677Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLkKp2Sa2JpHUQHcFwh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention targets the competence dimension by rebutting the \"models can't predict\" criticism with specific evidence, while its acknowledgment of imperfection adds credibility. Since it's mainly competence-focused rather than touching benevolence or integrity, the effect on the averaged multidimensional trust score gets diluted, so I'll estimate around +2.0 rather than a larger jump.\n\nWorking through the downstream metrics, distrust drops moderately, funding perceptions and policy attitudes shift modestly upward, belief in human-caused warming gets a solid bump since the models' accuracy directly validates that belief, and behavioral/donation/newsletter metrics stay small as usual. I'm noting that mentioning the \"criticism you may have heard\" framing could slightly prime skepticism even as it corrects it, so I'll shade the numbers down just a touch to account for that before finalizing precise values.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a competence/track-record correction: it names a salient skeptic criticism (\\\"models can't predict the future\\\") and rebuts it with concrete, verifiable evidence (17 forecasts 1970–2001, 0.9°C observed warming, Montreal Protocol explanation), while candidly admitting model imperfection — a transparency move that typically boosts perceived openness and integrity as well as competence. I therefore put it slightly above the average trust arm on the primary multidimensional battery (+2.1), since it supplies counter-attitudinal evidence targeted at the initially skeptical, though the effect is diluted because benevolence is barely addressed. Re-asked single items (trust_post, belief_post) are shrunk relative to the fresh battery because of pre-treatment anchoring, and distrust is moved less in absolute terms than trust because distrust is a floor-heavy, more identity-anchored item. Downstream outcomes follow the expected ordering: modest gains in research-funding support and scientist-policy-role attitudes (the text implies science is reliable enough to act on), smaller gains in concern and general policy, still smaller in specific policies and intentions. Incentivized outcomes get near-zero but slightly positive values — the American Meteorological Society is topically congruent with forecasting accuracy, so a couple of cents, and a fraction of a percentage point on newsletter sign-up.\", \"ates\": {\"trust_multidimensional\": 2.1, \"trust_post\": 1.55, \"distrust_post\": -1.15, \"funding_perceptions\": 1.1, \"policy_role_mean\": 0.85, \"inst_trust_mean\": 0.75, \"belief_post\": 1.35, \"concern_mean\": 0.9, \"policy_general\": 0.7, \"policy_specific_mean\": 0.45, \"behavior_mean\": 0.3, \"donation_ams\": 0.07, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 894,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1163,
+      "output_tokens_details": {
+        "thinking_tokens": 518
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a competence/track-record correction: it names a salient skeptic criticism (\"models can't predict the future\") and rebuts it with concrete, verifiable evidence (17 forecasts 1970–2001, 0.9°C observed warming, Montreal Protocol explanation), while candidly admitting model imperfection — a transparency move that typically boosts perceived openness and integrity as well as competence. I therefore put it slightly above the average trust arm on the primary multidimensional battery (+2.1), since it supplies counter-attitudinal evidence targeted at the initially skeptical, though the effect is diluted because benevolence is barely addressed. Re-asked single items (trust_post, belief_post) are shrunk relative to the fresh battery because of pre-treatment anchoring, and distrust is moved less in absolute terms than trust because distrust is a floor-heavy, more identity-anchored item. Downstream outcomes follow the expected ordering: modest gains in research-funding support and scientist-policy-role attitudes (the text implies science is reliable enough to act on), smaller gains in concern and general policy, still smaller in specific policies and intentions. Incentivized outcomes get near-zero but slightly positive values — the American Meteorological Society is topically congruent with forecasting accuracy, so a couple of cents, and a fraction of a percentage point on newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 2.1,
+        "trust_post": 1.55,
+        "distrust_post": -1.15,
+        "funding_perceptions": 1.1,
+        "policy_role_mean": 0.85,
+        "inst_trust_mean": 0.75,
+        "belief_post": 1.35,
+        "concern_mean": 0.9,
+        "policy_general": 0.7,
+        "policy_specific_mean": 0.45,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

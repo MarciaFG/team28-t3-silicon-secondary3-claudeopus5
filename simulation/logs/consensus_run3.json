@@ -1,0 +1,63 @@
+{
+  "condition": "Consensus",
+  "run": 3,
+  "timestamp": "2026-08-30T17:38:54.488Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLiquDJXC7Snt6WWWQL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This \"Consensus\" arm uses interactive slider estimates with corrective feedback on scientific consensus figures (99%, ~100%), plus nuance about disagreement on net-zero timing (66%) — a well-crafted, interactive, counter-attitudinal design. I'm recalling that consensus messaging meta-analyses typically shift perceived consensus substantially, move belief by roughly 1-2.5 points, and have smaller effects on policy support, with interactive correction formats similar to Vlasceanu's stronger-performing arms.\n\nThe \"disagreement isn't weakness\" framing also builds trust by signaling integrity, openness, and competence — nuance about scientific disagreement can actually boost credibility. I'd expect this to be one of the stronger arms for both belief_post and trust: trust_multidimensional around 2.2 given explicit discussion of evidence and openness to revision, trust_post around 1.5, distrust_post around -1.2, funding_perceptions around 0.8, policy_role_mean around 1.0, inst_trust_mean around 1.0. For belief_post, since the message directly corrects the core claim about human activity being the primary cause, I'd expect a stronger direct effect there.\n\nRefining these estimates further, and setting concern_mean, policy_general, policy_specific_mean, behavior_mean, donation_ams, and newsletter_signup at similarly modest levels consistent with the other arms.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is an interactive consensus-correction: respondents estimate agreement levels, then receive corrective feedback showing near-unanimity (99%, ~100%) on the core claims, plus a nuanced item (66% on net-zero timing) framed to show that genuine disagreement is part of healthy science. Mechanistically it is strong: active guessing plus immediate feedback typically outperforms dry expository text, the evidence is counter-attitudinal for skeptics, and the transparency framing plausibly boosts perceived integrity/openness as well as competence. Consensus meta-analyses show large shifts in perceived consensus but only ~1\\ttimes2.5-point gains on belief in human causation and smaller policy effects, so I place belief_post around +2 (dampened somewhat by pre-treatment anchoring but boosted by the direct restatement of the same claim) and the fresh multidimensional trust battery slightly higher at ~+2.3. Distrust should fall modestly but less than trust rises (asymmetric, floor-ish effects). Downstream outcomes decay in the expected order: scientist-role/institutional trust and concern ~1 point, general policy ~1, specific policies and behavioral intentions well under 1, and incentivized behaviors near zero (a few cents donated, ~1 pp on newsletter sign-up).\", \"ates\": {\"trust_multidimensional\": 2.3, \"trust_post\": 1.6, \"distrust_post\": -1.25, \"funding_perceptions\": 0.9, \"policy_role_mean\": 1.1, \"inst_trust_mean\": 0.95, \"belief_post\": 2.05, \"concern_mean\": 1.05, \"policy_general\": 1.0, \"policy_specific_mean\": 0.7, \"behavior_mean\": 0.45, \"donation_ams\": 0.055, \"newsletter_signup\": 0.011}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1397,
+      "output_tokens_details": {
+        "thinking_tokens": 770
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is an interactive consensus-correction: respondents estimate agreement levels, then receive corrective feedback showing near-unanimity (99%, ~100%) on the core claims, plus a nuanced item (66% on net-zero timing) framed to show that genuine disagreement is part of healthy science. Mechanistically it is strong: active guessing plus immediate feedback typically outperforms dry expository text, the evidence is counter-attitudinal for skeptics, and the transparency framing plausibly boosts perceived integrity/openness as well as competence. Consensus meta-analyses show large shifts in perceived consensus but only ~1\ttimes2.5-point gains on belief in human causation and smaller policy effects, so I place belief_post around +2 (dampened somewhat by pre-treatment anchoring but boosted by the direct restatement of the same claim) and the fresh multidimensional trust battery slightly higher at ~+2.3. Distrust should fall modestly but less than trust rises (asymmetric, floor-ish effects). Downstream outcomes decay in the expected order: scientist-role/institutional trust and concern ~1 point, general policy ~1, specific policies and behavioral intentions well under 1, and incentivized behaviors near zero (a few cents donated, ~1 pp on newsletter sign-up).",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.6,
+        "distrust_post": -1.25,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 0.95,
+        "belief_post": 2.05,
+        "concern_mean": 1.05,
+        "policy_general": 1,
+        "policy_specific_mean": 0.7,
+        "behavior_mean": 0.45,
+        "donation_ams": 0.055,
+        "newsletter_signup": 0.011
+      }
+    }
+  }
+}

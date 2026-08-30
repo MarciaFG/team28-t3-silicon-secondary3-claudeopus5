@@ -1,0 +1,64 @@
+{
+  "condition": "Peer-review",
+  "run": 1,
+  "timestamp": "2026-08-30T18:19:09.734Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPo6N5K4mo2hhp5VxUo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is a peer-review transparency message, and in similar trust megastudies these typically yield small positive effects, maybe 1-4 points on a 0-100 scale. Peer review speaks most directly to competence and openness to feedback, so I'd expect trust_multidimensional to rise modestly, around +2.5, with the openness dimension likely showing the strongest gain since skeptics could still push back on peer review as gatekeeping.\n\nWorking through the rest of the outcomes: trust_post around +1.8 given anchoring effects, distrust_post around -1.3, funding_perceptions roughly +0.8, and the belief, concern, and policy measures all landing in the modest +0.6 to +1.2 range since they're not directly targeted by the peer-review framing. Behavioral outcomes like donations and newsletter signups stay near zero given how distal they are from the manipulation. I'll settle on trust_multidimensional at 2.6 as my final estimate.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The peer-review text is a process-transparency/accountability message: it explains an institutional check that directly targets perceived competence, integrity ('hold each other accountable'), and especially openness to feedback ('required to make changes'), plus a consensus cue ('experts across the world consistently reach the same conclusions'). Such mechanism-explanation messages are generally credible and non-preachy, so I expect a modest but real positive effect on the primary multidimensional trust measure (~2-3 points on 0-100), with some counter-arguing among skeptics who view peer review as gatekeeping/groupthink, capping the size. The single-item trust and belief measures were also asked pre-treatment, so anchoring compresses their movement to roughly half to two-thirds of the primary effect; distrust typically moves less than trust and in the negative direction. Downstream outcomes (policy role, institutional trust, concern, policy support, behavior) are only indirectly targeted — the text says nothing about scientists' policy engagement or about what citizens should do — so I expect attenuated effects under ~1 point, with the multi-item policy and behavior indices smallest because they are dominated by stable partisan priors. Incentivized behaviors (donation, newsletter) show near-zero effects in such studies; I forecast a few cents and well under a percentage point, respectively.\", \"ates\": {\"trust_multidimensional\": 2.6, \"trust_post\": 1.8, \"distrust_post\": -1.3, \"funding_perceptions\": 0.9, \"policy_role_mean\": 0.9, \"inst_trust_mean\": 1.1, \"belief_post\": 1.2, \"concern_mean\": 0.8, \"policy_general\": 0.8, \"policy_specific_mean\": 0.6, \"behavior_mean\": 0.4, \"donation_ams\": 0.05, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 524,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1197,
+      "output_tokens_details": {
+        "thinking_tokens": 576
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The peer-review text is a process-transparency/accountability message: it explains an institutional check that directly targets perceived competence, integrity ('hold each other accountable'), and especially openness to feedback ('required to make changes'), plus a consensus cue ('experts across the world consistently reach the same conclusions'). Such mechanism-explanation messages are generally credible and non-preachy, so I expect a modest but real positive effect on the primary multidimensional trust measure (~2-3 points on 0-100), with some counter-arguing among skeptics who view peer review as gatekeeping/groupthink, capping the size. The single-item trust and belief measures were also asked pre-treatment, so anchoring compresses their movement to roughly half to two-thirds of the primary effect; distrust typically moves less than trust and in the negative direction. Downstream outcomes (policy role, institutional trust, concern, policy support, behavior) are only indirectly targeted — the text says nothing about scientists' policy engagement or about what citizens should do — so I expect attenuated effects under ~1 point, with the multi-item policy and behavior indices smallest because they are dominated by stable partisan priors. Incentivized behaviors (donation, newsletter) show near-zero effects in such studies; I forecast a few cents and well under a percentage point, respectively.",
+      "ates": {
+        "trust_multidimensional": 2.6,
+        "trust_post": 1.8,
+        "distrust_post": -1.3,
+        "funding_perceptions": 0.9,
+        "policy_role_mean": 0.9,
+        "inst_trust_mean": 1.1,
+        "belief_post": 1.2,
+        "concern_mean": 0.8,
+        "policy_general": 0.8,
+        "policy_specific_mean": 0.6,
+        "behavior_mean": 0.4,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

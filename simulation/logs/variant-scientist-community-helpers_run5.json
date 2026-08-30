@@ -1,0 +1,64 @@
+{
+  "condition": "Scientist community helpers",
+  "run": 5,
+  "timestamp": "2026-08-30T18:19:51.098Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPqpHHBkHP9sLfwX7Li",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This narrative humanizes climate scientists by highlighting warmth, benevolence, and shared community values, so I'd expect a moderate positive effect on the multidimensional trust measure, mostly through the benevolence subscale—maybe around 3 points given typical megastudy effect sizes. The single-item post-trust measure, anchored to pre-treatment levels, likely shows a smaller shift, around 2 points.\n\nDistrust probably drops slightly, funding perceptions rise modestly, and since the intervention emphasizes scientists collaborating with emergency managers and policymakers, I'd expect a bit more movement on the policy-role measure. Institutional trust gets diluted across other institutions, belief change is small due to anchoring, and concern rises slightly given the emphasis on extreme weather risks to communities. Policy support measures, behavior, donations, and newsletter signups likely show only marginal movement, consistent with what's typically found in climate trust megastudies like Vlasceanu et al., where belief and policy effects are modest and behavioral effects are often null—though here, since trust is the directly targeted and measured outcome, I'd expect it to respond somewhat more than the downstream outcomes.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a warmth/benevolence humanization narrative: climate scientists as neighbors, parents, and first-responder collaborators saving lives during Harvey and the 2020 wildfires. It directly targets the benevolence and integrity dimensions of the primary trust measure (measured first, immediately after reading), so I expect the largest effect there — a few points on the 0–100 composite, consistent with typical single-exposure text effects in megastudies (usually 1–5 points on directly targeted attitudinal composites). The single-item trust_post and belief_post are anchored on pre-treatment answers, so they should move less; distrust items are stickier and typically shift about half as much as trust items, in the negative direction. Because the text repeatedly depicts scientists working hand-in-hand with emergency managers and local officials, policy_role_mean should also move appreciably (~2–3 points). Downstream outcomes (concern, policy support, behavior intentions) are two steps removed from the manipulation and are dominated by stable partisan priors, so I expect sub-point to ~1-point effects, and the incentivized real-behavior measures (donation, newsletter) should show only trivial shifts, with a slight positive tilt given the emphasis on community protection and shared values.\", \"ates\": {\"trust_multidimensional\": 3.2, \"trust_post\": 2.1, \"distrust_post\": -1.3, \"funding_perceptions\": 1.0, \"policy_role_mean\": 2.5, \"inst_trust_mean\": 1.3, \"belief_post\": 0.7, \"concern_mean\": 1.1, \"policy_general\": 1.0, \"policy_specific_mean\": 0.7, \"behavior_mean\": 0.9, \"donation_ams\": 0.07, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 869,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1532,
+      "output_tokens_details": {
+        "thinking_tokens": 936
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a warmth/benevolence humanization narrative: climate scientists as neighbors, parents, and first-responder collaborators saving lives during Harvey and the 2020 wildfires. It directly targets the benevolence and integrity dimensions of the primary trust measure (measured first, immediately after reading), so I expect the largest effect there — a few points on the 0–100 composite, consistent with typical single-exposure text effects in megastudies (usually 1–5 points on directly targeted attitudinal composites). The single-item trust_post and belief_post are anchored on pre-treatment answers, so they should move less; distrust items are stickier and typically shift about half as much as trust items, in the negative direction. Because the text repeatedly depicts scientists working hand-in-hand with emergency managers and local officials, policy_role_mean should also move appreciably (~2–3 points). Downstream outcomes (concern, policy support, behavior intentions) are two steps removed from the manipulation and are dominated by stable partisan priors, so I expect sub-point to ~1-point effects, and the incentivized real-behavior measures (donation, newsletter) should show only trivial shifts, with a slight positive tilt given the emphasis on community protection and shared values.",
+      "ates": {
+        "trust_multidimensional": 3.2,
+        "trust_post": 2.1,
+        "distrust_post": -1.3,
+        "funding_perceptions": 1,
+        "policy_role_mean": 2.5,
+        "inst_trust_mean": 1.3,
+        "belief_post": 0.7,
+        "concern_mean": 1.1,
+        "policy_general": 1,
+        "policy_specific_mean": 0.7,
+        "behavior_mean": 0.9,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

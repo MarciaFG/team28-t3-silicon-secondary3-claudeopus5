@@ -1,0 +1,64 @@
+{
+  "condition": "Corporate reliance",
+  "run": 1,
+  "timestamp": "2026-08-30T18:17:37.615Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPg2rnpkN7Cb8yuLB8i",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is the \"corporate reliance\" intervention, appealing to market incentives — profit-driven companies rely on climate science, so it must hold up — targeting competence and integrity rather than ideology, likely resonating with skeptics who trust markets. Thinking about typical trust effects in megastudies, I'd estimate this compelling, novel angle nets around 3 points on the trust_multidimensional measure, though single-reading interventions generally produce modest gains.\n\nI'm sketching out estimates across outcomes: trust_multidimensional around +3.0, trust_post around +2.2 given anchoring effects, distrust_post around -1.8, funding_perceptions around +1.5, policy_role_mean around +2.0 since the framing emphasizes practical private-sector use, inst_trust_mean diluted to around +1.2, belief_post around +1.5 due to ceiling effects, concern_mean around +1.5 since it implies real financial risk, policy_general around +1.3, policy_specific_mean around +1.0, behavior_mean around +0.8, and small movements on donation and newsletter signup. I'm also weighing whether the corporate framing might slightly undercut concern by making climate seem like a manageable business risk, though overall it still reinforces risk perception.\n\nSince megastudy effects tend to be modest, I'm dialing back to more conservative final numbers: trust_multidimensional +2.8, trust_post +2.3, distrust_post -1.6, funding +1.2, policy_role +1.8, inst_trust +1.1, belief +1.2, concern +1.3, policy_general +1.2, policy_specific +0.9, behavior +0.6, donation +0.05, newsletter +0.004.\n\n",
+        "signature": "CAISyBIKjgEIERgCKkDuERUxlZtNcFd/q6d8vR9uxoLhxxKOjpmt9O1zFomMvhWyoKvOi1vFEWt2lpR8e0sulZiP+1gIgRCsC2UL8pDLMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAb7n0dQGEgyn8jS0pe+pJcoxWgUaDMMubuMiOB4dyDtSWSIwFGLNGPvzlm1gtyn078WaWsiktfHcMwUvm98K5hbRarTLoY2dn3eLGYy0kAH/qVKgKuYQaxkJ53hZHnqXj4nAvSv44BzArAx8igChIgNc3VoEpYg78Sz2usep9GzJy3/7VBt9FavnZ4aHGggi7DS+2b7CQgQPPJoKZONwSLIQ3wxMth2Pz/WeNzYXAqltFhUoojsr50NhKcL9UeAqYyzbpIBPa6vodbJpMyM2AjH3YCmbLBDD21wbqnAIGrUidkJhK4VpcUCmL86aFTXXCQLtYLevCd3XJCrxQIApVSso437exnLY/5GgY3dua4gDiAbWw/zVDUzBHYjOcwE4H0skEouWq+/rFe52RcCbnGceXnwqYkpln4nKhZwa3B7JB8iGfc4hPtQJcisnwCjXhhfORztf8ociToDiYEhXndIG3Cw4nDIqS4OsiB0eF+ySip9t2qANPwt0jVGV/9qNrzO5BJBrmWcsUywuiWAD43LHPVpYeYQ0jFH4LgH9feRH8lCRfQGyqc4C8EHBP7g9Lmz7pUpx3tc4fPVg9LXpp9ktZzJF7DKKzI9USpZ+f2gUVEKpuchFqTuc3ZM26hI4fHW4y1YzFeDb/FbFMHURZOLOS+6O7Wn8yFji8FTcXl49NP2IfyTYfdpOz0n8MHzsj1baczIH5k15MUscdQ1sYiBojuZeZb5+ZseokMdD0MdXn5iScstqqPE2jnom6MJ79ZtrVZ+yE4cMtf0tb1+qkIy8OY2+Q8hCtcej8jPGyS8oCi2Xun/kB8yHpCCp6u8bhGGHTgCupDhZtnrp1S5pYd7bcN2rGCs3ZsU3R956EaS3e/bdd5s9Rq2i+Kj9J/yIBGT8ZR4LHIsY2PFwT56g6R5ku3yVacyeBn3+kOmiB1u+WoDWeY7aYtxS5ZneNENQyVK3Zx+U8FO7mWybiZEz/RNYVvWgrmVuuTRcAdCuiS68ja9p4nN4hDnPUeIe4NgkhuHIy7+gmr7ZYagONezXi0O0sayAMQEviCjzxiTZXEq5Blz3ix0vNf0IYUPEWwb7BUgsr4nCXYIU72Uv41Fr7S4DpLxC/iEBn/8/97rFFfa3gdqZzayLgEImBu3/knogMH6Arjf+vjLU1rXUYoVrq4B7/s8XBaanZ61KXTOIrUlaWOXlCUJsa9XCfn6Ozl+q13ZAFrwitcgX/MsKcelsJtUoU1OldChHve2VJuJ0iYZdfiYJTP/LCQxqtXirCTUtc5+gyYIwt+gyZm3Tsyg80al6MSJQxuGBFlIp48CYavk4nHPTgc1lGOYnpTwIRL8bEZKCyYt//m4zC0GMpLQxwXj8difb1CP6ULdqCeuA9y5drM1H6ylEl4LoI91L6HINEz24s/yv+IaUhHV0OfO9Y/6HZHjHjU8h0jNIDGAnVLU9T1MjtQUllZFihvqjimj9JR+KL+0Rk9vsLAs2y4rGxwivpN1R9/cmdilw5qb0FuYTZdY69v40wJUL4pKZ4Xhkv3Fy59cJHvga0ZT2NnxaOtx3u3DqkOe3D1/v6Iuz/Z4IB3R85/wtKZMrbeKmsYrWt5+ddfiIK4PkV+C0Z5QcFnqsli4K0X1mP0/6HccC0ZXhSVLtbWXcnKCIeAsWaoUBEgKd3okacACbcSOFBiz8UPAKrnImTX8/qE+zb5zscANBLwLe2TJ2uEVKjOTFJGi99AFTNb9QMXfmAA/c16grS3d3L/vUt7qqgq5CaVV74CifVFk8PH7SUjF0l8xyOP1w7fgDErRX0+W5v0U5gB1ylg/bZ9EpvGfmVfk55valVjT3FCuqu6EpuL3RT9ufLvvlmnDxWFzmqh/qtJBoOvUPUTZR6FSQAQ4cEqUJ3bg4/ufiFLTpjtAZ97RFzd4a7IcyWw9rFAqfvfyLX5HV4JaVBCUb4K3yfV9B7YpyV7shYXT5U9fLFSjDSWvTb9XtgRwPdOzDktK/KWDY++55GorgO0HHqQsBpwfIJiX+iZowS/k167AWE4QSD53AVtF9CGwTspZbuDEPQ9ytNC7y0AJ6HGuH2MKl/qGSocdnMoiNvKRsHFnaN4K+odILrXyECbfRJWzJJHWagHZSaxnrPd+zGRBxBt0qRazxRkCpQDZfXbghCHi9H8rR+kZJpZCQkqxGPOA4Oqeh7nq/WreDYPrBQEwu2/mIyksFA+mnMmVWFfc/zvfuP0O1BJJL7p4ukx1+3mQJdSA0aLUeyK676iMo+SXWo+HB/heaY1vw1PJcVgk1v5Si1zxfZ3/rUVOTkG/reazj83TxS42AU86IHTyLxEIvJ8Iml8vrUCWwH5iVjuuwEdVM+ItlkLT5JSlRx1FdHXq+P/v1cxM+OUwYcftCE2gOQkfoTTfROGP6xdH04t8C33/E48TuxR6lybmhOT8nbORafZK1C3Zk6TTn/qPerx7wttICDPZ8sKynWfcElXx0o5bzVtphDzedDODgHusRrJH2NLAEJ/IM2nXIQOPVv63nKGh21GLW1uhnRbJ1GXnjJvG2fRJPsv/ZVN/DHNw/HFwvian4zmfZ+fGlyzoCmnCXTbBhvjRG0GTmdEEzpdzczjkDDiMxFCeiiDZbYnakpCuOp9ym+XFKkzDsEerlhQNxb0fxrl+lag+CZs8OmJtHqPVUqPl6cvwAnuJAOv1PUyeSarM+tsnAb8TuQOWyFPdzPyoXB+BpwZ1nm2cL9LoBbkdpVOPeZFOU0WwqhmBgQHbb0d5QssAWNAy0keYGUcM8ZOCXOmnTqOOWF3ILfBvkQqFsjE7lQo4Y80OG8yAD7zxwDO9Fb5VazAwhoaNxYS1agHkDD43JpoR5sXV+EeM37/VeNolEFGQSMTNjflFxPaEhQ0VP8ODJlyYG9lhhHInN59lFTG/CdOG5QhmqVwN9SaGQ8/XUWaQXUsVIYiTraQF72ldrraYnqHMLLOVh1xWdyJ1t0Lsv4GSxdcEYAQ=="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The text is a credibility-by-revealed-preference argument: profit-motivated, incentive-aligned actors (insurers, global manufacturers) stake real money on climate models, implying the science is competent, accurate, and non-ideological. This targets the competence and integrity dimensions most directly and is rhetorically well suited to market-trusting skeptics; the reflection prompt adds mild self-generation, so I expect a modest-but-real gain on the primary trust index (~3 points on a 0\\\\u2013100 slider, typical of a single 1\\\\u20133 minute read). Downstream outcomes are attenuated by construct distance: the single trust item is dampened by pre-treatment anchoring, distrust moves less than trust (asymmetric, floor effects among believers), and institutional trust is diluted by the federal-government item the text never mentions. Belief and concern are near ceiling for most respondents and are only indirectly implicated (though the framing does imply climate risk is financially material), so I expect ~1\\\\u20131.5 points. Policy and behavior items are two steps removed and pay no attention cost from the trust argument, so under a point; incentivized behaviors (real $10 donation, newsletter signup) essentially never move detectably from a single text, so I forecast a few cents and well under a percentage point.\", \"ates\": {\"trust_multidimensional\": 2.9, \"trust_post\": 2.3, \"distrust_post\": -1.6, \"funding_perceptions\": 1.2, \"policy_role_mean\": 1.7, \"inst_trust_mean\": 1.1, \"belief_post\": 1.2, \"concern_mean\": 1.3, \"policy_general\": 1.1, \"policy_specific_mean\": 0.9, \"behavior_mean\": 0.6, \"donation_ams\": 0.05, \"newsletter_signup\": 0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 685,
+      "cache_creation_input_tokens": 4570,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4570,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1415,
+      "output_tokens_details": {
+        "thinking_tokens": 804
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The text is a credibility-by-revealed-preference argument: profit-motivated, incentive-aligned actors (insurers, global manufacturers) stake real money on climate models, implying the science is competent, accurate, and non-ideological. This targets the competence and integrity dimensions most directly and is rhetorically well suited to market-trusting skeptics; the reflection prompt adds mild self-generation, so I expect a modest-but-real gain on the primary trust index (~3 points on a 0\\u2013100 slider, typical of a single 1\\u20133 minute read). Downstream outcomes are attenuated by construct distance: the single trust item is dampened by pre-treatment anchoring, distrust moves less than trust (asymmetric, floor effects among believers), and institutional trust is diluted by the federal-government item the text never mentions. Belief and concern are near ceiling for most respondents and are only indirectly implicated (though the framing does imply climate risk is financially material), so I expect ~1\\u20131.5 points. Policy and behavior items are two steps removed and pay no attention cost from the trust argument, so under a point; incentivized behaviors (real $10 donation, newsletter signup) essentially never move detectably from a single text, so I forecast a few cents and well under a percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.9,
+        "trust_post": 2.3,
+        "distrust_post": -1.6,
+        "funding_perceptions": 1.2,
+        "policy_role_mean": 1.7,
+        "inst_trust_mean": 1.1,
+        "belief_post": 1.2,
+        "concern_mean": 1.3,
+        "policy_general": 1.1,
+        "policy_specific_mean": 0.9,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "condition": "Extreme weather predictions",
+  "run": 2,
+  "timestamp": "2026-08-30T17:39:35.036Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLmff9bJz7t2c7zCxox",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention frames climate scientists as helping communities prepare for extreme weather through early-warning systems, which highlights benevolence and competence in a practical, non-political way that should resonate across partisan lines. It also touches on scientists collaborating with policymakers and emergency managers, which could bump up perceptions of policy involvement.\n\nSince this is really about weather forecasting rather than climate belief directly, I'd expect belief in human-caused climate change to shift only marginally, maybe +0.3-0.6. Funding perceptions could rise modestly given the positive framing of NOAA, NASA, and NWS work, especially relevant amid current cuts to these agencies. Naming these institutions explicitly should give institutional trust a stronger boost than most other arms, and overall multidimensional trust looks like a solid +2.3-2.8 given the strong benevolence/competence framing.\n\nWorking through the rest of the metrics: policy role around +1.8 given the emphasis on scientists collaborating with forecasters and planners, funding around +1.3, concern around +0.9 due to the extreme weather framing, and behavior staying low around +0.4 since this is adaptation-focused rather than mitigation-focused. I'm also noting that since this text centers on meteorology, the AMS donation item could see an outsized boost — maybe +$0.11 — compared to other arms, with newsletter signup around +0.008.\n\n",
+        "signature": "CAIS3RQKjgEIERgCKkAZDsw1aqkVlbtLqk0sjzY5yBelJXpMMMVbafq9/b0RRDeAPl+dSOh6fMqmHkGZLOAK0me9gUM0Yc5I4SO6orMRMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAdDV0dQGEgyOa2S/ct+/RMnB6vEaDI2feTiFKGDhTm0RbyIwX9A85F92HpWyuQGHyDm3DjnWtmsJIw2D4rSAUDLeIv0P1f6/z4HjO5hzfXABTQ4EKvsSyeqFydIG595Sv6EjHLMfKhrvd/5q6iWVcEyJXKuPUHJeUZuagdrsN1tMON5NQcyv4GkqmnBDlO4LjjmLrKuMkDeJjX8qlvO7MG1uC65e0+kaKeTWn1PNN9AaO64wfyG/MeWAs21QO/oiQd7fSpnUJyVJXmwKamGZRnOmN+0Jif3nwiffG0vpkGGkxNH1RdRooG/eUwZ36GfzAUjODjUshmpUrciGIA54QdOjBakqbm5yoqwfSxOoXcBtrTS+buE71Un1opCvXeXgz310eSi1V8udd4FWhsFlqMpyL3azFjUGg7HK7g8m2clvaQ+uQhlsoNoSZV0lFo2awW1W5p/gI9ach1U4KcBYaxYbEdtXuE/1Ws1c4/6565Nf/XMVptqyTm5EtFCmRsNaAbrxoeeqLDYITjvBc7lASw5zf9HB6VgmYJBoFCw5OivECiKFgmtIBJuYEzW5iZO4cIdTBXkp8HKNWj0Ngf/mLTITEVfWamolhTS64Jr05KEUmdFFOFtAgIyINlHJYcsZQ7j4tOXiz/KwMUUni3sJ1n0a3EZwhOq7lBBbNB9opj9H7XbWqnqGAwsE283rh0JbRzMTNGbyylYFMLY5f3rWfE2TNrJEbE0HU7PEw3GmLceoyOK3YOpnxKQbleZW9RYFGq1Azu3BlLboQ1JBAoWoj9+wvvU+B8/ZKNLkqvO35d1bejXElrP4SacrXCBcdm6zwUr7pvgS40RkDGb3+6jB9Xrr1cnA3siK+VGAMz6LU/Cp76QazuNMHCkQYbvE+sfLnum0cfqvoxbrpF1wjPbWkRm4bMOMRAx2F5jUKWdDGKu0boBYnsmQpOBz+69ESVDQoYzkSNaqMVYq1dE35SUuBqQ26g0xhQgesWv1nsImM5hkEA3mqwJ6y6yD7Ghyh4j/rlTRU1DW82D0iRTa/bSOmEk8slf6rsaeGOFntbw7W14LFgkFWT8FL2OA9Vxsf0XaHau9/5b/A9Ex3ttgd0RZKgagYHew+ChT9FEcUe1enyPlY6XlM2WjuH1bSYi1NPv4vVIrFL03jWiEmm6zrcF54nAUofPUq/WKjhrlrxaLEy/0Eb0yH/Rbs7VH7sw7IuYzMCQfxd7/uNVYwFo2+ElKwPJ2D8TLAizABEIiSmfbXjFkSEB+VRYhSba/3DiU0QH6G+ZUieJfHD9Z+sBpf1RCVeP85jdGrvB64qEQoCg6LKnCmXaP0qWUZP17qqxDXJIK8wDpXOJQEUZL4jrYVXhVtKQWj9eEfA20FvL79dQ8DSRLxpnjbQnh3m7ygsdsqlT5sOwkoLrSweZXPuB9mfEip4ABCuTYujpC0vG/Vgjg5MdN2M/28Ie5hSX0BH0WLBW/fNj7dD28X6l2y0HBrTIyutilqN5iikolZiwZlepBO6ksnhgbcpry4Zd7GLiyC2PKO14HOWchEGaEyxBF7a5qEYjdUWGZuoBBGgC6r6oqXGscf8A8nKAkpAwqr8LlwISVyKQ9VWDWQDVLMjPVCJdaZnrNObnRhX+7OLdh2rURtK5C5nH+Ybon1FWCTjYQ8K6/hYJiXwgRzvetn9kamBaYe5Wgvs15JLvaVcFremajrkbfVwdiE2VmQ8C1c/sFlB8RrgznKLmTV7HWONK+fWlqYXtEhy0g/kGQwxpQXZBLLL9gp5aB6wIAgBCcoLh+MZrLbjSRpHxLZdeodD0Z1qFh5XzNt+SVkQup23k73JuCnxvgyLFRc+ONdX+MGsjWBtQO4OB/ZAtA8PECxTZb4eZt4JiPIezQggow0YZZJsHpfcI9sDpeFxRgxvCl/2aDt7WOcvtDIT175B2FtRf31aheK75YlmfpMf8UIeQi1dD0QQYMC3wttyWDiQjR2cxZbboFxn1xZYbP5Zid7tW/OyvF1aD/VPcCbrIy/KcfxUK7G7IfylwwwjciUKalK9ZefiEtKbwnKQ4oT5bmOmFqNBbLHb4rpcg0LZDxM53o6+EVfn67P89xx4JL8ZyBH8ycWYf/qsKwfz6v/y0T6YxxGHr0Na7gffUou0UnL/VU2keX4Z8ohqk9+ebL7vpu6f+EDM8g+B6WdBf/B+pVMFYDqsLZn0dWweeHAGHGGEI6suRX7Q0XMJ7DTN7aOKUUgLkvywEFFl8iDX2uzE7vV7k4wuQXu0VcqRwiZICRVv+zx92hp1JQvjmPk7uXsJBc3Nif8uwpA6LYGNHKwgeQd9mZsg63qbBiDxPY6VfUoRNtYuJQOOABf26N6WlxjeXEL2UBGxPzzXbHW4DIpe2aNaKpQrNVGfvqrqQnLW5YKQFcCeW9ErDi3xM8fk+hk5Fisx4kzZ9PPIbKPBpPkMlH15//70gHzHmItrionNAi9FyRuT2R6o2gfa5iPF6RG3FYOznEjisuz+Til9mlcrkVCJKf2A4sZErOQgLNN7QglsudF0Zydbonm9fnRlLZj6zreBXk2u+XL3oTUSzotcHlXGbyL3tBK/6ANigg8KCFcudKFnnpnnhWierbsx+TrSytR62RrAzdnZ7Sk1avM5f8fGLcLvulvAVZerdGE1CPosSMgEENC1udBYdb5tHcQfjDYC7+jAAJy+0Wlw49KWVszYbNxr0SubuKJWFKR31GXJvPqwd71GRK5Ic4uhumrfg04h/vcAj4WX32umIrf7V6o5VmXvKcGVSJzmOleT4nHnouuCB2sfM8FD73pEoKv1YaiQ1MsZhzQmVi174+iFq3sK5ZDUhOlrKVqe2a59BuyLyt5Sig68bmC5byysAezBE1WiZ+WUy8Riv2ObU88kGnxNlfwol+TSuk/VpmG6kk0tHfYRCZIAzAT4t88FEM2PAKoUwkxFeM2zfiW6xrVYLs9sGW6O2nvbJHlN8q8+lfIIPp9T7JMRKNbrZ8BzDPNPx151A3x4DAMlI4ystvMT/LKpYE3tNci+uohP5//lE7oSh+ZLLV/auUlqBCQ19Q9g61BZyGlUJIeNfeLWMYFze46BHkh68QbhazZgy0+yjiZB7UIQVotRqnP/9WqC1Mepp9Lje3HlQ10SuXXWloeaYHPvOYxte+Paab1KVMaYgI+PTYuohnWkcDOJmukevQcVc50WLfTifku3KoxnGHhFgsPDNCqmQCt3XF/f4AXRDiNf8/NFYCEf2O9qLOjmp8fEO+kS3OnCLP6t7T7WzUwqbYJnWvKA1oB0iLOKb3hE85bMwXfp1mJ6zchC1UOKYlQTCgdFOrRJ0OHX/EgrXDrbYJ2XNCayPWJA8gGAE="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a benevolence- and competence-focused, locally personalized narrative: it tells respondents that climate scientists at NOAA/NASA/NWS/universities build early-warning systems that protect their own state from floods, wildfires, or winter storms. Its mechanism is 'scientists are useful, caring, and working with the people who protect you' — non-accusatory, apolitical, and hence unlikely to trigger partisan reactance, so I expect above-average movement on the fresh multidimensional trust battery (especially benevolence/competence) at roughly +2.5 points, with the pre-anchored single-item trust moving less (~+1.6) and distrust falling modestly. Because the text explicitly names federal science agencies and depicts scientists collaborating with forecasters, emergency managers, and city planners, I give unusually large (for this study) effects on inst_trust_mean and policy_role_mean, though the former is diluted by the federal-government item. The message says nothing about attribution of climate change to human activity or about mitigation, so belief_post is near zero and mitigation policy/behavior outcomes stay well under a point; concern gets a small lift from the 'no longer somewhere else' local-threat framing. Funding perceptions rise moderately (~+1.3) since the text showcases valuable publicly funded research. For incentivized behavior, the AMS donation gets a slightly larger-than-typical bump (+$0.11) because the message directly valorizes meteorological research, while real newsletter sign-up shifts under a percentage point.\", \"ates\": {\"trust_multidimensional\": 2.5, \"trust_post\": 1.6, \"distrust_post\": -1.15, \"funding_perceptions\": 1.3, \"policy_role_mean\": 1.85, \"inst_trust_mean\": 1.75, \"belief_post\": 0.45, \"concern_mean\": 0.95, \"policy_general\": 0.65, \"policy_specific_mean\": 0.5, \"behavior_mean\": 0.4, \"donation_ams\": 0.11, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4096,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1537,
+      "output_tokens_details": {
+        "thinking_tokens": 848
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a benevolence- and competence-focused, locally personalized narrative: it tells respondents that climate scientists at NOAA/NASA/NWS/universities build early-warning systems that protect their own state from floods, wildfires, or winter storms. Its mechanism is 'scientists are useful, caring, and working with the people who protect you' — non-accusatory, apolitical, and hence unlikely to trigger partisan reactance, so I expect above-average movement on the fresh multidimensional trust battery (especially benevolence/competence) at roughly +2.5 points, with the pre-anchored single-item trust moving less (~+1.6) and distrust falling modestly. Because the text explicitly names federal science agencies and depicts scientists collaborating with forecasters, emergency managers, and city planners, I give unusually large (for this study) effects on inst_trust_mean and policy_role_mean, though the former is diluted by the federal-government item. The message says nothing about attribution of climate change to human activity or about mitigation, so belief_post is near zero and mitigation policy/behavior outcomes stay well under a point; concern gets a small lift from the 'no longer somewhere else' local-threat framing. Funding perceptions rise moderately (~+1.3) since the text showcases valuable publicly funded research. For incentivized behavior, the AMS donation gets a slightly larger-than-typical bump (+$0.11) because the message directly valorizes meteorological research, while real newsletter sign-up shifts under a percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.5,
+        "trust_post": 1.6,
+        "distrust_post": -1.15,
+        "funding_perceptions": 1.3,
+        "policy_role_mean": 1.85,
+        "inst_trust_mean": 1.75,
+        "belief_post": 0.45,
+        "concern_mean": 0.95,
+        "policy_general": 0.65,
+        "policy_specific_mean": 0.5,
+        "behavior_mean": 0.4,
+        "donation_ams": 0.11,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "condition": "Corporate reliance",
+  "run": 1,
+  "timestamp": "2026-08-30T17:36:55.141Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLa86YPiSPf84bWtCri",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention leans on a market-based credibility signal — profit-driven corporations relying on climate science taps into the \"money talks\" heuristic and appeals to conservative values like markets and profit, especially with insurers. It also includes a brief reflection prompt to encourage elaboration, which could strengthen the effect. It targets both competence (model accuracy validated by financial stakes) and integrity (avoiding perceived bias or ideology), so it should move trust across multiple dimensions fairly well.\n\nI'm settling on roughly +2.3 for the composite trust measure, with trust_post around +1.6 and distrust_post around -1.3. Funding perceptions get only a small indirect bump near +0.7, while policy_role_mean moves modestly (~+1.0) given the mention of scientists working with private industry. Institutional trust and belief measures shift slightly (~+0.5 and +0.8), concern about financial risks like sea-level rise nudges up around +0.8, and policy attitudes and behavior measures stay fairly flat (~+0.3 each), since the pro-market framing might slightly dampen perceived need for government action. Donation and newsletter signup barely move, at +0.06 and +0.008 respectively.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm uses a market-based credibility heuristic: profit-motivated insurers and corporations stake real money on climate models, so the models must be accurate and non-ideological. That is a counter-attitudinal, ideologically congruent cue for skeptics (markets, profit, financial accountability) and directly targets both competence (predictive accuracy validated by financial stakes) and integrity/lack-of-bias, the two subscales most implicated in distrust. The added reflection prompt encourages elaboration, which typically adds a small boost to immediate proximal effects, so I place this among the stronger arms on the primary trust battery (~+2.3, d≈0.10) with the re-asked single trust item attenuated by pre-treatment anchoring (~+1.6) and a somewhat smaller symmetric drop in distrust. Downstream outcomes are shrunk sharply: belief and concern get only indirect support from the implied validity of risk projections, and policy support is further muted (possibly even offset) because a \\\"markets already handle this\\\" frame does not push government action. Funding perceptions and scientists' policy role get small positive spillovers (the text depicts scientists as usefully embedded in real-world decision-making), institutional trust is diluted by the federal-government item, and incentivized behaviors move only trivially (a few cents; well under 1pp for sign-up).\",\"ates\":{\"trust_multidimensional\":2.3,\"trust_post\":1.62,\"distrust_post\":-1.28,\"funding_perceptions\":0.72,\"policy_role_mean\":1.05,\"inst_trust_mean\":0.58,\"belief_post\":0.83,\"concern_mean\":0.76,\"policy_general\":0.38,\"policy_specific_mean\":0.31,\"behavior_mean\":0.27,\"donation_ams\":0.06,\"newsletter_signup\":0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 685,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1214,
+      "output_tokens_details": {
+        "thinking_tokens": 600
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm uses a market-based credibility heuristic: profit-motivated insurers and corporations stake real money on climate models, so the models must be accurate and non-ideological. That is a counter-attitudinal, ideologically congruent cue for skeptics (markets, profit, financial accountability) and directly targets both competence (predictive accuracy validated by financial stakes) and integrity/lack-of-bias, the two subscales most implicated in distrust. The added reflection prompt encourages elaboration, which typically adds a small boost to immediate proximal effects, so I place this among the stronger arms on the primary trust battery (~+2.3, d≈0.10) with the re-asked single trust item attenuated by pre-treatment anchoring (~+1.6) and a somewhat smaller symmetric drop in distrust. Downstream outcomes are shrunk sharply: belief and concern get only indirect support from the implied validity of risk projections, and policy support is further muted (possibly even offset) because a \"markets already handle this\" frame does not push government action. Funding perceptions and scientists' policy role get small positive spillovers (the text depicts scientists as usefully embedded in real-world decision-making), institutional trust is diluted by the federal-government item, and incentivized behaviors move only trivially (a few cents; well under 1pp for sign-up).",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.62,
+        "distrust_post": -1.28,
+        "funding_perceptions": 0.72,
+        "policy_role_mean": 1.05,
+        "inst_trust_mean": 0.58,
+        "belief_post": 0.83,
+        "concern_mean": 0.76,
+        "policy_general": 0.38,
+        "policy_specific_mean": 0.31,
+        "behavior_mean": 0.27,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

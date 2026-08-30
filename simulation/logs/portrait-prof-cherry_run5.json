@@ -1,0 +1,63 @@
+{
+  "condition": "Portrait Prof. Cherry",
+  "run": 5,
+  "timestamp": "2026-08-30T17:39:09.431Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLkA974rbomGaFMytLR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This portrait humanizes Todd Cherry, a climate scientist in Wyoming, emphasizing his football fandom, Rockies ties, and community-focused, practical work rather than ideology—clearly aimed at building warmth and relatability. It stays subtle by downplaying climate change until late, likely nudging trust-related outcomes through narrative rather than argument.\n\nI'm settling on estimates: trust_multidimensional around +1.9, trust_post +1.3, distrust_post -0.9, funding_perceptions +0.5, and policy_role_mean around +1.7 since the text explicitly ties his work to policymakers and interdisciplinary teams shaping workable policy. Other outcomes like belief, concern, and behavior get smaller bumps (+0.3 to +0.6), with donation and newsletter signup effects nearly negligible.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a narrative portrait humanizing an individual climate scientist (Todd Cherry) with conservative-coded, non-ideological cues (Wyoming, football, water/land management, community service, practical policy relevance). Its mechanism is warmth/benevolence and integrity attribution plus reduced perception of climate scientists as ideological activists, which should show up most clearly on the fresh multidimensional trust battery and on the scientists-in-policy items (the text explicitly frames his work as used by decision-makers to make policies workable). Because the text conveys almost no evidence about climate change itself, distal outcomes (belief, concern, policy support, behavior) should barely move, and the pre-post anchoring on trust_post and belief_post further compresses those single-item effects. Narratives get a small immediate warmth advantage (~d 0.1) over dry expository text, so I place trust_multidimensional near the middle-upper part of the expected +0.5 to +3.5 band, but below what evidence-based consensus/source-credibility corrections should achieve. Distrust reduction is modest and asymmetric (skeptics have most headroom but the text is low-intensity). Incentivized behaviors get near-floor values consistent with a few cents and under a percentage point of sign-up.\", \"ates\": {\"trust_multidimensional\": 1.95, \"trust_post\": 1.25, \"distrust_post\": -0.85, \"funding_perceptions\": 0.45, \"policy_role_mean\": 1.65, \"inst_trust_mean\": 0.65, \"belief_post\": 0.45, \"concern_mean\": 0.55, \"policy_general\": 0.5, \"policy_specific_mean\": 0.42, \"behavior_mean\": 0.28, \"donation_ams\": 0.05, \"newsletter_signup\": 0.007}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 689,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1191,
+      "output_tokens_details": {
+        "thinking_tokens": 587
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a narrative portrait humanizing an individual climate scientist (Todd Cherry) with conservative-coded, non-ideological cues (Wyoming, football, water/land management, community service, practical policy relevance). Its mechanism is warmth/benevolence and integrity attribution plus reduced perception of climate scientists as ideological activists, which should show up most clearly on the fresh multidimensional trust battery and on the scientists-in-policy items (the text explicitly frames his work as used by decision-makers to make policies workable). Because the text conveys almost no evidence about climate change itself, distal outcomes (belief, concern, policy support, behavior) should barely move, and the pre-post anchoring on trust_post and belief_post further compresses those single-item effects. Narratives get a small immediate warmth advantage (~d 0.1) over dry expository text, so I place trust_multidimensional near the middle-upper part of the expected +0.5 to +3.5 band, but below what evidence-based consensus/source-credibility corrections should achieve. Distrust reduction is modest and asymmetric (skeptics have most headroom but the text is low-intensity). Incentivized behaviors get near-floor values consistent with a few cents and under a percentage point of sign-up.",
+      "ates": {
+        "trust_multidimensional": 1.95,
+        "trust_post": 1.25,
+        "distrust_post": -0.85,
+        "funding_perceptions": 0.45,
+        "policy_role_mean": 1.65,
+        "inst_trust_mean": 0.65,
+        "belief_post": 0.45,
+        "concern_mean": 0.55,
+        "policy_general": 0.5,
+        "policy_specific_mean": 0.42,
+        "behavior_mean": 0.28,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.007
+      }
+    }
+  }
+}

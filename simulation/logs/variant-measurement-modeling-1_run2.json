@@ -1,0 +1,64 @@
+{
+  "condition": "Measurement & modeling (1)",
+  "run": 2,
+  "timestamp": "2026-08-30T18:18:40.524Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPknWE7pCUYfDaws6SX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This text describes what climate scientists actually do—measurement, modeling, ice cores, satellites—emphasizing competence and rigor. Given typical megastudy patterns, I'd expect a modest positive effect on trust, maybe +2 to +4 points, with smaller downstream effects on belief or concern and near-zero behavioral change, since competence-focused, non-political, evidence-heavy texts tend to work only modestly.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a purely descriptive, apolitical explainer about how climate scientists gather evidence (ice cores, satellites, CO2 observatories) with vivid precision cues ('a single drop of ink in an Olympic-size swimming pool'). Its main mechanism is boosting perceived competence and, secondarily, openness/transparency about methods; it says little about scientists' motives, funding conflicts, or humility, so integrity/benevolence gains should be smaller, diluting the four-subscale primary outcome. Because it never argues for climate risk or policy, downstream belief/concern/policy effects should be a fraction of the trust effect, propagating only weakly through the trust-to-attitude link within a single sitting. trust_post and belief_post are anchored on pre-treatment answers, which mechanically compresses their ATEs relative to the fresh multidimensional battery measured first. Incentivized behaviors (real dollars, real newsletter sign-up) are notoriously inelastic to a single reading, so I put those at near-zero with slight positive tilt, with a small extra nudge for the AMS donation given the text's meteorological-measurement framing. I calibrated magnitudes to typical single-exposure information interventions in climate/science-trust megastudies: primary trust effects of roughly 2-4 points, distrust reductions somewhat smaller in absolute value, and policy/behavior effects under ~1.5 points.\", \"ates\": {\"trust_multidimensional\": 2.9, \"trust_post\": 2.0, \"distrust_post\": -1.4, \"funding_perceptions\": 1.6, \"policy_role_mean\": 2.0, \"inst_trust_mean\": 1.5, \"belief_post\": 1.2, \"concern_mean\": 1.3, \"policy_general\": 1.0, \"policy_specific_mean\": 0.8, \"behavior_mean\": 0.6, \"donation_ams\": 0.09, \"newsletter_signup\": 0.006}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 997,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1279,
+      "output_tokens_details": {
+        "thinking_tokens": 625
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a purely descriptive, apolitical explainer about how climate scientists gather evidence (ice cores, satellites, CO2 observatories) with vivid precision cues ('a single drop of ink in an Olympic-size swimming pool'). Its main mechanism is boosting perceived competence and, secondarily, openness/transparency about methods; it says little about scientists' motives, funding conflicts, or humility, so integrity/benevolence gains should be smaller, diluting the four-subscale primary outcome. Because it never argues for climate risk or policy, downstream belief/concern/policy effects should be a fraction of the trust effect, propagating only weakly through the trust-to-attitude link within a single sitting. trust_post and belief_post are anchored on pre-treatment answers, which mechanically compresses their ATEs relative to the fresh multidimensional battery measured first. Incentivized behaviors (real dollars, real newsletter sign-up) are notoriously inelastic to a single reading, so I put those at near-zero with slight positive tilt, with a small extra nudge for the AMS donation given the text's meteorological-measurement framing. I calibrated magnitudes to typical single-exposure information interventions in climate/science-trust megastudies: primary trust effects of roughly 2-4 points, distrust reductions somewhat smaller in absolute value, and policy/behavior effects under ~1.5 points.",
+      "ates": {
+        "trust_multidimensional": 2.9,
+        "trust_post": 2,
+        "distrust_post": -1.4,
+        "funding_perceptions": 1.6,
+        "policy_role_mean": 2,
+        "inst_trust_mean": 1.5,
+        "belief_post": 1.2,
+        "concern_mean": 1.3,
+        "policy_general": 1,
+        "policy_specific_mean": 0.8,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.09,
+        "newsletter_signup": 0.006
+      }
+    }
+  }
+}

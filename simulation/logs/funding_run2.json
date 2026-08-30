@@ -1,0 +1,63 @@
+{
+  "condition": "Funding",
+  "run": 2,
+  "timestamp": "2026-08-30T17:37:28.977Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLcB7RSYMk8Mh3Gg3Hb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This \"Funding\" intervention uses self-persuasion and interactive misconception-correction to address suspicions about climate scientists' financial motives, drawing on value affirmation around fairness and transparency to target the integrity/benevolence dimension of trust. It's likely one of the stronger arms since it directly confronts a common skeptic argument with corrective sourcing, though explicitly raising the accusation risks priming suspicion rather than dispelling it.\n\nFor funding_perceptions, since the intervention directly argues research funding is small relative to other spending areas, I'd expect this to meaningfully shift perceptions toward \"too little,\" maybe around +3.5 to +4.5, though partisan anchoring and the large SD on this measure (~30) makes precision hard—I'll estimate roughly +3.8. On trust_multidimensional, this feels like a well-targeted integrity-focused intervention given its interactive format.\n\nFor the remaining outcomes, I'm estimating modest positive shifts across the board: trust_post around +1.7 given single-item anchoring, distrust_post around -1.8, and policy_role_mean near +0.3 since the message's emphasis on scientists providing data while policymakers decide could offset gains in \"communicate findings\" support with slight declines in \"advocate\" support. Institutional trust looks like roughly +0.8-0.9, tempered by the mention of the Trump administration canceling the National Climate Assessment which could dent federal trust specifically, while belief_post, concern_mean, and policy_general all land in the +0.6 to +0.8 range as more distal, anchored outcomes.\n\nRounding out the finalized effect sizes: donation to AMS at +0.08 given the underfunding argument could nudge giving slightly, newsletter signup at a tiny +0.009, and behavior_mean around +0.4, with policy_specific_mean settling near +0.6 to match the general policy shift.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm works via value-affirmation (fairness/transparency) plus interactive misconception correction: respondents state their prior beliefs about climate-science funding and then receive concrete, sourced corrections showing salaries are ordinary, NCA authors volunteer, and both public and private climate-research funding is small relative to biomedical research. The mechanism targets the integrity/self-interest ('paid to push an agenda') dimension of distrust, which is the most common skeptic objection, so I place it slightly above the average arm on multidimensional trust (~2.4 points, d≈0.10) and somewhat lower on the pre-anchored single trust and distrust items. Its most proximal non-trust outcome is funding_perceptions, which the text directly argues (climate research is underfunded relative to other domains), so I forecast the largest effect there (~3.9 points on a high-variance item), tempered by partisan stability. The closing frame — science informs but policymakers decide, science isn't a tool to justify policies — cuts against the advocacy items, so policy_role_mean is near zero, and general/specific policy support and concern get only small positive spillovers (<1 point). Institutional trust is diluted by the federal-government item (and the text notes the administration cancelled the National Climate Assessment), so ~0.9. Incentivized outcomes shrink drastically: a few cents extra to the AMS (funding-scarcity framing is mildly donation-relevant) and under a percentage point on newsletter sign-up.\",\"ates\":{\"trust_multidimensional\":2.4,\"trust_post\":1.8,\"distrust_post\":-1.7,\"funding_perceptions\":3.9,\"policy_role_mean\":0.4,\"inst_trust_mean\":0.9,\"belief_post\":0.6,\"concern_mean\":0.8,\"policy_general\":0.7,\"policy_specific_mean\":0.6,\"behavior_mean\":0.4,\"donation_ams\":0.08,\"newsletter_signup\":0.009}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1628,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1840,
+      "output_tokens_details": {
+        "thinking_tokens": 1179
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm works via value-affirmation (fairness/transparency) plus interactive misconception correction: respondents state their prior beliefs about climate-science funding and then receive concrete, sourced corrections showing salaries are ordinary, NCA authors volunteer, and both public and private climate-research funding is small relative to biomedical research. The mechanism targets the integrity/self-interest ('paid to push an agenda') dimension of distrust, which is the most common skeptic objection, so I place it slightly above the average arm on multidimensional trust (~2.4 points, d≈0.10) and somewhat lower on the pre-anchored single trust and distrust items. Its most proximal non-trust outcome is funding_perceptions, which the text directly argues (climate research is underfunded relative to other domains), so I forecast the largest effect there (~3.9 points on a high-variance item), tempered by partisan stability. The closing frame — science informs but policymakers decide, science isn't a tool to justify policies — cuts against the advocacy items, so policy_role_mean is near zero, and general/specific policy support and concern get only small positive spillovers (<1 point). Institutional trust is diluted by the federal-government item (and the text notes the administration cancelled the National Climate Assessment), so ~0.9. Incentivized outcomes shrink drastically: a few cents extra to the AMS (funding-scarcity framing is mildly donation-relevant) and under a percentage point on newsletter sign-up.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 1.8,
+        "distrust_post": -1.7,
+        "funding_perceptions": 3.9,
+        "policy_role_mean": 0.4,
+        "inst_trust_mean": 0.9,
+        "belief_post": 0.6,
+        "concern_mean": 0.8,
+        "policy_general": 0.7,
+        "policy_specific_mean": 0.6,
+        "behavior_mean": 0.4,
+        "donation_ams": 0.08,
+        "newsletter_signup": 0.009
+      }
+    }
+  }
+}

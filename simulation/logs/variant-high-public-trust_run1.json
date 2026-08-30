@@ -1,0 +1,64 @@
+{
+  "condition": "High public trust",
+  "run": 1,
+  "timestamp": "2026-08-30T18:18:49.578Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPm5VgcFKE9iuwtzqHU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is a social norms intervention showing people that 76% of Americans trust climate scientists at least somewhat, likely correcting an underestimation bias. I'm recalling that similar descriptive-norm corrections in climate research tend to shift perceived norms substantially but produce only modest changes (roughly 1-4 points on 100-point scales) in actual trust or attitudes.\n\nI'm settling on modest positive estimates across the board: trust measures around +2, secondary outcomes like funding perceptions, institutional trust, and policy support in the +0.6 to +1.0 range, with tiny effects on donation and newsletter behavior. I'm weighing the possibility of backfire from polarization skepticism but leaning toward the Pew-sourced, quantitative framing being broadly credible enough to avoid backlash, keeping my final numbers conservative and modest overall.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This is a descriptive-norm correction with interactive misperception feedback: respondents first guess the share of Americans trusting climate scientists (most will guess well below 76%, given perceived polarization), then receive a credible Pew-sourced correction plus a 'shared values' frame. Mechanisms are conformity/social proof and a credibility inference ('if most people trust them, they are probably trustworthy'), which act most directly on the trust items — particularly trust_post, which is worded almost identically to the norm statement. Norm-correction studies typically produce large shifts in perceived norms but only modest shifts in personal attitudes (roughly 1–3 points on 100-point scales), and downstream belief/concern/policy items are further attenuated because belief and concern are strongly crystallized and anchored on pre-treatment answers. Some conservatives may find the 76% figure implausible or react against a perceived consensus cue, capping the average effect; hence I center trust effects near +2, distrust slightly negative, secondary attitudes under +1.5, self-reported behavior smaller still, and incentivized behaviors (donation, newsletter) at near-zero fractions.\", \"ates\": {\"trust_multidimensional\": 1.9, \"trust_post\": 2.3, \"distrust_post\": -1.3, \"funding_perceptions\": 0.8, \"policy_role_mean\": 1.1, \"inst_trust_mean\": 1.1, \"belief_post\": 0.8, \"concern_mean\": 0.9, \"policy_general\": 1.0, \"policy_specific_mean\": 0.8, \"behavior_mean\": 0.6, \"donation_ams\": 0.05, \"newsletter_signup\": 0.005}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 421,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1610,
+      "output_tokens_details": {
+        "thinking_tokens": 1046
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This is a descriptive-norm correction with interactive misperception feedback: respondents first guess the share of Americans trusting climate scientists (most will guess well below 76%, given perceived polarization), then receive a credible Pew-sourced correction plus a 'shared values' frame. Mechanisms are conformity/social proof and a credibility inference ('if most people trust them, they are probably trustworthy'), which act most directly on the trust items — particularly trust_post, which is worded almost identically to the norm statement. Norm-correction studies typically produce large shifts in perceived norms but only modest shifts in personal attitudes (roughly 1–3 points on 100-point scales), and downstream belief/concern/policy items are further attenuated because belief and concern are strongly crystallized and anchored on pre-treatment answers. Some conservatives may find the 76% figure implausible or react against a perceived consensus cue, capping the average effect; hence I center trust effects near +2, distrust slightly negative, secondary attitudes under +1.5, self-reported behavior smaller still, and incentivized behaviors (donation, newsletter) at near-zero fractions.",
+      "ates": {
+        "trust_multidimensional": 1.9,
+        "trust_post": 2.3,
+        "distrust_post": -1.3,
+        "funding_perceptions": 0.8,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 1.1,
+        "belief_post": 0.8,
+        "concern_mean": 0.9,
+        "policy_general": 1,
+        "policy_specific_mean": 0.8,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.05,
+        "newsletter_signup": 0.005
+      }
+    }
+  }
+}

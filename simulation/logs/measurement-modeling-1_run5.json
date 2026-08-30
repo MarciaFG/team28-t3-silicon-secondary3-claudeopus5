@@ -1,0 +1,63 @@
+{
+  "condition": "Measurement & modeling (1)",
+  "run": 5,
+  "timestamp": "2026-08-30T17:38:02.517Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLezDfMw4Fcm4V1uwN9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This arm explains how climate science works methodologically—ice cores, volcanic ash fingerprints, OCO-2 satellite data—which should boost perceived competence and rigor more than openness or integrity. It's engaging but dry and lengthy, so I'd estimate a moderate positive trust effect, roughly +2.0, driven mainly by the competence subscale, consistent with literature showing process-transparency messages modestly increase trust.\n\nGiven this is the multidimensional battery, I'm estimating +2.0-2.5 overall, with smaller downstream effects: trust_post +1.3, distrust_post -1.0, funding_perceptions +1.0 (weak mention of research informing assessments), policy_role_mean +0.8 (findings guide global efforts), inst_trust_mean +1.0 (diluted NASA mention), belief_post +0.9, concern_mean +0.7 (heatwaves/droughts/flooding), policy_general +0.5, policy_specific_mean +0.4, behavior_mean +0.3, donation_ams +0.06 (thematic congruence with a meteorological society), newsletter_signup +0.008. Since this appears to be one of several \"measurement & modeling\" variants and is fairly comprehensive and competence-focused, I'll lean generous and set trust_multidimensional to 2.4.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a detailed, vivid explanation of how climate science is actually done — ice cores dated by volcanic ash fingerprints, isotopic thermometry, satellite CO2 monitoring with the 'drop of ink in an Olympic pool' analogy. Its primary mechanism is competence/rigor: it makes the epistemic basis of climate knowledge concrete, which should lift the competence and (via transparency about methods) openness subscales more than benevolence or integrity, yielding a solid but not exceptional primary-outcome effect (~+2.3 on the fresh multidimensional battery). The re-asked single trust item is anchored by pre-treatment measurement, so I shrink it to about +1.4, with distrust falling somewhat less in absolute terms (asymmetric, skeptics' distrust is stickier). Because the text implicitly showcases the value and infrastructure of research (NASA's OCO-2, observatory networks, international assessments), I allow modest positive spillover to funding perceptions and institutional trust, and a small belief bump from the paleoclimate/CO2 evidence. Concern, policy and behavior outcomes are distal — the text is descriptive and non-alarming, barely mentioning impacts — so those stay well under 1 point, and incentivized outcomes get only a few cents / under a percentage point, with a slight edge for the AMS donation given the meteorological-measurement congruence.\", \"ates\": {\"trust_multidimensional\": 2.3, \"trust_post\": 1.4, \"distrust_post\": -1.05, \"funding_perceptions\": 1.15, \"policy_role_mean\": 0.9, \"inst_trust_mean\": 1.1, \"belief_post\": 0.95, \"concern_mean\": 0.6, \"policy_general\": 0.5, \"policy_specific_mean\": 0.4, \"behavior_mean\": 0.28, \"donation_ams\": 0.07, \"newsletter_signup\": 0.009}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 997,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1412,
+      "output_tokens_details": {
+        "thinking_tokens": 759
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a detailed, vivid explanation of how climate science is actually done — ice cores dated by volcanic ash fingerprints, isotopic thermometry, satellite CO2 monitoring with the 'drop of ink in an Olympic pool' analogy. Its primary mechanism is competence/rigor: it makes the epistemic basis of climate knowledge concrete, which should lift the competence and (via transparency about methods) openness subscales more than benevolence or integrity, yielding a solid but not exceptional primary-outcome effect (~+2.3 on the fresh multidimensional battery). The re-asked single trust item is anchored by pre-treatment measurement, so I shrink it to about +1.4, with distrust falling somewhat less in absolute terms (asymmetric, skeptics' distrust is stickier). Because the text implicitly showcases the value and infrastructure of research (NASA's OCO-2, observatory networks, international assessments), I allow modest positive spillover to funding perceptions and institutional trust, and a small belief bump from the paleoclimate/CO2 evidence. Concern, policy and behavior outcomes are distal — the text is descriptive and non-alarming, barely mentioning impacts — so those stay well under 1 point, and incentivized outcomes get only a few cents / under a percentage point, with a slight edge for the AMS donation given the meteorological-measurement congruence.",
+      "ates": {
+        "trust_multidimensional": 2.3,
+        "trust_post": 1.4,
+        "distrust_post": -1.05,
+        "funding_perceptions": 1.15,
+        "policy_role_mean": 0.9,
+        "inst_trust_mean": 1.1,
+        "belief_post": 0.95,
+        "concern_mean": 0.6,
+        "policy_general": 0.5,
+        "policy_specific_mean": 0.4,
+        "behavior_mean": 0.28,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.009
+      }
+    }
+  }
+}

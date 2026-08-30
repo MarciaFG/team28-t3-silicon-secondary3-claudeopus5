@@ -1,0 +1,63 @@
+{
+  "condition": "Model accuracy",
+  "run": 2,
+  "timestamp": "2026-08-30T17:39:11.822Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLkKPyQQcqC57SBsEFu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention counters the \"models can't predict\" skepticism by appealing to scientific track record, which is evidence-based and counter-attitudinal but fairly dry and technical. It mainly targets the competence subscale of trust, likely with some spillover to integrity, so I'd estimate moderate overall gains—competence up 3-4 points, other subscales up around 1-1.5, averaging roughly +2.0.\n\nI'm now assigning specific values across the outcome measures: trust_post +1.4, distrust_post -1.1, funding_perceptions +0.8, policy_role_mean +1.0, inst_trust_mean +0.7, belief_post +1.2, concern_mean +0.9, policy_general +0.7, policy_specific_mean +0.5, behavior_mean +0.35, donation_ams +0.07 (slightly boosted since AMS ties directly to model accuracy), and newsletter_signup +0.008.\n\n",
+        "signature": "CAIS4AoKjgEIERgCKkAzDwCNIeUbhVoMWSVQoNbFokTEx7DRPKFrBn94CcTnzcey1wa7LoE9DJYJ1TAaE+ui7o2yK2ty2cZhgOJhLSAWMg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAbnV0dQGEgwQH9mtcGeg7dnoq6gaDGoQj/UwwwZt3xLRYSIwhqKhUDs4dRXuVSdo5zE05W3OHwu9iwhj0bs7ce/lXpNcJjiy8/ny2vcc4dwCPBz3Kv4Ixtr3vG6IVIAKL3SLI1FEELMi0S7/XfaZdqsz9FmbjWhH4bcw7CW8247oMi5HehoLfYwZzl3PLdhfKVwuLV01ZWkX5DMktIJVo0iDx+Wn/TIVhqIXm9qdhq/d0KnF0fz/JdhNIsbMBBO/7FTsK/hL1au7FjXV7ue8q3m6s1KHBqfDuXj94uvh6zn3cLjykad/WC+Hdsh8T5dhJKfSRt4VcKR7Cn5mtkLnjvCZ2+V3lji9D2B9H4NF4q8KG6WKEwor3KEdSKT2cszJRpgX5pByYzzE1qMRGbOFos9RB976sUNkiS40itx08E6vuC35ADgcS49c27usF/pnMNC7A1Q2krKuT+E5/d78ee3jqpvtKZpGTFxvyLz/IA3UM7GwnwOoLxgCjx7+UcNcjFpV7vhqZgYilGt0aKzbn2EK86eNOcJhcffL9e9XddWEXnaFRYMTQuYfxHraYJoUWwurmuvc1bzWA0zt8LfYyO3uUto5gCrJmQjoFJEVazgwQ63N0/dPYDhu0Bsz0KIimfzvL4oKfkZhXR220+DyGSTb1XJGCRX+0ZRqb0z0Y2z6So6aJpGR0DEpAFIdjxn0pOpVZTcqFIKgLwqdlU5VtTqI6/XuerOJt7v/08loGRIWyOANJXLrmEKVBVoKPa3qCSh0Ow7knCWsATE2y+TPXAcez1qjp09oSHdeI9mQx6yYjEKnB6djdASGaymUx/XHyCb4XiTPTDJZ2eeUxu0O6C6iDS9bHbliXvxV+Kq07cQ42delXC9hLwnn/j6yDhmeE7ZID3XQ5XZZheUwlF52rz4Wn/Rm4Eqd/0bvSjI6P20jRKDPQPlFw8jz0CWOMm8ci5SBnNpu/Ql6eEKRL4zGKX66moCjehMM+Lf5pKUZxgvI5CWpKCv07zCgaIfsHcoB7A9sm0JuwBEcV1SFU/Frm7xl5LFOJ+7nkhCE+06AhoAvYhEz6z45bf30S3WGP6UeXOwFK483zm7OO09xOHCzHv1FYRlUBANs5Fd7tjg9YMOwxAnT2c12znm0n9saj6PkIUSGRujmSdWIH5uLu6YJjiqIA6+wpYWjg4E10Dvpo8PosazsOwmYzHUfIv92hw8/nVUXzFKpJirOY3M/JIRzCMA/UkAbRWL5hxhGMuouU+j+SRuOyCIl/O3l8T7PWyNCmWVsISZOPlJ52oOvgOBVdD7Rn9WWNAvMXg8LKx6udv0cdioe9H50ERykHyOTFg/B3j1fs1y54mpMTDPQKWx0ooYV751Ehx2AUORHAsBuGxUssQnHnjosBjVWemFw1N/TJg/J3A/jJpatsPrqcWrHDFCVTDzgLLT/XCzexPKASyhVFDXPjTz4pxCcMxzLdiI6vnH0Oz5dC/dPcrvhkR1Nui7+gZN1qmVC9NBzFUezCOr7Iz5BAN1gPFQLo4fpryTMq/t55Dzdn2tFfrtom/p6ytvMXT069joEKYwHqc6oGJg7eaPdw/Pu5Aon5M9TPDOMAXx0GVv2Dqqne0TGAd1Pd0Bz6FvP567fPxFsgEc9zFCbhQmFpBgB"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The 'model accuracy' arm is a source-credibility/track-record correction: it explicitly names a common skeptic criticism ('models can't predict the future') and rebuts it with concrete, verifiable evidence (17 forecasts 1970–2001, 0.9 °C observed warming, Montreal Protocol explanation for apparent misses). Its most proximal target is the competence dimension of trust, with secondary spillover to integrity/openness because it concedes imperfection ('models are not perfect'), a candid framing that tends to enhance perceived honesty. It is counter-attitudinal evidence for the initially skeptical, which the digest suggests yields above-average trust movement, but it is fairly dry, technical and non-narrative, and it makes no claim about scientists' motives, funding, or policy — so I place it modestly above the mid-range of the 16 arms on multidimensional trust (~+2 points, d≈0.09) rather than at the top. The re-asked single items (trust_post, belief_post) are shrunk relative to the fresh battery due to within-survey anchoring, and distrust is given a smaller-magnitude negative effect since distrust items are stickier. Downstream outcomes are ordered trust > scientist role/funding attitudes > belief/concern > general/specific policy > behavioral intentions, with incentivized outcomes at a few cents and under one percentage point; the AMS donation gets a marginally larger nudge than average because a meteorological society is topically congruent with forecasting accuracy.\", \"ates\": {\"trust_multidimensional\": 2.05, \"trust_post\": 1.35, \"distrust_post\": -1.05, \"funding_perceptions\": 0.85, \"policy_role_mean\": 1.05, \"inst_trust_mean\": 0.72, \"belief_post\": 1.25, \"concern_mean\": 0.88, \"policy_general\": 0.72, \"policy_specific_mean\": 0.48, \"behavior_mean\": 0.33, \"donation_ams\": 0.07, \"newsletter_signup\": 0.009}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 894,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1134,
+      "output_tokens_details": {
+        "thinking_tokens": 451
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The 'model accuracy' arm is a source-credibility/track-record correction: it explicitly names a common skeptic criticism ('models can't predict the future') and rebuts it with concrete, verifiable evidence (17 forecasts 1970–2001, 0.9 °C observed warming, Montreal Protocol explanation for apparent misses). Its most proximal target is the competence dimension of trust, with secondary spillover to integrity/openness because it concedes imperfection ('models are not perfect'), a candid framing that tends to enhance perceived honesty. It is counter-attitudinal evidence for the initially skeptical, which the digest suggests yields above-average trust movement, but it is fairly dry, technical and non-narrative, and it makes no claim about scientists' motives, funding, or policy — so I place it modestly above the mid-range of the 16 arms on multidimensional trust (~+2 points, d≈0.09) rather than at the top. The re-asked single items (trust_post, belief_post) are shrunk relative to the fresh battery due to within-survey anchoring, and distrust is given a smaller-magnitude negative effect since distrust items are stickier. Downstream outcomes are ordered trust > scientist role/funding attitudes > belief/concern > general/specific policy > behavioral intentions, with incentivized outcomes at a few cents and under one percentage point; the AMS donation gets a marginally larger nudge than average because a meteorological society is topically congruent with forecasting accuracy.",
+      "ates": {
+        "trust_multidimensional": 2.05,
+        "trust_post": 1.35,
+        "distrust_post": -1.05,
+        "funding_perceptions": 0.85,
+        "policy_role_mean": 1.05,
+        "inst_trust_mean": 0.72,
+        "belief_post": 1.25,
+        "concern_mean": 0.88,
+        "policy_general": 0.72,
+        "policy_specific_mean": 0.48,
+        "behavior_mean": 0.33,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.009
+      }
+    }
+  }
+}

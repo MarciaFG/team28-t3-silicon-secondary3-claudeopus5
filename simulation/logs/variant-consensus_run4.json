@@ -1,0 +1,64 @@
+{
+  "condition": "Consensus",
+  "run": 4,
+  "timestamp": "2026-08-30T18:19:57.231Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPrG3L1iHa6CpYXZ3n5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is a consensus messaging intervention with interactive slider estimation and feedback, which the literature shows has modest effects on climate belief but moderate positive effects on trust in scientists. I'm estimating the primary trust outcome effect likely falls around 1-4 points on a 0-100 scale, given this is one of the better-established interventions and the interactive feedback format should enhance its effect.\n\nI'm working through effect sizes for each outcome measure: trust_multidimensional around +2.5, trust_post around +2.2 given anchoring dampens single-item effects, distrust_post around -1.5, funding_perceptions around +1.5, policy_role_mean around +1.5, and inst_trust_mean diluted to around +1.2. For belief_post, I'm noting that classic consensus messaging research shows larger effects on perceived scientific consensus than on personal belief in climate change, so I'm settling on a smaller estimate around +2.0 given the pre-treatment anchoring.\n\nSince most people underestimate the actual scientific consensus, the 99% figure should correct upward and boost perceived consensus even though the intervention honestly acknowledges some disagreement about net-zero timing — this transparency likely helps rather than hurts credibility, aside from possible backlash among conservative respondents which shouldn't move the average much. I'm finalizing secondary outcomes at more modest levels: concern_mean and policy_general around +1.2 to +1.5, policy_specific_mean around +1.0, behavior_mean around +0.6, and tiny effects on the behavioral measures like donation_ams and newsletter_signup.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a well-validated consensus message made interactive: respondents guess scientific agreement, then receive corrective feedback showing 99%/100% agreement on human causation and CO2 physics, plus an honest acknowledgment (66%) that projections of net-zero timing are contested. Because most Americans substantially underestimate the consensus, the feedback is an upward correction for the majority, and the interactive/self-generated element plus the framing of disagreement as scientific honesty should modestly boost perceived competence and integrity/openness. Based on the gateway-belief literature, single-exposure consensus messaging produces small but reliable shifts in perceived consensus and trust (a few points on 0-100 scales), with attenuated downstream effects on belief, concern, and policy, and near-zero effects on incentivized behavior. I calibrated the primary trust ATE at roughly +2 to +3 points, attenuated trust_post and belief_post for pre-treatment anchoring, diluted inst_trust_mean by the federal-government item, and set behavioral outcomes (donation, newsletter) to near-zero with only a whisker of positive signal. Distrust is forecast to fall by somewhat less than trust rises, since distrust items are often stickier and partly identity-driven.\", \"ates\": {\"trust_multidimensional\": 2.4, \"trust_post\": 2.1, \"distrust_post\": -1.5, \"funding_perceptions\": 1.6, \"policy_role_mean\": 1.5, \"inst_trust_mean\": 1.1, \"belief_post\": 1.9, \"concern_mean\": 1.3, \"policy_general\": 1.4, \"policy_specific_mean\": 1.0, \"behavior_mean\": 0.6, \"donation_ams\": 0.07, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1424,
+      "output_tokens_details": {
+        "thinking_tokens": 822
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a well-validated consensus message made interactive: respondents guess scientific agreement, then receive corrective feedback showing 99%/100% agreement on human causation and CO2 physics, plus an honest acknowledgment (66%) that projections of net-zero timing are contested. Because most Americans substantially underestimate the consensus, the feedback is an upward correction for the majority, and the interactive/self-generated element plus the framing of disagreement as scientific honesty should modestly boost perceived competence and integrity/openness. Based on the gateway-belief literature, single-exposure consensus messaging produces small but reliable shifts in perceived consensus and trust (a few points on 0-100 scales), with attenuated downstream effects on belief, concern, and policy, and near-zero effects on incentivized behavior. I calibrated the primary trust ATE at roughly +2 to +3 points, attenuated trust_post and belief_post for pre-treatment anchoring, diluted inst_trust_mean by the federal-government item, and set behavioral outcomes (donation, newsletter) to near-zero with only a whisker of positive signal. Distrust is forecast to fall by somewhat less than trust rises, since distrust items are often stickier and partly identity-driven.",
+      "ates": {
+        "trust_multidimensional": 2.4,
+        "trust_post": 2.1,
+        "distrust_post": -1.5,
+        "funding_perceptions": 1.6,
+        "policy_role_mean": 1.5,
+        "inst_trust_mean": 1.1,
+        "belief_post": 1.9,
+        "concern_mean": 1.3,
+        "policy_general": 1.4,
+        "policy_specific_mean": 1,
+        "behavior_mean": 0.6,
+        "donation_ams": 0.07,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

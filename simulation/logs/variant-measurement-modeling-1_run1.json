@@ -1,0 +1,64 @@
+{
+  "condition": "Measurement & modeling (1)",
+  "run": 1,
+  "timestamp": "2026-08-30T18:18:22.296Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPjJ2wE4m13PwCteKXQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention just describes what climate scientists actually do—measurement, modeling, ice cores, satellites—in a rigorous, non-argumentative way without addressing skepticism or funding concerns directly. This kind of \"explain the process\" framing tends to produce modest positive effects, mainly boosting perceived competence, so I'd estimate a small trust gain of around +1 to +4 points.\n\nGiven the text's length and technical density, offset somewhat by the engaging ink-drop analogy, I'll estimate around +2.5 for multidimensional trust, +2.0 for direct trust, -1.3 for distrust, +1.5 for funding perceptions, +1.5 for perceived policy role, and +1 for institutional trust—since NASA is mentioned and the text ties findings to international assessments guiding global efforts.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a purely descriptive, non-defensive explainer of how climate science is actually done: instrumental records, satellites, ice cores, dating via volcanic ash, CO2 spectroscopy with a vivid 'drop of ink in an Olympic pool' analogy. Its main psychological lever is perceived COMPETENCE/rigor (and secondarily diligence/dedication implying benevolence), so I expect the largest movement on the multidimensional trust index, with smaller spillover to integrity/openness subscales that the text does not directly address (no mention of funding, motives, error correction, or consensus). Single-item trust_post is anchored on a pre-treatment answer, so it should be attenuated relative to the fresh multidimensional battery; distrust is stickier and typically moves less than half as much as trust. Downstream attitudes (belief, concern, policy, behavior) are only indirectly affected via trust and are additionally constrained by strong pre-existing partisan positions and pre-treatment anchoring, so I expect 0.5\\ndash 2 point effects, decaying as outcomes get further from trust and more costly (specific policies, self-reported behavior). Incentivized real behaviors (donation, newsletter) barely move in such studies, so I forecast a few cents and under one percentage point. Overall I treat this as a moderately effective but low-intensity 'competence signaling' text \\\\u2014 above the average filler-equivalent null but well below strong consensus-messaging or personal-testimony arms.\", \"ates\": {\"trust_multidimensional\": 2.7, \"trust_post\": 2.0, \"distrust_post\": -1.2, \"funding_perceptions\": 1.5, \"policy_role_mean\": 1.6, \"inst_trust_mean\": 1.5, \"belief_post\": 1.6, \"concern_mean\": 1.2, \"policy_general\": 1.2, \"policy_specific_mean\": 0.9, \"behavior_mean\": 0.7, \"donation_ams\": 0.06, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 997,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1472,
+      "output_tokens_details": {
+        "thinking_tokens": 790
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a purely descriptive, non-defensive explainer of how climate science is actually done: instrumental records, satellites, ice cores, dating via volcanic ash, CO2 spectroscopy with a vivid 'drop of ink in an Olympic pool' analogy. Its main psychological lever is perceived COMPETENCE/rigor (and secondarily diligence/dedication implying benevolence), so I expect the largest movement on the multidimensional trust index, with smaller spillover to integrity/openness subscales that the text does not directly address (no mention of funding, motives, error correction, or consensus). Single-item trust_post is anchored on a pre-treatment answer, so it should be attenuated relative to the fresh multidimensional battery; distrust is stickier and typically moves less than half as much as trust. Downstream attitudes (belief, concern, policy, behavior) are only indirectly affected via trust and are additionally constrained by strong pre-existing partisan positions and pre-treatment anchoring, so I expect 0.5\ndash 2 point effects, decaying as outcomes get further from trust and more costly (specific policies, self-reported behavior). Incentivized real behaviors (donation, newsletter) barely move in such studies, so I forecast a few cents and under one percentage point. Overall I treat this as a moderately effective but low-intensity 'competence signaling' text \\u2014 above the average filler-equivalent null but well below strong consensus-messaging or personal-testimony arms.",
+      "ates": {
+        "trust_multidimensional": 2.7,
+        "trust_post": 2,
+        "distrust_post": -1.2,
+        "funding_perceptions": 1.5,
+        "policy_role_mean": 1.6,
+        "inst_trust_mean": 1.5,
+        "belief_post": 1.6,
+        "concern_mean": 1.2,
+        "policy_general": 1.2,
+        "policy_specific_mean": 0.9,
+        "behavior_mean": 0.7,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

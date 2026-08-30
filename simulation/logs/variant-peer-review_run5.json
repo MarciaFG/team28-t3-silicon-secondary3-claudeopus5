@@ -1,0 +1,64 @@
+{
+  "condition": "Peer-review",
+  "run": 5,
+  "timestamp": "2026-08-30T18:19:25.777Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPpHyby7yMKX4gxiDPN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This peer-review and accountability framing seems like a modest competence/integrity signal rather than something targeting policy involvement directly. I'd estimate small positive shifts across the board: trust_multidimensional around +2.5, single-item trust_post around +2.0, distrust_post around -1.5, funding_perceptions roughly +1.0, and policy_role_mean only a slight +1.2 since the message doesn't strongly speak to policy engagement.\n\nI'm now sketching out the remaining outcomes—institutional trust dilution, belief anchoring, concern levels, general and specific policy support, behavioral intentions, donation amounts, and newsletter signups—settling on small positive values that decay from the primary trust effect, with donation and signup essentially negligible given typical megastudy magnitudes for a message like this.\n\n",
+        "signature": "CAISvQsKjgEIERgCKkCXzoJZuqgD+ffmPnauOxFilHQEDQFGIf2WxhSgfMED+xhtjt20Ndkx9w7NNZJC0i2pMnZ3dPNG3Xl25T6cu/H0Mg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAafo0dQGEgx4876qKe7shLFquekaDEv2JmOfIYLJRNafPyIwaNUTxOclAqb3oy2FROSSNYyfTcEttAC4frhVbNT0ISBNrrz6q9J8oT7fD5OE7sIVKtsJQgvj+O99m1rYJE/QYlBzdhuuEyphcu4t6ZiaotdffPkTa7Ti2N3caTsNRduxzrjN5QQHANzodBBDGPkb3N04YFuU3U/rMTtyp0LTV9Bg6304RKv6x9RfvUUTIkyGCfNS/SGf2GRVDosr/WdLDJ9yb+PmGEGylHir1n9vhyo9kL9n6/9tOFcZXrPFazPOCaHE+cKuEuqWNuA5c0p3yOu33cdNi3TGYGrIHLalcFHyuTZCMer6TlOnzbUpaTVS3MTnJJ0/HD+nG6yoKZL9iW+EbrlQbqL8bkdwIgFVERsvjZ3vKDvDGIM6bGsMTjMBlu4Bx9YqrazBpMXULaFDgS++1R11KgRQBmkxQ9HkVUErMmWhhn0+by1lzs/gnuN7iOsd4K1ae/CK81MomCv91SrMuhruZKdIeio8EDKS61mvPAZChbDd9KFBfmBR1nVZtEZnKpiTE6fbyxYZcZYuZScPVOJPgFWT71UcmbK/PH9vIdPilwBLs7aiWOd39Rxm4+lLoY336sXnZFdMkB1f/U7s6DoX45aW4qGMyJaH0RfWD4jqwJEKrZk2aYSXWnOfM1POIPb3XodCLmMKmgRqiQVtHHaRrvuz/ZMHMjYet+PtkTmn3RJ9RrowAl/ku2c0QOya32LQKwphKnO7JGrNOKgzCNO+kwfbeAw7uta4onBpuNNPfHwccoQy+seYFxsKmQ9InLICM1DKoknCDhN4pppPQF+1U3EOftPzTwKqPSH+A9LdDxi0JvT8spnF7/KgrY5LXKPdLAeuwJclteYhQBcbl4WwZLwzAgpNMPbEUc/ibgCTEv2UnJOhbU+/D7mSh60r5N6MYLKDNd3MQ2UWvBhkRfFNKCf8MgQsS0gqE3MbCZJVLeLuYp+47AMH2pTZ/sgj1FQU5r3piNlns/H9skEQU8z6wdwIAOVQdEy3JK9a783vJ4Wnr4x5x3yM7Mcjjf7K1PYtllTjLlxTZx+7g62Auc/EH0mj8lM+umqdNJALS1UlfDd0i4hzq0BWjT7HbONPDTBRgWoL4MIjKoPmyhJy4wGuYzbi9f1sXGSyN7BZbL8VBffgXcyKJfLj1aMHXpTEvHf55P9xs7KT1plZYdg3e4M94CTKWbTt6kQpIfOk3/PX5AU1mrV4y0eh9GzRYBvRwecB/b0iB7LlFnTOFIkx/LDbKbk6ONbFkDH5y5KeUQq3p+gT7eUJy4JtbZMyiK1BxLTs+pVytAQal6mRWVP9qhS1Fg1Fz3cL4vCpMtDQoa7f3a4bZqqp4DwOgMeMawy2eycQe/gPlFoLAlUWDcy99SnppQMT32GBPt1unqOFU1Q1+sUZL73yir8TX+2G6zOo34uSa5tpKewpraU6TAY35f36mwp1saVzjXrGs6zKbdxnu4cAGsymx0Igbr6QIiyO2zVB/EWxYHJ3v8jpDJOWRma79cOxhAcybuKkacTpkao9FHq8bOuTmLZDpNYhFQYuSZ34e6LJGUuo7qnWqvE1Qwumrirmgs1CeEFCYLE70mG0em7mCyR6A5L/wY8w9ljPTYPtXQEsTdxcGZibUBfwlXLlDR6wSFL++8Eo9I7jMY6Y642JZHKncZM8EFQTPXYeLLsN1u65Ew4A51+JNLLUT1lLLhOt7z79rmuawQuK8jBt4ztz+Kz7hlTgSBgB"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"The peer-review text is a process/credibility message: it targets perceived competence, integrity, and accountability of climate scientists by framing publication as adversarial vetting by competitors, and closes with consensus framing ('experts across the world consistently reach the same conclusions'). This maps most directly onto the multidimensional trust battery (competence and integrity subscales, somewhat less benevolence/openness), so I expect a modest but real positive effect of a few points on the primary outcome — in line with typical single-exposure reading interventions in trust megastudies (1–4 points), not a transformative shift. Downstream outcomes are progressively more distal and stickier: belief and concern are anchored by pre-treatment measures and by strongly crystallized partisan attitudes, so I shrink effects toward roughly a third to half of the trust effect; policy support and self-reported behavior get less again since the text says nothing about policy or personal action. Distrust typically moves less than trust (asymmetric, and skeptics may read gatekeeping/rejection cues as evidence of an insular clique), so I give a smaller negative magnitude. Institutional trust is diluted by the federal-government item; policy_role_mean is not targeted at all by the message (it is about vetting, not advocacy), so near-zero-to-small. Incentivized behaviors (donation, newsletter) show effects an order of magnitude smaller than attitudes, so I forecast a few cents and well under one percentage point.\", \"ates\": {\"trust_multidimensional\": 2.8, \"trust_post\": 2.1, \"distrust_post\": -1.5, \"funding_perceptions\": 1.1, \"policy_role_mean\": 1.3, \"inst_trust_mean\": 1.2, \"belief_post\": 1.5, \"concern_mean\": 1.1, \"policy_general\": 1.0, \"policy_specific_mean\": 0.8, \"behavior_mean\": 0.5, \"donation_ams\": 0.06, \"newsletter_signup\": 0.006}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 524,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1164,
+      "output_tokens_details": {
+        "thinking_tokens": 502
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "The peer-review text is a process/credibility message: it targets perceived competence, integrity, and accountability of climate scientists by framing publication as adversarial vetting by competitors, and closes with consensus framing ('experts across the world consistently reach the same conclusions'). This maps most directly onto the multidimensional trust battery (competence and integrity subscales, somewhat less benevolence/openness), so I expect a modest but real positive effect of a few points on the primary outcome — in line with typical single-exposure reading interventions in trust megastudies (1–4 points), not a transformative shift. Downstream outcomes are progressively more distal and stickier: belief and concern are anchored by pre-treatment measures and by strongly crystallized partisan attitudes, so I shrink effects toward roughly a third to half of the trust effect; policy support and self-reported behavior get less again since the text says nothing about policy or personal action. Distrust typically moves less than trust (asymmetric, and skeptics may read gatekeeping/rejection cues as evidence of an insular clique), so I give a smaller negative magnitude. Institutional trust is diluted by the federal-government item; policy_role_mean is not targeted at all by the message (it is about vetting, not advocacy), so near-zero-to-small. Incentivized behaviors (donation, newsletter) show effects an order of magnitude smaller than attitudes, so I forecast a few cents and well under one percentage point.",
+      "ates": {
+        "trust_multidimensional": 2.8,
+        "trust_post": 2.1,
+        "distrust_post": -1.5,
+        "funding_perceptions": 1.1,
+        "policy_role_mean": 1.3,
+        "inst_trust_mean": 1.2,
+        "belief_post": 1.5,
+        "concern_mean": 1.1,
+        "policy_general": 1,
+        "policy_specific_mean": 0.8,
+        "behavior_mean": 0.5,
+        "donation_ams": 0.06,
+        "newsletter_signup": 0.006
+      }
+    }
+  }
+}

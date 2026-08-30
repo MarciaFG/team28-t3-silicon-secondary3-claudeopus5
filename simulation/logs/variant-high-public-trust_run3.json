@@ -1,0 +1,64 @@
+{
+  "condition": "High public trust",
+  "run": 3,
+  "timestamp": "2026-08-30T18:19:09.769Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPnoMt1DP3n9kiRLjSd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is a social norms intervention design—informing people that 76% of Americans trust climate scientists, since people tend to underestimate that figure, so correcting the misperception should nudge trust upward. I'm thinking through expected effect sizes from similar megastudies, where such normative feedback interventions typically produce modest gains of a few points on trust measures, drawing on the broader literature around correcting misperceptions of social consensus.\n\nI'll estimate this arm's effects as fairly modest across outcomes: something like +1.5 on multidimensional trust, +1.8 on the direct trust item, -1.2 on distrust, +0.6 on funding perceptions, and +1.0 on policy role support, treating it as a middling-strength arm relative to richer interventions in the study.\n\nAdjusting slightly, I'll settle on trust_post and trust_multidimensional both around +1.6, distrust around -1.0, policy_role_mean around +0.8, and inst_trust_mean around +0.8, with smaller effects trailing off for belief, concern, and policy outcomes (roughly +0.5 to +0.8), and negligible but positive shifts for behavioral measures like donation (+0.04) and newsletter signup (+0.004), given typical base rates for those actions.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm is a descriptive-norm correction: respondents first estimate public trust (most Americans underestimate it, given perceived polarization) and then receive corrective feedback that 76% of Americans trust climate scientists. The mechanism is social proof plus reduced false-polarization perception, which should shift the directly targeted trust measures modestly but has weak downstream logic for beliefs, concern, policy, and behavior (the message says nothing about climate science content, scientists' integrity, or risk). Norm-correction studies in the climate domain (e.g., correcting misperceived public support) typically produce small effects of roughly 1–3 points on 0–100 scales for proximal attitudes and near-zero effects on incentivized behavior; some low-trust respondents may also discount or resist the statistic, attenuating the average. Pre-treatment measurement of trust_post and belief_post creates anchoring that further shrinks those single-item ATEs. I therefore center the primary trust outcome around +1.5 points, distrust around -1 point, secondary attitudes at well under 1 point, and behavioral outcomes at essentially noise-level positive values (a few cents; well under one percentage point on newsletter signup).\",\"ates\":{\"trust_multidimensional\":1.6,\"trust_post\":1.6,\"distrust_post\":-1.0,\"funding_perceptions\":0.6,\"policy_role_mean\":0.9,\"inst_trust_mean\":0.9,\"belief_post\":0.7,\"concern_mean\":0.7,\"policy_general\":0.8,\"policy_specific_mean\":0.6,\"behavior_mean\":0.5,\"donation_ams\":0.04,\"newsletter_signup\":0.004}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 421,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1452,
+      "output_tokens_details": {
+        "thinking_tokens": 885
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a descriptive-norm correction: respondents first estimate public trust (most Americans underestimate it, given perceived polarization) and then receive corrective feedback that 76% of Americans trust climate scientists. The mechanism is social proof plus reduced false-polarization perception, which should shift the directly targeted trust measures modestly but has weak downstream logic for beliefs, concern, policy, and behavior (the message says nothing about climate science content, scientists' integrity, or risk). Norm-correction studies in the climate domain (e.g., correcting misperceived public support) typically produce small effects of roughly 1–3 points on 0–100 scales for proximal attitudes and near-zero effects on incentivized behavior; some low-trust respondents may also discount or resist the statistic, attenuating the average. Pre-treatment measurement of trust_post and belief_post creates anchoring that further shrinks those single-item ATEs. I therefore center the primary trust outcome around +1.5 points, distrust around -1 point, secondary attitudes at well under 1 point, and behavioral outcomes at essentially noise-level positive values (a few cents; well under one percentage point on newsletter signup).",
+      "ates": {
+        "trust_multidimensional": 1.6,
+        "trust_post": 1.6,
+        "distrust_post": -1,
+        "funding_perceptions": 0.6,
+        "policy_role_mean": 0.9,
+        "inst_trust_mean": 0.9,
+        "belief_post": 0.7,
+        "concern_mean": 0.7,
+        "policy_general": 0.8,
+        "policy_specific_mean": 0.6,
+        "behavior_mean": 0.5,
+        "donation_ams": 0.04,
+        "newsletter_signup": 0.004
+      }
+    }
+  }
+}

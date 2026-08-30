@@ -1,0 +1,63 @@
+{
+  "condition": "Portrait Prof. Cherry",
+  "run": 2,
+  "timestamp": "2026-08-30T17:39:08.794Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLk9XQ1ZQHE2gSVwfWi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This portrait humanizes Todd Cherry, a climate scientist in Wyoming, by highlighting relatable details like football and community ties rather than activist framing. The mechanism works through warmth and relatability, softening stereotypes of climate scientists as distant ivory-tower figures, which should modestly boost trust—particularly on benevolence and integrity dimensions.\n\nSince it's a single portrait with the climate-scientist identity revealed late, I expect minimal movement on belief, concern, or policy variables given the absence of direct climate-evidence content. However, the text's emphasis on collaborating with policymakers could nudge policy_role_mean up moderately, while mentions of practical, useful work might lift funding perceptions slightly. I'm settling on modest positive effects across trust and distrust measures, small dilution effects on institutional trust, and near-negligible shifts in donation and newsletter behaviors, with policy_role_mean showing the largest gain among the secondary outcomes.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This is a narrative 'portrait' arm that humanizes a climate scientist through ideologically congruent, non-coastal cues (Wyoming, football, the Rockies, rural water and land-use concerns) and frames his work as practical, collaborative, and community-serving, likening him to engineers and planners. The primary mechanism is warmth/benevolence and integrity attribution plus stereotype disconfirmation — proximal to the multidimensional trust battery (especially benevolence and openness) but offering no new evidence about climate science itself, so belief, concern, and policy support should barely move. Narratives carry a small immediate advantage on trust-adjacent outcomes (d ~0.1), so I place trust_multidimensional near +1.9 points (d ≈ 0.08), with the re-asked single trust item shrunken by pre-measurement anchoring (+1.3) and a somewhat smaller mirrored reduction in distrust (−1.0). Because the text explicitly depicts the scientist working with policymakers and institutions on workable programs, policy_role_mean gets an above-average distal effect (+1.2), and the emphasis on useful, decision-relevant research gives a mild bump to funding_perceptions (+0.7). Institutional trust is diluted by the federal-government item (+0.6); belief, concern, general and specific policy support, and behavioral intentions all sit under half a point; incentivized outcomes are essentially flat (a few cents donated, under one percentage point on sign-ups).\", \"ates\": {\"trust_multidimensional\": 1.9, \"trust_post\": 1.3, \"distrust_post\": -1.0, \"funding_perceptions\": 0.7, \"policy_role_mean\": 1.2, \"inst_trust_mean\": 0.6, \"belief_post\": 0.4, \"concern_mean\": 0.5, \"policy_general\": 0.4, \"policy_specific_mean\": 0.35, \"behavior_mean\": 0.3, \"donation_ams\": 0.04, \"newsletter_signup\": 0.008}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 689,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1217,
+      "output_tokens_details": {
+        "thinking_tokens": 538
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This is a narrative 'portrait' arm that humanizes a climate scientist through ideologically congruent, non-coastal cues (Wyoming, football, the Rockies, rural water and land-use concerns) and frames his work as practical, collaborative, and community-serving, likening him to engineers and planners. The primary mechanism is warmth/benevolence and integrity attribution plus stereotype disconfirmation — proximal to the multidimensional trust battery (especially benevolence and openness) but offering no new evidence about climate science itself, so belief, concern, and policy support should barely move. Narratives carry a small immediate advantage on trust-adjacent outcomes (d ~0.1), so I place trust_multidimensional near +1.9 points (d ≈ 0.08), with the re-asked single trust item shrunken by pre-measurement anchoring (+1.3) and a somewhat smaller mirrored reduction in distrust (−1.0). Because the text explicitly depicts the scientist working with policymakers and institutions on workable programs, policy_role_mean gets an above-average distal effect (+1.2), and the emphasis on useful, decision-relevant research gives a mild bump to funding_perceptions (+0.7). Institutional trust is diluted by the federal-government item (+0.6); belief, concern, general and specific policy support, and behavioral intentions all sit under half a point; incentivized outcomes are essentially flat (a few cents donated, under one percentage point on sign-ups).",
+      "ates": {
+        "trust_multidimensional": 1.9,
+        "trust_post": 1.3,
+        "distrust_post": -1,
+        "funding_perceptions": 0.7,
+        "policy_role_mean": 1.2,
+        "inst_trust_mean": 0.6,
+        "belief_post": 0.4,
+        "concern_mean": 0.5,
+        "policy_general": 0.4,
+        "policy_specific_mean": 0.35,
+        "behavior_mean": 0.3,
+        "donation_ams": 0.04,
+        "newsletter_signup": 0.008
+      }
+    }
+  }
+}

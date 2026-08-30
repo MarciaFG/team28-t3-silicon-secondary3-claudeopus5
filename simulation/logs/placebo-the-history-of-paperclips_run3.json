@@ -1,0 +1,63 @@
+{
+  "condition": "placebo: The History of Paperclips",
+  "run": 3,
+  "timestamp": "2026-08-30T17:46:51.646Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZMLcXYs2CYJnR3GmJo3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is essentially a placebo arm with off-topic filler, so I'd expect the true ATE to be near zero with just small noise. I'll assign small non-round values close to zero, like 0.1 or -0.05, to reflect that.\n\n",
+        "signature": "CAIS5gMKjgEIERgCKkBGz4MvtbqO3OJqdAqRFfhBYh5S7Jm3grruSy4hhumQnxyNDxEMkerqTrd9yjJfkcf9+91CGg0SmaGaOQg6Hez4Mg1jbGF1ZGUtb3B1cy01OAFCCHRoaW5raW5nWiRjODFlMjg2MC0xYmYwLTRjNzAtYjBhNy1mNTFhNjRkNTc3Y2SoAYXZ0dQGEgx01aMM0loP4QkqrQQaDAHuTYBdERZ0TZv/MyIwcx36qaQO/2dyN4O2WWMzwAMneyVA+e7vyMylzin6NxzeZi6ZmpB8obFrFS4tkQmiKoQCUyESk3LFXgpcr8Zkdz8FAW2Bc2PhgQsEEJaOuDcAiGiMdYkABaGha+/QNaHHUkrEQGGdy9lnYEksPlqTqyyaTL9KJn7R+OmBXCX/dPgMlTrzwGYPqh4fEIpFzPrQaNkxlGKvfjZcPrVgQFRvqW+CVKZrgtyOi6a/3lgWarljOZU5Ymo4oWD+RIY7gj9I7fwPFKD1ZKkP1B5Q0rzLz80FUTP4AerGn2iZHaoOh+kXMiZ00mrpJa8gNujl1MFb+PJjdNfBxutt2c/phkJU2QYVbM5H8OXBGvuSrdal7h221BU+o310imG23i82in9NwoeWU8Nj9Bk/17y4ilS7hXKL5nmGaYgYAQ=="
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a second placebo: an off-topic expository text about paperclips, structurally and thematically equivalent to the neutral control fillers (neckties, baseball, dance). It contains no climate content, no scientist messenger, no consensus or funding information, and no affective or identity cues, so there is no plausible mechanism for shifting trust in climate scientists, climate beliefs, policy attitudes, or costly behaviors. The design intent is presumably to verify that filler-text content is interchangeable, so the true ATE should be essentially zero on every outcome; observed values will reflect sampling noise (with n≈500+ vs 1000, SEs of roughly 1.0–1.3 points on 0–100 scales). I therefore forecast tiny magnitudes, well under half a point on attitude scales, a couple of cents at most on donations, and a fraction of a percentage point on newsletter signup. I add only trivially non-zero values with mildly mixed signs rather than exact zeros, reflecting expected noise rather than any substantive prediction, and keep distrust slightly positive-to-flat since a dry, mildly engaging non-climate text could marginally reduce salience-driven trust expression relative to control.\", \"ates\": {\"trust_multidimensional\": 0.11, \"trust_post\": -0.14, \"distrust_post\": 0.09, \"funding_perceptions\": -0.17, \"policy_role_mean\": 0.08, \"inst_trust_mean\": -0.06, \"belief_post\": 0.05, \"concern_mean\": -0.12, \"policy_general\": 0.07, \"policy_specific_mean\": -0.04, \"behavior_mean\": 0.13, \"donation_ams\": -0.017, \"newsletter_signup\": 0.002}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 597,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 675,
+      "output_tokens_details": {
+        "thinking_tokens": 94
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a second placebo: an off-topic expository text about paperclips, structurally and thematically equivalent to the neutral control fillers (neckties, baseball, dance). It contains no climate content, no scientist messenger, no consensus or funding information, and no affective or identity cues, so there is no plausible mechanism for shifting trust in climate scientists, climate beliefs, policy attitudes, or costly behaviors. The design intent is presumably to verify that filler-text content is interchangeable, so the true ATE should be essentially zero on every outcome; observed values will reflect sampling noise (with n≈500+ vs 1000, SEs of roughly 1.0–1.3 points on 0–100 scales). I therefore forecast tiny magnitudes, well under half a point on attitude scales, a couple of cents at most on donations, and a fraction of a percentage point on newsletter signup. I add only trivially non-zero values with mildly mixed signs rather than exact zeros, reflecting expected noise rather than any substantive prediction, and keep distrust slightly positive-to-flat since a dry, mildly engaging non-climate text could marginally reduce salience-driven trust expression relative to control.",
+      "ates": {
+        "trust_multidimensional": 0.11,
+        "trust_post": -0.14,
+        "distrust_post": 0.09,
+        "funding_perceptions": -0.17,
+        "policy_role_mean": 0.08,
+        "inst_trust_mean": -0.06,
+        "belief_post": 0.05,
+        "concern_mean": -0.12,
+        "policy_general": 0.07,
+        "policy_specific_mean": -0.04,
+        "behavior_mean": 0.13,
+        "donation_ams": -0.017,
+        "newsletter_signup": 0.002
+      }
+    }
+  }
+}

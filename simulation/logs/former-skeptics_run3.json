@@ -1,0 +1,63 @@
+{
+  "condition": "Former skeptics",
+  "run": 3,
+  "timestamp": "2026-08-30T17:38:06.001Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZLfCrBSPEsaTZcvBgN9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This is the \"Former skeptics\" arm, using messenger-congruent narratives like a Republican meteorologist or conservative congressman changing their mind after hearing from scientists directly. It's a strong mechanism combining source credibility, narrative, and counter-attitudinal messaging for skeptics, likely producing above-average effects on trust and belief among conservatives—though it's really the messengers' credibility being leveraged, with the scientists' trustworthiness endorsed indirectly through the story.\n\nI'm working through predicted values: trust_multidimensional around +2.5 (one of the stronger arms), trust_post ~1.6, distrust_post ~-1.5, funding_perceptions ~+0.9, policy_role_mean ~+1.0 (ambiguous given the \"science above politics\" framing), inst_trust_mean ~+0.8, belief_post ~+1.3, concern_mean ~+1.2, and policy_general ~+1.1, weighing how Inglis's conservative-solutions framing might dampen or support policy attitudes.\n\nSettling on final non-round estimates: policy_general 0.9, policy_specific_mean 0.8, behavior_mean 0.5, and giving donation_ams a slight boost to 0.08 since the TV meteorologist ties into AMS credibility, with newsletter_signup at 0.013.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\":\"This arm pairs two ideologically congruent messengers (a registered-Republican TV meteorologist and a conservative former congressman) whose conversion narratives explicitly credit climate scientists and physical evidence, and whose framing ('Science Above Politics', conservative solutions without big government) reduces reactance among the skeptical. That combination — messenger congruence plus narrative vividness plus counter-attitudinal testimony — is among the mechanisms with the strongest published support (Benegal & Scruggs; narrative advantage on warmth/integrity), so I place the primary trust effect near the top of the plausible 16-arm distribution (~+2.6 points, d≈0.11) rather than at the modal ~1.5. Re-asked single items (trust_post, belief_post) are shrunk for anchoring/consistency pressure, and distrust moves somewhat less in absolute value than trust because distrust items are stickier and skewed. Belief and concern get modest gains because the ice-core testimony supplies concrete evidence, but policy items are muted since Inglis explicitly disclaims bigger government, cutting against 'government should do more.' Institutional trust is diluted by the federal-government item; behavioral intentions get well under a point, and incentivized outcomes are cents/single percentage points — with the AMS donation nudged slightly upward because the lead narrator is a broadcast meteorologist.\",\"ates\":{\"trust_multidimensional\":2.6,\"trust_post\":1.7,\"distrust_post\":-1.4,\"funding_perceptions\":1.0,\"policy_role_mean\":1.1,\"inst_trust_mean\":0.8,\"belief_post\":1.4,\"concern_mean\":1.2,\"policy_general\":0.9,\"policy_specific_mean\":0.8,\"behavior_mean\":0.55,\"donation_ams\":0.09,\"newsletter_signup\":0.013}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1115,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 6503,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1532,
+      "output_tokens_details": {
+        "thinking_tokens": 901
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm pairs two ideologically congruent messengers (a registered-Republican TV meteorologist and a conservative former congressman) whose conversion narratives explicitly credit climate scientists and physical evidence, and whose framing ('Science Above Politics', conservative solutions without big government) reduces reactance among the skeptical. That combination — messenger congruence plus narrative vividness plus counter-attitudinal testimony — is among the mechanisms with the strongest published support (Benegal & Scruggs; narrative advantage on warmth/integrity), so I place the primary trust effect near the top of the plausible 16-arm distribution (~+2.6 points, d≈0.11) rather than at the modal ~1.5. Re-asked single items (trust_post, belief_post) are shrunk for anchoring/consistency pressure, and distrust moves somewhat less in absolute value than trust because distrust items are stickier and skewed. Belief and concern get modest gains because the ice-core testimony supplies concrete evidence, but policy items are muted since Inglis explicitly disclaims bigger government, cutting against 'government should do more.' Institutional trust is diluted by the federal-government item; behavioral intentions get well under a point, and incentivized outcomes are cents/single percentage points — with the AMS donation nudged slightly upward because the lead narrator is a broadcast meteorologist.",
+      "ates": {
+        "trust_multidimensional": 2.6,
+        "trust_post": 1.7,
+        "distrust_post": -1.4,
+        "funding_perceptions": 1,
+        "policy_role_mean": 1.1,
+        "inst_trust_mean": 0.8,
+        "belief_post": 1.4,
+        "concern_mean": 1.2,
+        "policy_general": 0.9,
+        "policy_specific_mean": 0.8,
+        "behavior_mean": 0.55,
+        "donation_ams": 0.09,
+        "newsletter_signup": 0.013
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "condition": "Extreme weather predictions",
+  "run": 4,
+  "timestamp": "2026-08-30T18:20:42.872Z",
+  "request": {
+    "model": "claude-opus-5",
+    "effort": "xhigh",
+    "max_tokens": 16000,
+    "variant": true
+  },
+  "response": {
+    "model": "claude-opus-5",
+    "id": "msg_011CeZPub2RFv22VDpeYDSoC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "thinking",
+        "thinking": "This intervention leans on climate scientists' benevolence and competence, framing them as protectors through early warning systems tied to local risks. Given its concrete, personally relevant, non-partisan framing around saving lives and practical benefits, I'd expect it to be a fairly strong trust-booster, likely landing above the typical 2-4 point range seen in these megastudies.\n\nI'm now working through calibrated estimates: trust_multidimensional around +3.0, trust_post around +2.0, distrust_post around -1.5, funding_perceptions around +2.0 since federal research is shown producing tangible benefits, policy_role_mean around +2.5 for normalizing scientist-policymaker collaboration, and inst_trust_mean around +2.0 given mentions of NOAA, NASA, NWS, and universities.\n\nContinuing down the list, I'm estimating belief_post around +0.8 since causation isn't strongly argued, concern_mean around +1.5 for local threat emphasis, policy_general around +1.0, policy_specific_mean around +1.0, behavior_mean around +0.7, and donation_ams slightly boosted to +0.12 given the strong alignment between this scenario and the American Meteorological Society's mission, with newsletter_signup barely moving at +0.01.\n\n",
+        "signature": "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"
+      },
+      {
+        "type": "text",
+        "text": "{\"reasoning_summary\": \"This arm is a benevolence/competence-boosting narrative: it depicts climate scientists as practically useful public servants who work with forecasters and emergency managers to protect the participant's own community from locally salient hazards. That framing is concrete, non-ideological, and personally relevant, so it should be one of the stronger trust movers in the megastudy — but the mechanism is warm-glow reframing rather than argument, and reading a single 1–3 minute text rarely shifts entrenched attitudes much. I therefore put the primary multidimensional trust ATE around +3 points (largest because it is measured first and taps benevolence/competence directly), with the single-item trust/distrust measures attenuated by pre-treatment anchoring (~+2 and −1.5). Because the text showcases federally funded agencies (NOAA, NASA, NWS, universities) collaborating with policymakers and city planners, institutional trust, policy-role endorsement, and support for research funding should move modestly (+2 to +2.5). Downstream belief, concern, policy support, and behavior are much further from the manipulation — the text is about adaptation/warnings rather than attribution or mitigation — so I forecast under +1.5 for those and near-zero for the incentivized behaviors, with a very slight bump in AMS donations given the meteorology-aligned content.\", \"ates\": {\"trust_multidimensional\": 3.0, \"trust_post\": 2.0, \"distrust_post\": -1.4, \"funding_perceptions\": 1.9, \"policy_role_mean\": 2.4, \"inst_trust_mean\": 2.0, \"belief_post\": 0.9, \"concern_mean\": 1.6, \"policy_general\": 1.1, \"policy_specific_mean\": 0.9, \"behavior_mean\": 0.7, \"donation_ams\": 0.12, \"newsletter_signup\": 0.011}}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4096,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 4570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1427,
+      "output_tokens_details": {
+        "thinking_tokens": 807
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "parsed_output": {
+      "reasoning_summary": "This arm is a benevolence/competence-boosting narrative: it depicts climate scientists as practically useful public servants who work with forecasters and emergency managers to protect the participant's own community from locally salient hazards. That framing is concrete, non-ideological, and personally relevant, so it should be one of the stronger trust movers in the megastudy — but the mechanism is warm-glow reframing rather than argument, and reading a single 1–3 minute text rarely shifts entrenched attitudes much. I therefore put the primary multidimensional trust ATE around +3 points (largest because it is measured first and taps benevolence/competence directly), with the single-item trust/distrust measures attenuated by pre-treatment anchoring (~+2 and −1.5). Because the text showcases federally funded agencies (NOAA, NASA, NWS, universities) collaborating with policymakers and city planners, institutional trust, policy-role endorsement, and support for research funding should move modestly (+2 to +2.5). Downstream belief, concern, policy support, and behavior are much further from the manipulation — the text is about adaptation/warnings rather than attribution or mitigation — so I forecast under +1.5 for those and near-zero for the incentivized behaviors, with a very slight bump in AMS donations given the meteorology-aligned content.",
+      "ates": {
+        "trust_multidimensional": 3,
+        "trust_post": 2,
+        "distrust_post": -1.4,
+        "funding_perceptions": 1.9,
+        "policy_role_mean": 2.4,
+        "inst_trust_mean": 2,
+        "belief_post": 0.9,
+        "concern_mean": 1.6,
+        "policy_general": 1.1,
+        "policy_specific_mean": 0.9,
+        "behavior_mean": 0.7,
+        "donation_ams": 0.12,
+        "newsletter_signup": 0.011
+      }
+    }
+  }
+}
