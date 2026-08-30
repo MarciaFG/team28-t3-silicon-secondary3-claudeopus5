@@ -1,0 +1,5 @@
+# The prediction files are fingerprinted byte-for-byte (SHA-256 in
+# metadata.json). Disable EOL conversion so every checkout reproduces the
+# exact fingerprinted bytes.
+*.csv -text
+*.json -text
