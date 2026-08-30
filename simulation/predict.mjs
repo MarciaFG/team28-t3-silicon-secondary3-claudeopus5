@@ -6,8 +6,9 @@
 // submits the per-outcome median. Every raw API response is archived under
 // simulation/logs/ (registration item K.2).
 //
-// Prompts and the benchmark spec live in prompts.mjs, shared verbatim with the
-// OpenAI runner (predict_openai.mjs) used for the secondary multi-model entry.
+// Prompts and the benchmark spec live in prompts.mjs. The same module drives,
+// byte-identically, the OpenAI runner of our team's separate GPT-5 entry
+// (deposited in its own repository).
 //
 // Usage:
 //   node predict.mjs [--samples 5] [--effort xhigh] [--only "Consensus"] [--dry]
