@@ -193,17 +193,24 @@ sections (B) once per model. See the call's *Disclosure policy* for escrow rules
   i.e. summary statistics from the literature, not datasets. No data from this study,
   including pilots, was used in any form; no web search runs at prediction time.
 - **I.3 Blinding attestation ★** — **mandatory.** Signed attestation that no team member accessed, solicited, or was shown any human outcome data from this study, including pilots, before the prediction lock:
-  [TEAM TO CONFIRM AND SIGN] We attest that no team member accessed, solicited, or was shown
-  any human outcome data from this study, including pilots, before the prediction lock.
+  [TEAM TO CONFIRM AND SIGN] We attest that no team member accessed or solicited any human
+  outcome data from this study, including pilots, before the prediction lock, and that no
+  such data informed this entry in any way. One passive exposure is disclosed: Max Pellert
+  attended one of the three academic talks at which preliminary results were presented (see
+  I.4 and the team's signed exposure declaration); he did not share any outcome information
+  with the team, and none of it entered this entry's design, prompts, or calibration.
   — Farah Adeeba, Jing Ma, Marcia Ferreira, Max Pellert, August 2026.
 - **I.4 Contamination note †** — training cutoff of every model vs public release dates of this project's materials; note any known exposure:
   `claude-opus-5` has a training cutoff in early 2026 (per provider documentation). The
   benchmark's public materials (survey instrument, stimulus texts, submission template) were
   published on GitHub in 2026 and could in principle overlap with the model's training data;
   however, the human outcome data remain sealed and have never been public, so no outcome
-  contamination is possible. Preliminary results were presented at three academic talks (see
-  the exposure declaration submitted with the deposit email); no team member attended them.
-  [TEAM TO CONFIRM the last clause — it must match the signed exposure declaration.]
+  contamination is possible through the model. Preliminary results were presented at three
+  academic talks: one team member (Max Pellert) attended one of them, a passive exposure that
+  is declared in the team's signed exposure declaration submitted with the deposit email
+  (per the benchmark's rules this is declared, not disqualifying). No other member had any
+  exposure through any channel, and no information from that talk was shared within the team
+  or used in this entry.
 
 ## J · Internal selection procedure
 - **J.1 Design-space search †** — how the final pipeline was chosen: how many configurations tried, internal validation criterion, what data it ran against:
