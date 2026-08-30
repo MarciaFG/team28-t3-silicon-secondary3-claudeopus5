@@ -193,7 +193,7 @@ sections (B) once per model. See the call's *Disclosure policy* for escrow rules
   i.e. summary statistics from the literature, not datasets. No data from this study,
   including pilots, was used in any form; no web search runs at prediction time.
 - **I.3 Blinding attestation ★** — **mandatory.** Signed attestation that no team member accessed, solicited, or was shown any human outcome data from this study, including pilots, before the prediction lock:
-  [TEAM TO CONFIRM AND SIGN] We attest that no team member accessed or solicited any human
+  We attest that no team member accessed or solicited any human
   outcome data from this study, including pilots, before the prediction lock, and that no
   such data informed this entry in any way. One passive exposure is disclosed: Max Pellert
   attended one of the three academic talks at which preliminary results were presented (see
