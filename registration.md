@@ -182,9 +182,12 @@ sections (B) once per model. See the call's *Disclosure policy* for escrow rules
 
 ## I · Data inputs, blinding, and competing interests
 - **I.1 Competing interests ★** — funding, in-kind compute/model access, relationships with LLM-interested entities:
-  [TEAM TO CONFIRM] No funding or in-kind support from LLM vendors for this work; API costs
-  self-funded. Team members are employed by Graphwise, the University of Konstanz, and the
-  Barcelona Supercomputing Center; none of these entities directed or funded this submission.
+  No team member has any competing interest to disclose. API costs for this entry were paid
+  personally by Marcia Ferreira; no financial or in-kind support from LLM-interested entities
+  was received for this work (Max Pellert's in-kind MareNostrum 5 compute allocation,
+  disclosed in our Tier-1 entry, was not used here). Team members are employed by Graphwise,
+  the University of Konstanz, and the Barcelona Supercomputing Center; none of these entities
+  directed or funded this submission.
 - **I.2 External human data †** — all external human datasets that informed the approach anywhere (training/fine-tuning/retrieval/ICL/calibration):
   No external human dataset was directly used in the pipeline (no fine-tuning, no retrieval,
   no raw data in context). The system prompt embeds a hand-curated digest of published,
@@ -196,9 +199,12 @@ sections (B) once per model. See the call's *Disclosure policy* for escrow rules
   We attest that no team member accessed or solicited any human
   outcome data from this study, including pilots, before the prediction lock, and that no
   such data informed this entry in any way. One passive exposure is disclosed: Max Pellert
-  attended one of the three academic talks at which preliminary results were presented (see
-  I.4 and the team's signed exposure declaration); he did not share any outcome information
-  with the team, and none of it entered this entry's design, prompts, or calibration.
+  attended a 5-minute talk on preliminary results at the Behavioral Clones workshop (Max
+  Planck Institute for Human Development, Berlin, May 2026), confirmed with the benchmark
+  organizers (J. Pfänder, 20 Aug 2026). No specific results, effect sizes, or outcomes were
+  retained; no outcome information was shared within the team; nothing from that talk entered
+  this entry's design, prompts, or calibration. No other team member was exposed (see I.4 and
+  the team's signed exposure declaration).
   — Farah Adeeba, Jing Ma, Marcia Ferreira, Max Pellert, August 2026.
 - **I.4 Contamination note †** — training cutoff of every model vs public release dates of this project's materials; note any known exposure:
   `claude-opus-5` has a training cutoff in early 2026 (per provider documentation). The
@@ -206,11 +212,12 @@ sections (B) once per model. See the call's *Disclosure policy* for escrow rules
   published on GitHub in 2026 and could in principle overlap with the model's training data;
   however, the human outcome data remain sealed and have never been public, so no outcome
   contamination is possible through the model. Preliminary results were presented at three
-  academic talks: one team member (Max Pellert) attended one of them, a passive exposure that
-  is declared in the team's signed exposure declaration submitted with the deposit email
-  (per the benchmark's rules this is declared, not disqualifying). No other member had any
-  exposure through any channel, and no information from that talk was shared within the team
-  or used in this entry.
+  academic talks: one team member (Max Pellert) attended one — a 5-minute talk at the
+  Behavioral Clones workshop, MPI for Human Development, Berlin, May 2026 — a passive
+  exposure confirmed with the benchmark organizers (20 Aug 2026) and declared in the team's
+  signed exposure declaration (per the benchmark's rules this is declared, not
+  disqualifying). No other member had any exposure through any channel, and no information
+  from that talk was shared within the team or used in this entry (see I.3).
 
 ## J · Internal selection procedure
 - **J.1 Design-space search †** — how the final pipeline was chosen: how many configurations tried, internal validation criterion, what data it ran against:
